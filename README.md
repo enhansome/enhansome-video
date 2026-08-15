@@ -117,8 +117,8 @@
 
 ## Encoding & Codecs
 
-* [RIFE (AI Frame Interpolation)](https://github.com/hzwer/arXiv2020-RIFE) ⭐ 5,561 | 🐛 71 | 🌐 Python | 📅 2025-09-10 - An AI-based method (Real-Time Intermediate Flow Estimation) for frame interpolation to create slow-motion videos by generating intermediate frames between existing ones.
-* [JPEG XL Reference Implementation](https://github.com/libjxl/libjxl) ⭐ 3,621 | 🐛 471 | 🌐 C++ | 📅 2026-08-14 - The official reference implementation of the JPEG XL image format, offering both lossy and lossless compression. This project is valuable for developers working on image and video processing applications that require efficient compression techniques.
+* [RIFE (AI Frame Interpolation)](https://github.com/hzwer/arXiv2020-RIFE) ⭐ 5,562 | 🐛 71 | 🌐 Python | 📅 2025-09-10 - An AI-based method (Real-Time Intermediate Flow Estimation) for frame interpolation to create slow-motion videos by generating intermediate frames between existing ones.
+* [JPEG XL Reference Implementation](https://github.com/libjxl/libjxl) ⭐ 3,622 | 🐛 472 | 🌐 C++ | 📅 2026-08-15 - The official reference implementation of the JPEG XL image format, offering both lossy and lossless compression. This project is valuable for developers working on image and video processing applications that require efficient compression techniques.
 * [Simple Binary Encoding (SBE)](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,486 | 🐛 43 | 🌐 Java | 📅 2026-07-27 - SBE is a high-performance message codec designed for low-latency applications. It provides efficient encoding and decoding of messages, making it suitable for real-time video streaming and encoding scenarios.
 * [videojs-record FFmpeg.WebAssembly Plugin](https://github.com/collab-project/videojs-record/blob/master/docs/plugins/ffmpeg.wasm.md) ⭐ 1,432 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-07 - The FFmpeg.WebAssembly plugin for videojs-record allows developers to run FFmpeg directly in the browser using WebAssembly. This enables on-the-fly transcoding of recorded media without the need for server-side processing. It's particularly useful for applications requiring real-time video manipulation and supports various FFmpeg options for customized encoding.
 * [JCodec](https://github.com/jcodec/jcodec) ⭐ 1,299 | 🐛 244 | 🌐 Java | 📅 2025-05-14 - A pure Java library for video and audio codecs, including support for H.264 and AAC decoding, aimed at processing media without native dependencies.
@@ -216,8 +216,8 @@
 * [uvg266 - Open-source VVC/H.266 Encoder](https://github.com/ultravideo/uvg266) ⭐ 290 | 🐛 4 | 🌐 C | 📅 2026-04-24 - Open-source VVC/H.266 encoder licensed under 3-clause BSD, developed by University of Helsinki's Ultra Video Group. Still under active development with ongoing RD-quality and speed improvements.
 * [svt-av1-hdr](https://github.com/juliobbv-p/svt-av1-hdr) ⭐ 239 | 🐛 7 | 🌐 C | 📅 2026-07-15 - SVT-AV1 fork with perceptual, HDR, and film-grain optimizations from ex-PSY team members, tuned for high-fidelity AV1 encoding.
 * [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) ⭐ 236 | 🐛 1 | 🌐 Batchfile | 📅 2026-07-27 - Ready-to-use prebuilt VVC (H.266) binaries and players for Windows, macOS, Linux, FreeBSD, Haiku, Android, and WebAssembly. Includes vvdec, vvenc, uvg266 encoders/decoders, and FFmpeg builds with VVC support.
-* [SVT-AV1-Essential](https://github.com/nekotrix/SVT-AV1-Essential) ⭐ 228 | 🐛 11 | 🌐 C | 📅 2026-06-08 - Streamlined SVT-AV1 encoder fork with sensible defaults and quality-of-life improvements tuned for non-low-latency high-resolution encoding.
-* [avm (AOM Video Model) — AV2 reference codec](https://github.com/AOMediaCodec/avm) ⭐ 204 | 🐛 48 | 🌐 C | 📅 2026-08-14 - AOMedia's reference encoder/decoder for the next-gen AV2 codec (successor to AV1); experimental research codebase with first 1.0.0 tag.
+* [SVT-AV1-Essential](https://github.com/nekotrix/SVT-AV1-Essential) ⭐ 229 | 🐛 11 | 🌐 C | 📅 2026-06-08 - Streamlined SVT-AV1 encoder fork with sensible defaults and quality-of-life improvements tuned for non-low-latency high-resolution encoding.
+* [avm (AOM Video Model) — AV2 reference codec](https://github.com/AOMediaCodec/avm) ⭐ 204 | 🐛 46 | 🌐 C | 📅 2026-08-15 - AOMedia's reference encoder/decoder for the next-gen AV2 codec (successor to AV1); experimental research codebase with first 1.0.0 tag.
 * [GstH266Enc](https://github.com/InterDigitalInc/GstH266Enc) ⭐ 12 | 🐛 0 | 🌐 C | 📅 2023-02-08 - InterDigital GStreamer plugin wrapping a VVC/H.266 encoder (vvenc or uvg266) for pipeline-based encoding, Meson build.
 * [JVET VVC Test Model (VTM) Reference Software](https://jvet.hhi.fraunhofer.de) - Official overview site for Versatile Video Coding (VVC) and the VVC Test Model (VTM) reference software from the Joint Video Experts Team. Hosts VTM encoder/decoder, experimental JEM software, and Benchmark Set (BMS) tools.
 * [VVC/H.266 in GStreamer 1.26 (Igalia)](https://blogs.igalia.com/cadubentzen/vvc-h-266-in-gstreamer-1-26) - Technical writeup on VVC/H.266 support landing in GStreamer 1.26, covering avdec\_h266, vvdec, and Intel hardware vah266dec decode elements.
@@ -225,31 +225,31 @@
 
 ### Encoding Tools
 
-* [Lossless Cut](https://github.com/mifi/lossless-cut) ⭐ 42,923 | 🐛 287 | 🌐 TypeScript | 📅 2026-08-13 - A tool for trimming and cutting video files without re-encoding, preserving the original quality and codec data.
-* [FFmpeg.WebAssembly](https://github.com/ffmpegwasm/ffmpeg.wasm) ⭐ 17,723 | 🐛 421 | 🌐 C | 📅 2026-02-01 - A pure WebAssembly port of FFmpeg that enables video and audio processing directly in the browser. It provides an API to run FFmpeg commands for transcoding or editing media on the web.
-* [Moviepy (GitHub)](https://github.com/Zulko/moviepy) ⭐ 14,849 | 🐛 92 | 🌐 Python | 📅 2026-08-11 - A Python library for video editing and composition that uses FFmpeg backend to create, edit, and manipulate video files programmatically.
-* [LAV Filters](https://github.com/Nevcairiel/LAVFilters) ⭐ 9,079 | 🐛 108 | 🌐 C++ | 📅 2026-08-14 - An open source set of DirectShow filters based on FFmpeg that allow the playback of virtually any audio/video format on Windows (often used within media players like MPC-HC).
-* [Restreamer](https://github.com/datarhei/restreamer) ⭐ 5,163 | 🐛 265 | 🌐 HTML | 📅 2026-05-22 - A user-friendly solution to re-stream video sources (like local RTSP webcams) to streaming platforms. It wraps FFmpeg to publish streams to YouTube, Twitch, or custom servers with a simple UI.
-* [Auto-Editor](https://github.com/WyattBlue/auto-editor) ⭐ 4,884 | 🐛 0 | 🌐 Nim | 📅 2026-08-14 - An automatic video editor written in Python that can remove silence, jump cuts, and more without manual editing. It processes video/audio to create a faster-paced output automatically.
+* [Lossless Cut](https://github.com/mifi/lossless-cut) ⭐ 42,951 | 🐛 286 | 🌐 TypeScript | 📅 2026-08-14 - A tool for trimming and cutting video files without re-encoding, preserving the original quality and codec data.
+* [FFmpeg.WebAssembly](https://github.com/ffmpegwasm/ffmpeg.wasm) ⭐ 17,724 | 🐛 421 | 🌐 C | 📅 2026-02-01 - A pure WebAssembly port of FFmpeg that enables video and audio processing directly in the browser. It provides an API to run FFmpeg commands for transcoding or editing media on the web.
+* [Moviepy (GitHub)](https://github.com/Zulko/moviepy) ⭐ 14,851 | 🐛 92 | 🌐 Python | 📅 2026-08-11 - A Python library for video editing and composition that uses FFmpeg backend to create, edit, and manipulate video files programmatically.
+* [LAV Filters](https://github.com/Nevcairiel/LAVFilters) ⭐ 9,084 | 🐛 108 | 🌐 C++ | 📅 2026-08-14 - An open source set of DirectShow filters based on FFmpeg that allow the playback of virtually any audio/video format on Windows (often used within media players like MPC-HC).
+* [Restreamer](https://github.com/datarhei/restreamer) ⭐ 5,164 | 🐛 265 | 🌐 HTML | 📅 2026-05-22 - A user-friendly solution to re-stream video sources (like local RTSP webcams) to streaming platforms. It wraps FFmpeg to publish streams to YouTube, Twitch, or custom servers with a simple UI.
+* [Auto-Editor](https://github.com/WyattBlue/auto-editor) ⭐ 4,915 | 🐛 0 | 🌐 Nim | 📅 2026-08-15 - An automatic video editor written in Python that can remove silence, jump cuts, and more without manual editing. It processes video/audio to create a faster-paced output automatically.
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg) ⭐ 4,743 | 🐛 201 | 🌐 C | 📅 2023-04-11 - 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ).
 * [FFmpeg Android Java](https://github.com/WritingMinds/ffmpeg-android-java) ⭐ 3,343 | 🐛 274 | 🌐 Java | 📅 2021-07-31 - Android java library for FFmpeg binary compiled using <HTTPS://GitHub.com/writingminds/FFmpeg-android> ⭐ 1,648 | 🐛 81 | 🌐 Shell | 📅 2021-11-12.
-* [PyAV](https://github.com/PyAV-Org/PyAV) ⭐ 3,266 | 🐛 4 | 🌐 Python | 📅 2026-08-13 - A Pythonic binding for FFmpeg's libraries (Libav). PyAV allows Python programs to read, write, and manipulate video and audio data by leveraging the powerful FFmpeg backend.
+* [PyAV](https://github.com/PyAV-Org/PyAV) ⭐ 3,266 | 🐛 4 | 🌐 Python | 📅 2026-08-15 - A Pythonic binding for FFmpeg's libraries (Libav). PyAV allows Python programs to read, write, and manipulate video and audio data by leveraging the powerful FFmpeg backend.
 * [Flowblade](https://github.com/jliljebl/flowblade) ⭐ 3,082 | 🐛 59 | 🌐 Python | 📅 2026-06-23 - A free, open-source video editor for cutting, compositing, and editing video with a timeline-based interface.
-* [StaxRip](https://github.com/staxrip/staxrip) ⭐ 2,963 | 🐛 156 | 🌐 Visual Basic .NET | 📅 2026-08-08 - A versatile video encoding GUI for Windows, utilizing a variety of open source tools (AviSynth/VapourSynth, x264/x265, etc.) for advanced encoding workflows.
+* [StaxRip](https://github.com/staxrip/staxrip) ⭐ 2,963 | 🐛 157 | 🌐 Visual Basic .NET | 📅 2026-08-08 - A versatile video encoding GUI for Windows, utilizing a variety of open source tools (AviSynth/VapourSynth, x264/x265, etc.) for advanced encoding workflows.
 * [MP4Box JS](https://github.com/gpac/mp4box.js) ⭐ 2,459 | 🐛 40 | 🌐 TypeScript | 📅 2026-07-28 - JavaScript version of GPAC's MP4Box tool.
 * [goav](https://github.com/giorgisio/goav) ⭐ 2,135 | 🐛 48 | 🌐 Go | 📅 2022-05-19 - Go bindings for FFmpeg's libav\* libraries. It allows developers to leverage FFmpeg's powerful audio and video processing features in Go applications.
 * [VidCutter](https://github.com/ozmartian/vidcutter) ⭐ 1,974 | 🐛 297 | 🌐 Python | 📅 2025-04-24 - An open source cross-platform tool for fast video trimming and joining. VidCutter focuses on doing simple cuts without re-encoding, using intelligent scene detection and supporting many formats via FFmpeg.
-* [Mlt](https://github.com/mltframework/mlt) ⭐ 1,831 | 🐛 49 | 🌐 C | 📅 2026-08-07 - Cross-platform multimedia framework for video editing, processing, and playback applications.
+* [Mlt](https://github.com/mltframework/mlt) ⭐ 1,831 | 🐛 48 | 🌐 C | 📅 2026-08-15 - Cross-platform multimedia framework for video editing, processing, and playback applications.
 * [OpenShot Library (libopenshot)](https://github.com/OpenShot/libopenshot) ⭐ 1,535 | 🐛 46 | 🌐 C++ | 📅 2026-07-26 - The C++ library behind OpenShot Video Editor that provides core video editing functionalities (timeline, effects, keyframes). libopenshot can be used independently to build custom video editing applications.
 * [Ffmediaelement](https://github.com/unosquare/ffmediaelement) ⭐ 1,274 | 🐛 74 | 🌐 C# | 📅 2024-06-26 - FFME: The Advanced WPF MediaElement (based on FFmpeg).
 * [Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android) ⭐ 982 | 🐛 34 | 🌐 Java | 📅 2020-11-25 - An Android library to compose and edit MP4 videos using MediaCodec, supporting filters, scaling, trimming, transcoding, cropping, time scaling, and rotation.
 * [vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 952 | 🐛 9 | 🌐 C | 📅 2026-08-14 - An open source video stabilization library, used with FFmpeg to stabilize shaky footage by analyzing and smoothing camera motion.
-* [VidCoder](https://github.com/RandomEngy/VidCoder) ⭐ 860 | 🐛 571 | 🌐 C# | 📅 2026-08-13 - An open source Windows application for converting and ripping video files and DVDs/Blu-rays, built on the HandBrake engine with an enhanced user interface.
-* [go-astiav](https://github.com/asticode/go-astiav) ⭐ 730 | 🐛 0 | 🌐 Go | 📅 2026-08-12 - A comprehensive Go binding for FFmpeg's libav\* libraries, facilitating the building of media applications in Go with FFmpeg's capabilities.
+* [VidCoder](https://github.com/RandomEngy/VidCoder) ⭐ 860 | 🐛 570 | 🌐 C# | 📅 2026-08-15 - An open source Windows application for converting and ripping video files and DVDs/Blu-rays, built on the HandBrake engine with an enhanced user interface.
+* [go-astiav](https://github.com/asticode/go-astiav) ⭐ 730 | 🐛 1 | 🌐 Go | 📅 2026-08-15 - A comprehensive Go binding for FFmpeg's libav\* libraries, facilitating the building of media applications in Go with FFmpeg's capabilities.
 * [Swift Video Generator](https://github.com/dev-labs-bg/swift-video-generator) ⭐ 655 | 🐛 27 | 🌐 Swift | 📅 2024-04-04 - Dev-labs-bg/swift-video-generator - A GitHub repository for video/multimedia development.
 * [mp4ff](https://github.com/edgeware/mp4ff) ⭐ 652 | 🐛 5 | 🌐 Go | 📅 2026-08-11 - A Golang library and set of tools for parsing and writing MP4 (ISO BMFF) files, including support for fragmented MP4 and progressive MP4.
-* [Voctomix](https://github.com/voc/voctomix) ⭐ 634 | 🐛 96 | 🌐 Python | 📅 2026-08-14 - Full-HD Software Live-Video-Mixer in Python.
-* [gstreamer-rs](https://github.com/sdroege/gstreamer-rs) ⭐ 595 | 🐛 0 | 🌐 Rust | 📅 2026-08-05 - Rust language bindings for the GStreamer multimedia framework, allowing developers to create GStreamer pipelines and plugins in Rust.
+* [Voctomix](https://github.com/voc/voctomix) ⭐ 634 | 🐛 98 | 🌐 Python | 📅 2026-08-14 - Full-HD Software Live-Video-Mixer in Python.
+* [gstreamer-rs](https://github.com/sdroege/gstreamer-rs) ⭐ 595 | 🐛 0 | 🌐 Rust | 📅 2026-08-15 - Rust language bindings for the GStreamer multimedia framework, allowing developers to create GStreamer pipelines and plugins in Rust.
 * [MystiQ Video Converter](https://github.com/swl-x/MystiQ) ⭐ 595 | 🐛 42 | 🌐 C++ | 📅 2024-06-12 - A cross-platform FFmpeg GUI for converting audio and video. MystiQ offers an intuitive interface, preset profiles for common formats (MP4, WEBM, MP3, etc.), and options for advanced users to tweak encoding parameters.
 * [Xuggler](https://github.com/artclarke/xuggle-xuggler) ⭐ 366 | 🐛 8 | 🌐 C | 📅 2014-11-22 - An open source Java library (now discontinued) that wrapped FFmpeg functionality, enabling Java developers to decode, encode, and stream video.
 * [CloudTranscode](https://github.com/bfansports/CloudTranscode) ⭐ 300 | 🐛 2 | 🌐 PHP | 📅 2026-08-04 - Distributed videos and images encoding/transcoding using Amazon SFN, FFmpeg and ImageMagic.
@@ -298,7 +298,7 @@
 
 #### FFmpeg
 
-* [FFmpeg (FFmpeg)](https://github.com/FFmpeg/FFmpeg) ⭐ 63,306 | 🐛 3 | 🌐 C | 📅 2026-08-14 - Mirror of git://source.FFmpeg.org/FFmpeg.git.
+* [FFmpeg (FFmpeg)](https://github.com/FFmpeg/FFmpeg) ⭐ 63,330 | 🐛 3 | 🌐 C | 📅 2026-08-15 - Mirror of git://source.FFmpeg.org/FFmpeg.git.
 * [FFmpeg Python (kkroening)](https://github.com/kkroening/ffmpeg-python) ⭐ 11,004 | 🐛 525 | 🌐 Python | 📅 2024-08-04 - A Python wrapper for FFmpeg that simplifies interaction with the FFmpeg command-line tool for encoding, decoding, and processing video and audio.
 * [Node Fluent FFmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) ⚠️ Archived - A fluent API to FFmpeg (<HTTP://www.FFmpeg.org>).
 * [FFmpeg JS](https://github.com/Kagami/ffmpeg.js) ⭐ 3,463 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg with Emscripten.
@@ -307,10 +307,10 @@
 * [FFmpeg CLI Wrapper](https://github.com/bramp/ffmpeg-cli-wrapper) ⭐ 1,906 | 🐛 16 | 🌐 Java | 📅 2026-08-09 - Java wrapper around the FFmpeg command line tool.
 * [FFmpeg (GitHub)](https://github.com/jrottenberg/ffmpeg) ⭐ 1,643 | 🐛 129 | 🌐 Python | 📅 2026-07-26 - Docker build for FFmpeg on Ubuntu / Alpine / CentOS 7 / Scratch.
 * [FFmpeg AutoGen (C#)](https://github.com/Ruslan-B/FFmpeg.AutoGen) ⭐ 1,605 | 🐛 9 | 🌐 C# | 📅 2026-04-28 - A set of auto-generated P/Invoke bindings for FFmpeg libraries. FFmpeg.AutoGen allows.NET developers to directly use FFmpeg's C API in C# for advanced media processing tasks.
-* [FFmpeg Build Script](https://github.com/markus-perl/ffmpeg-build-script) ⭐ 1,212 | 🐛 3 | 🌐 Shell | 📅 2026-08-13 - An easy way to build a static FFmpeg on macOS and Linux with non-free codecs included.
+* [FFmpeg Build Script](https://github.com/markus-perl/ffmpeg-build-script) ⭐ 1,213 | 🐛 3 | 🌐 Shell | 📅 2026-08-13 - An easy way to build a static FFmpeg on macOS and Linux with non-free codecs included.
 * [Awesome FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) ⭐ 1,181 | 🐛 16 | 📅 2025-08-09 - A curated list of awesome FFmpeg resources.
 * [FFmpeg Windows Build Helpers](https://github.com/rdp/ffmpeg-windows-build-helpers) ⭐ 1,164 | 🐛 56 | 🌐 Shell | 📅 2026-03-16 - Helper script for cross compiling some media tools for windows, like customizable FFmpeg.exe (with or without non-free components, etc), and some other bonuses like mplayer, mp4box, mxf, etc.
-* [ab-av1](https://github.com/alexheretic/ab-av1) ⭐ 969 | 🐛 71 | 🌐 Rust | 📅 2026-08-09 - CLI tool for AV1 (and x264/x265) re-encoding using fast VMAF sampling plus automatic CRF binary search to hit a target quality. Wraps FFmpeg/svt-av1/vmaf.
+* [ab-av1](https://github.com/alexheretic/ab-av1) ⭐ 971 | 🐛 73 | 🌐 Rust | 📅 2026-08-09 - CLI tool for AV1 (and x264/x265) re-encoding using fast VMAF sampling plus automatic CRF binary search to hit a target quality. Wraps FFmpeg/svt-av1/vmaf.
 * [GMF (Go Media Framework)](https://github.com/3d0c/gmf) ⭐ 933 | 🐛 49 | 🌐 Go | 📅 2022-09-06 - A Go binding for FFmpeg that simplifies working with multimedia in Go, providing high-level access to FFmpeg's decoding and encoding functionality.
 * [rsmpeg](https://github.com/larksuite/rsmpeg) ⭐ 878 | 🐛 14 | 🌐 Rust | 📅 2025-08-24 - Rust crate exposing the FFmpeg libav C API safely; actively maintained with FFmpeg 6/7 support for building multimedia apps.
 * [AWS Lambda FFmpeg](https://github.com/binoculars/aws-lambda-ffmpeg) ⚠️ Archived - An S3-triggered Amazon Web Services Lambda function that runs your choice of FFmpeg 🎬 commands on a file 🎥 and uploads the outputs to a bucket.
@@ -366,10 +366,10 @@
 
 ### Hardware Accelerated Transcoding
 
-* [Granite — Vulkan engine with zero-copy GPU video decode](https://github.com/Themaister/Granite) ⭐ 1,932 | 🐛 2 | 🌐 C++ | 📅 2026-08-14 - Vulkan rendering engine with GPU video decode to RGB with no memory round-trip (ffmpeg\_decode), by Hans-Kristian Arntzen.
-* [NVEnc / NVEncC — NVENC transcode CLI](https://github.com/rigaya/NVEnc) ⭐ 1,368 | 🐛 9 | 🌐 C++ | 📅 2026-08-13 - Actively maintained NVENC-based transcoding CLI (NVEncC) supporting H.264/HEVC/AV1 with low-latency mode and rich hardware filtering.
+* [Granite — Vulkan engine with zero-copy GPU video decode](https://github.com/Themaister/Granite) ⭐ 1,935 | 🐛 2 | 🌐 C++ | 📅 2026-08-15 - Vulkan rendering engine with GPU video decode to RGB with no memory round-trip (ffmpeg\_decode), by Hans-Kristian Arntzen.
+* [NVEnc / NVEncC — NVENC transcode CLI](https://github.com/rigaya/NVEnc) ⭐ 1,368 | 🐛 9 | 🌐 C++ | 📅 2026-08-15 - Actively maintained NVENC-based transcoding CLI (NVEncC) supporting H.264/HEVC/AV1 with low-latency mode and rich hardware filtering.
 * [FFmpeg-rockchip — Rockchip MPP+RGA FFmpeg Fork](https://github.com/nyanmisaka/ffmpeg-rockchip) ⭐ 1,268 | 🐛 9 | 🌐 C | 📅 2026-08-10 - FFmpeg fork with async zero-copy Rockchip MPP + RGA integration, exposing h264\_rkmpp/hevc\_rkmpp/vp9\_rkmpp codecs for full hardware transcode.
-* [go-livepeer — decentralized GPU transcoding](https://github.com/livepeer/go-livepeer) ⭐ 585 | 🐛 387 | 🌐 Go | 📅 2026-08-14 - Go implementation of the Livepeer protocol with Broadcaster/Orchestrator/Transcoder roles enabling split-farm remote multi-GPU video transcoding over streaming RPC.
+* [go-livepeer — decentralized GPU transcoding](https://github.com/livepeer/go-livepeer) ⭐ 585 | 🐛 384 | 🌐 Go | 📅 2026-08-15 - Go implementation of the Livepeer protocol with Broadcaster/Orchestrator/Transcoder roles enabling split-farm remote multi-GPU video transcoding over streaming RPC.
 * [GMAT — NVIDIA GPU media processing toolkit](https://github.com/NVIDIA/GMAT) ⭐ 195 | 🐛 4 | 🌐 C | 📅 2023-08-07 - NVIDIA datacenter GPU video/image processing and transcode toolkit (formerly FFmpeg-gpu-demo) with smart decode and HEIF via NVENC/NVDEC.
 * [HWEncoderX](https://github.com/MacRimi/HWEncoderX) ⭐ 23 | 🐛 0 | 🌐 Shell | 📅 2025-02-02 - Docker container for automatic H.265 video transcoding using GPU hardware acceleration (VAAPI for Intel/AMD, NVENC for NVIDIA, Intel Quick Sync). Includes Telegram notifications, quality optimization, and constant monitoring of input directories.
 * [Vaapi Video Converter](https://github.com/git-developer/vaapi-video-converter) ⚠️ Archived - A docker-based video converter that uses VAAPI-compatible hardware for transcoding.
@@ -399,7 +399,7 @@
 
 #### AV1
 
-* [rav1d — memory-safe AV1 decoder in Rust](https://github.com/memorysafety/rav1d) ⭐ 639 | 🐛 110 | 🌐 Assembly | 📅 2026-08-14 - A Rust port of the dav1d AV1 decoder by ISRG/Prossimo, providing a memory-safe, performance-competitive decoder for the AV1 codec.
+* [rav1d — memory-safe AV1 decoder in Rust](https://github.com/memorysafety/rav1d) ⭐ 639 | 🐛 109 | 🌐 Assembly | 📅 2026-08-14 - A Rust port of the dav1d AV1 decoder by ISRG/Prossimo, providing a memory-safe, performance-competitive decoder for the AV1 codec.
 * [SVT-AV1-PSY — psychovisual SVT-AV1 fork](https://github.com/psy-ex/svt-av1-psy) ⚠️ Archived - Community fork of SVT-AV1 adding psychovisual fidelity enhancements (perceptual tuning, metrics) that are being upstreamed to the mainline encoder.
 * [SVT-AV1-PSYEX](https://github.com/BlueSwordM/svt-av1-psyex) ⭐ 183 | 🐛 15 | 🌐 C | 📅 2026-01-15 - Actively-maintained fork of SVT-AV1 with psychovisual tuning; improves default perceptual quality settings. Successor to the discontinued psy-ex fork.
 * [grav1synth — AV1 Grain Synthesis Analyzer/Editor](https://github.com/rust-av/grav1synth) ⭐ 91 | 🐛 15 | 🌐 Rust | 📅 2026-04-30 - Rust tool to extract, strip, and estimate film-grain synthesis tables from encoded AV1 files by comparing source vs denoised diffs.
@@ -452,7 +452,7 @@
 
 * [Proryanator/encoder-benchmark — Realtime HW Encode Benchmark](https://github.com/Proryanator/encoder-benchmark) ⭐ 108 | 🐛 28 | 🌐 Rust | 📅 2024-06-13 - Rust tool benchmarking real-time hardware encode fps, with permutor-cli automating bitrate/resolution/fps/quality permutation testing.
 * [xiph/awcy — Are We Compressed Yet?](https://github.com/xiph/awcy) ⭐ 80 | 🐛 62 | 🌐 Python | 📅 2026-06-03 - Distributed encode/decode + BD-rate + VMAF codec comparison harness used by AOM for AV1 (libaom, SVT-AV1, rav1e), with comparative reports and dataset management.
-* [av1parser](https://github.com/yohhoy/av1parser) ⭐ 42 | 🐛 1 | 🌐 Rust | 📅 2021-09-29 - Rust AV1 bitstream parser that dissects OBU/header structure for low-level stream inspection (not a full decoder).
+* [av1parser](https://github.com/yohhoy/av1parser) ⭐ 42 | 🐛 2 | 🌐 Rust | 📅 2021-09-29 - Rust AV1 bitstream parser that dissects OBU/header structure for low-level stream inspection (not a full decoder).
 * [FAU-LMS/bjontegaard — BD-Rate Python Library](https://github.com/FAU-LMS/bjontegaard) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2024-07-03 - Pip-installable BD-rate calculator with cubic-spline/PCHIP/Akima interpolation plus RCD plots; PCHIP matches Excel to 10 decimals.
 * [IENT/RDPlot — Rate-Distortion Plotting Tool](https://github.com/IENT/RDPlot) ⭐ 36 | 🐛 3 | 🌐 R | 📅 2026-04-28 - Qt GUI that parses encoder logs from reference software (HM/VTM/etc) and plots rate-distortion curves.
 * [tdaede/rd\_tool — AWCY Encode Backend](https://github.com/tdaede/rd_tool) ⭐ 21 | 🐛 19 | 🌐 Python | 📅 2026-06-03 - Encode/decode/metrics job-distribution backend for Are We Compressed Yet, distributing codec RD tests over worker cores.
@@ -464,7 +464,7 @@
 
 * [RTSP Stream](https://github.com/Roverr/rtsp-stream) ⚠️ Archived - Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.
 * [StreamPack - Multiprotocol live streaming broadcaster libraries for Android](https://github.com/ThibaultBee/StreamPack) ⭐ 362 | 🐛 13 | 🌐 Kotlin | 📅 2026-07-21 - StreamPack is a lightweight, high-performance toolkit for building streaming video processing pipelines on Android. It provides reusable components for frame sources, transformations, encoding, and output, making it easy to develop efficient real-time video applications with a modular and composable architecture.
-* [go-transcode](https://github.com/m1k1o/go-transcode) ⭐ 293 | 🐛 26 | 🌐 Go | 📅 2025-06-17 - On-demand HTTP transcoding origin for live inputs and static files with NVIDIA GPU acceleration via Docker.
+* [go-transcode](https://github.com/m1k1o/go-transcode) ⭐ 294 | 🐛 26 | 🌐 Go | 📅 2025-06-17 - On-demand HTTP transcoding origin for live inputs and static files with NVIDIA GPU acceleration via Docker.
 * [Gstreamill](https://github.com/i4tv/gstreamill) ⭐ 248 | 🐛 16 | 🌐 C | 📅 2022-04-28 - Encoder with hls output based on gstreamer.
 * [ABR Broadcaster](https://github.com/jkarthic-akamai/ABR-Broadcaster) ⭐ 94 | 🐛 7 | 🌐 Python | 📅 2020-06-17 - A real time encoder for Adaptive Bitrate Broadcast.
 * [LiveForge](https://github.com/im-pingo/liveforge) ⭐ 18 | 🐛 3 | 🌐 Go | 📅 2026-08-03 - Go single-binary multi-protocol live media server supporting RTMP/RTSP/SRT/WHIP/WHEP/HLS/LL-HLS/DASH ingest and delivery.
@@ -475,8 +475,8 @@
 
 ### Scripting & Automation Tools
 
-* [Av1an](https://github.com/master-of-zen/Av1an) ⭐ 1,970 | 🐛 160 | 🌐 Rust | 📅 2026-08-03 - Cross-platform command-line AV1 encode toolkit. Contribute to master-of-zen/Av1an development by creating an account on GitHub.
-* [Av1an (GitHub)](https://github.com/rust-av/Av1an) ⭐ 1,970 | 🐛 160 | 🌐 Rust | 📅 2026-08-03 - Cross-platform CLI chunked-encoding framework enabling parallel per-scene encoding for AV1, VP9, HEVC, and H.264 with per-scene quality targeting.
+* [Av1an](https://github.com/master-of-zen/Av1an) ⭐ 1,971 | 🐛 160 | 🌐 Rust | 📅 2026-08-03 - Cross-platform command-line AV1 encode toolkit. Contribute to master-of-zen/Av1an development by creating an account on GitHub.
+* [Av1an (GitHub)](https://github.com/rust-av/Av1an) ⭐ 1,971 | 🐛 160 | 🌐 Rust | 📅 2026-08-03 - Cross-platform CLI chunked-encoding framework enabling parallel per-scene encoding for AV1, VP9, HEVC, and H.264 with per-scene quality targeting.
 * [Other Video Transcoding](https://github.com/donmelton/other_video_transcoding) ⭐ 588 | 🐛 49 | 🌐 Ruby | 📅 2025-01-21 - Other tools to transcode videos.
 * [Distributed FFmpeg Transcoding Cluster](https://github.com/chn-lee-yumi/distributed_ffmpeg_transcoding_cluster) ⭐ 40 | 🐛 0 | 🌐 Shell | 📅 2025-03-26 - 分布式FFmpeg转码集群。A FFmpeg transcoding cluster runs in variable CPUs, including ARM, x86, and others which can run linux. You can use it to run a RaspberryPi cluster.
 * [Batch Python FFmpeg Tutorial](https://github.com/Azure-Samples/batch-python-ffmpeg-tutorial) ⚠️ Archived - A Python application that uses Batch to process media files in parallel with the FFmpeg open-source tool.
@@ -546,12 +546,12 @@
 * [Vireo](https://github.com/twitter/vireo) ⭐ 956 | 🐛 15 | 🌐 C++ | 📅 2021-10-21 - A lightweight and versatile video processing library written in C++11.
 * [NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes) ⭐ 564 | 🐛 25 | 🌐 C# | 📅 2024-04-26 - GUI Handler for AV1 Encoders (aomenc, rav1e & svt-av1).
 * [Codem Transcode](https://github.com/madebyhiro/codem-transcode) ⚠️ Archived - Offline video transcoder written in Node.js.
-* [MediaMolder - FFmpeg for the AI era](https://github.com/MediaMolder/mediamolder) ⭐ 107 | 🐛 0 | 🌐 Go | 📅 2026-08-11 - A rewrite of the interface and orchestration layers of FFmpeg: a graphical interface to visualize, edit, validate and run processing graphs, jobs defined in JSON files, import of any FFmpeg command line, and a real-time encoding control system.
+* [MediaMolder - FFmpeg for the AI era](https://github.com/MediaMolder/mediamolder) ⭐ 107 | 🐛 0 | 🌐 Go | 📅 2026-08-15 - A rewrite of the interface and orchestration layers of FFmpeg: a graphical interface to visualize, edit, validate and run processing graphs, jobs defined in JSON files, import of any FFmpeg command line, and a real-time encoding control system.
 * [Dolby Encoding Engine Plugins](https://github.com/DolbyLaboratories/dolby-encoding-engine/tree/master/plugins) ⭐ 78 | 🐛 0 | 🌐 C++ | 📅 2026-03-25 - Contribute to DolbyLaboratories/dolby-encoding-engine development by creating an account on GitHub.
 * [Rate Control Tests](https://github.com/slhck/rate-control-tests) ⭐ 54 | 🐛 1 | 🌐 R | 📅 2017-05-04 - Tests for different rate control modes in x264. Contribute to slhck/rate-control-tests development by creating an account on GitHub.
 * [Node Transcoding](https://github.com/benvanik/node-transcoding) ⭐ 48 | 🐛 1 | 🌐 C++ | 📅 2011-11-30 - Node.js video transcoding library.
 * [Fantastic Transcoder](https://github.com/ClearSlide/Fantastic-Transcoder) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2017-11-30 - A video transcoder which utilizes massively parallel compute to achieve ludicrous conversion speeds.
-* [Django Video Transcoding](https://github.com/just-work/django-video-transcoding) ⭐ 23 | 🐛 8 | 🌐 Python | 📅 2026-08-12 - Simple video transcoding application for Django Framework.
+* [Django Video Transcoding](https://github.com/just-work/django-video-transcoding) ⭐ 23 | 🐛 8 | 🌐 Python | 📅 2026-08-15 - Simple video transcoding application for Django Framework.
 * [React Native Transcode](https://github.com/selsamman/react-native-transcode) ⭐ 13 | 🐛 20 | 🌐 Objective-C | 📅 2023-01-04 - Video Transcoder for React Native.
 * [transcode2H265](https://github.com/amaurypm/transcode2H265) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - Unattended video transcoder to H265 and ACC codecs, in MKV containers.
 * [Av1transcoder](https://github.com/luziferius/av1transcoder) ⭐ 6 | 🐛 4 | 🌐 Python | 📅 2021-06-11 - Transcode video files to the AV1 format using FFmpeg and libaom-av1.
@@ -559,7 +559,7 @@
 
 ### Open Source Encoder Projects
 
-* [Rav1e](https://github.com/xiph/rav1e) ⭐ 4,142 | 🐛 258 | 🌐 Assembly | 📅 2026-08-11 - The fastest and safest AV1 encoder.
+* [Rav1e](https://github.com/xiph/rav1e) ⭐ 4,143 | 🐛 258 | 🌐 Assembly | 📅 2026-08-11 - The fastest and safest AV1 encoder.
 * [Video Compression Motion Estimation Block Video Encoder](https://github.com/AK1194/Video-Compression-motion-estimation-block-video-encoder) ⭐ 13 | 🐛 0 | 🌐 MATLAB | 📅 2020-09-14 - This repository is about video compression, and more specifically about the motion estimation block (ME block) of a video encoder.
 * [multicoreware / x265 / wiki / Home — Bitbucket](https://bitbucket.org/multicoreware/x265_git/wiki/Home) - Documentation and development wiki for x265, an open-source H.265/HEVC video encoder project hosted on Bitbucket.
 * [x265 Documentation — x265  documentation](https://x265.readthedocs.io/en/master) - Complete documentation for x265, an open-source HEVC video encoder library and application.
@@ -595,44 +595,44 @@
 
 ## Media Tools
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 184,473 | 🐛 2,609 | 🌐 Python | 📅 2026-08-04 - A command-line program to download videos from YouTube and many other video platforms. It's a fork of YouTube-dl with additional features and fixes, widely used for video retrieval.
-* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,364 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - A real-time multi-person keypoint detection library (for body, face, and hands) by CMU. Often used on video to extract pose information frame-by-frame for animation or analysis.
-* [Lux (Media Downloader)](https://github.com/iawia002/lux) ⭐ 31,623 | 🐛 545 | 🌐 Go | 📅 2026-03-29 - A command-line media downloader (formerly known as "annie") that supports downloading videos and audio from various websites in high quality, similar to YouTube-dl but in Go.
-* [VHS (Terminal Recorder)](https://github.com/charmbracelet/vhs) ⭐ 20,635 | 🐛 169 | 🌐 Go | 📅 2026-08-12 - A tool for turning terminal sessions into animated GIFs or videos. VHS lets you script terminal interactions and outputs them as recordings, useful for demos and documentation.
-* [VideoLingo](https://github.com/Huanshere/VideoLingo) ⭐ 18,151 | 🐛 207 | 🌐 Python | 📅 2026-07-02 - An all-in-one video translation, localization, and dubbing tool designed to generate Netflix-quality subtitles. It automates processes such as subtitle cutting, translation, alignment, and dubbing, enabling seamless video localization across language barriers. Key features include YouTube video download via yt-dlp, word-level subtitle recognition with WhisperX, NLP and GPT-based subtitle segmentation, and dubbing alignment with GPT-SoVITS.
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 184,640 | 🐛 2,612 | 🌐 Python | 📅 2026-08-15 - A command-line program to download videos from YouTube and many other video platforms. It's a fork of YouTube-dl with additional features and fixes, widely used for video retrieval.
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,366 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - A real-time multi-person keypoint detection library (for body, face, and hands) by CMU. Often used on video to extract pose information frame-by-frame for animation or analysis.
+* [Lux (Media Downloader)](https://github.com/iawia002/lux) ⭐ 31,626 | 🐛 545 | 🌐 Go | 📅 2026-03-29 - A command-line media downloader (formerly known as "annie") that supports downloading videos and audio from various websites in high quality, similar to YouTube-dl but in Go.
+* [VHS (Terminal Recorder)](https://github.com/charmbracelet/vhs) ⭐ 20,641 | 🐛 168 | 🌐 Go | 📅 2026-08-12 - A tool for turning terminal sessions into animated GIFs or videos. VHS lets you script terminal interactions and outputs them as recordings, useful for demos and documentation.
+* [VideoLingo](https://github.com/Huanshere/VideoLingo) ⭐ 18,152 | 🐛 208 | 🌐 Python | 📅 2026-07-02 - An all-in-one video translation, localization, and dubbing tool designed to generate Netflix-quality subtitles. It automates processes such as subtitle cutting, translation, alignment, and dubbing, enabling seamless video localization across language barriers. Key features include YouTube video download via yt-dlp, word-level subtitle recognition with WhisperX, NLP and GPT-based subtitle segmentation, and dubbing alignment with GPT-SoVITS.
 * [Avatarify](https://github.com/alievk/avatarify) ⭐ 16,518 | 🐛 317 | 🌐 Python | 📅 2024-08-30 - A real-time photorealistic avatar substitution tool. Avatarify uses neural networks to map your facial movements onto a target portrait (e.g., on Zoom or Skype) for fun impersonation or puppeteering.
-* [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) ⭐ 15,634 | 🐛 193 | 🌐 Python | 📅 2026-07-19 - A video subtitle processing assistant based on large language models (LLM). It supports speech recognition, subtitle segmentation, optimization, and translation, providing a comprehensive solution for subtitle generation and integration. The tool offers features such as accurate subtitle generation without GPU, intelligent segmentation and sentence splitting based on LLM, AI subtitle optimization and translation, and batch video subtitle synthesis.
-* [Seafile](https://github.com/haiwen/seafile) ⭐ 15,110 | 🐛 90 | 🌐 C | 📅 2026-08-08 - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+* [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) ⭐ 15,636 | 🐛 193 | 🌐 Python | 📅 2026-07-19 - A video subtitle processing assistant based on large language models (LLM). It supports speech recognition, subtitle segmentation, optimization, and translation, providing a comprehensive solution for subtitle generation and integration. The tool offers features such as accurate subtitle generation without GPU, intelligent segmentation and sentence splitting based on LLM, AI subtitle optimization and translation, and batch video subtitle synthesis.
+* [Seafile](https://github.com/haiwen/seafile) ⭐ 15,119 | 🐛 90 | 🌐 C | 📅 2026-08-08 - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 * [First Order Motion Model](https://github.com/AliaksandrSiarohin/first-order-model) ⭐ 15,014 | 🐛 318 | 🌐 Jupyter Notebook | 📅 2024-11-14 - A famous deep learning model for image animation (e.g., making a single portrait image speak or move) by modeling motion as a first order approximation. Often used in one-shot talking head video generation.
-* [SponsorBlock](https://github.com/ajayyy/SponsorBlock) ⭐ 13,640 | 🐛 437 | 🌐 TypeScript | 📅 2026-08-05 - An open source browser extension to skip sponsor segments in YouTube videos.
-* [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) ⭐ 13,165 | 🐛 370 | 🌐 Python | 📅 2025-06-22 - An AI model that achieves accurate lip-syncing in videos. Given an input video of a person and a target speech audio, Wav2Lip generates a video where the person's lip movements match the audio perfectly.
-* [Open Video Downloader (YouTube-dl GUI)](https://github.com/jely2002/youtube-dl-gui) ⭐ 9,005 | 🐛 53 | 🌐 Rust | 📅 2026-08-11 - A cross-platform GUI for YouTube-dl/yt-dlp that makes it easy to download videos from YouTube and other platforms without using the command line.
-* [BackgroundRemover](https://github.com/nadermx/backgroundremover) ⭐ 8,016 | 🐛 2 | 🌐 Python | 📅 2026-07-10 - An AI-powered command-line tool to remove the background from images and videos. It uses deep learning to perform background removal with a simple interface.
-* [Subsync](https://github.com/smacke/subsync) ⭐ 7,835 | 🐛 68 | 🌐 Python | 📅 2026-07-24 - Automagically synchronize subtitles with video.
-* [ShortGPT](https://github.com/RayVentura/ShortGPT) ⭐ 7,814 | 🐛 86 | 🌐 Python | 📅 2025-02-10 - An experimental AI framework to automate the creation of YouTube Shorts or TikTok videos. ShortGPT can generate video content (scenes, subtitles, etc.) using generative AI models.
-* [VideoReTalking](https://github.com/OpenTalker/video-retalking) ⭐ 7,278 | 🐛 215 | 🌐 Python | 📅 2024-08-05 - A research project (SIGGRAPH Asia 2022) providing code for audio-driven lip synchronization in talking head videos. It enables realistic re-sync of lip movements to new audio on existing footage.
-* [Unison](https://github.com/bcpierce00/unison) ⭐ 5,438 | 🐛 104 | 🌐 OCaml | 📅 2026-08-06 - File synchronization tool useful for keeping video assets and media files in sync across multiple servers or locations.
-* [MMAction2](https://github.com/open-mmlab/mmaction2) ⭐ 5,133 | 🐛 319 | 🌐 Python | 📅 2026-03-18 - An open source toolkit for video understanding by OpenMMLab. It supports state-of-the-art models for action recognition, temporal action detection, and spatio-temporal detection in videos.
-* [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) ⭐ 5,100 | 🐛 70 | 🌐 Python | 📅 2026-08-10 - An open source Python tool for automatic scene cut detection in videos. It can split video content into scenes by detecting fades, cuts, and other transitions.
+* [SponsorBlock](https://github.com/ajayyy/SponsorBlock) ⭐ 13,645 | 🐛 438 | 🌐 TypeScript | 📅 2026-08-05 - An open source browser extension to skip sponsor segments in YouTube videos.
+* [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) ⭐ 13,166 | 🐛 370 | 🌐 Python | 📅 2025-06-22 - An AI model that achieves accurate lip-syncing in videos. Given an input video of a person and a target speech audio, Wav2Lip generates a video where the person's lip movements match the audio perfectly.
+* [Open Video Downloader (YouTube-dl GUI)](https://github.com/jely2002/youtube-dl-gui) ⭐ 9,010 | 🐛 53 | 🌐 Rust | 📅 2026-08-11 - A cross-platform GUI for YouTube-dl/yt-dlp that makes it easy to download videos from YouTube and other platforms without using the command line.
+* [BackgroundRemover](https://github.com/nadermx/backgroundremover) ⭐ 8,017 | 🐛 2 | 🌐 Python | 📅 2026-07-10 - An AI-powered command-line tool to remove the background from images and videos. It uses deep learning to perform background removal with a simple interface.
+* [Subsync](https://github.com/smacke/subsync) ⭐ 7,836 | 🐛 68 | 🌐 Python | 📅 2026-07-24 - Automagically synchronize subtitles with video.
+* [ShortGPT](https://github.com/RayVentura/ShortGPT) ⭐ 7,817 | 🐛 86 | 🌐 Python | 📅 2025-02-10 - An experimental AI framework to automate the creation of YouTube Shorts or TikTok videos. ShortGPT can generate video content (scenes, subtitles, etc.) using generative AI models.
+* [VideoReTalking](https://github.com/OpenTalker/video-retalking) ⭐ 7,277 | 🐛 215 | 🌐 Python | 📅 2024-08-05 - A research project (SIGGRAPH Asia 2022) providing code for audio-driven lip synchronization in talking head videos. It enables realistic re-sync of lip movements to new audio on existing footage.
+* [Unison](https://github.com/bcpierce00/unison) ⭐ 5,440 | 🐛 104 | 🌐 OCaml | 📅 2026-08-06 - File synchronization tool useful for keeping video assets and media files in sync across multiple servers or locations.
+* [MMAction2](https://github.com/open-mmlab/mmaction2) ⭐ 5,135 | 🐛 319 | 🌐 Python | 📅 2026-03-18 - An open source toolkit for video understanding by OpenMMLab. It supports state-of-the-art models for action recognition, temporal action detection, and spatio-temporal detection in videos.
+* [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) ⭐ 5,102 | 🐛 70 | 🌐 Python | 📅 2026-08-10 - An open source Python tool for automatic scene cut detection in videos. It can split video content into scenes by detecting fades, cuts, and other transitions.
 * [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) ⭐ 4,244 | 🐛 51 | 🌐 Python | 📅 2023-05-06 - An AI model (ICCV 2023) for zero-shot text-to-video generation using image diffusion models. It allows generating short video clips from text prompts without training on video data.
 * [Oboe](https://github.com/google/oboe) ⭐ 4,089 | 🐛 161 | 🌐 C++ | 📅 2026-08-13 - A C++ library that wraps OpenSL ES and AAudio, offering high-performance audio operations for Android applications. It simplifies the development of real-time audio apps by providing a consistent API across different Android versions.
-* [Auto-Subs](https://github.com/tmoroney/auto-subs) ⭐ 4,019 | 🐛 235 | 🌐 TypeScript | 📅 2026-08-02 - A tool designed to automatically transcribe editing timelines using OpenAI Whisper and Stable-TS for extreme accuracy. It generates subtitles in a custom style, is completely free, and runs locally within DaVinci Resolve. It works on Mac, Linux, and Windows, supporting both Free and Studio versions of Resolve. Users can jump to positions on the timeline using the Subtitle Navigator and translate from any language to English. The tool provides a user-friendly interface for creating and customizing subtitles for video content.
+* [Auto-Subs](https://github.com/tmoroney/auto-subs) ⭐ 4,026 | 🐛 235 | 🌐 TypeScript | 📅 2026-08-02 - A tool designed to automatically transcribe editing timelines using OpenAI Whisper and Stable-TS for extreme accuracy. It generates subtitles in a custom style, is completely free, and runs locally within DaVinci Resolve. It works on Mac, Linux, and Windows, supporting both Free and Studio versions of Resolve. Users can jump to positions on the timeline using the Subtitle Navigator and translate from any language to English. The tool provides a user-friendly interface for creating and customizing subtitles for video content.
 * [Livestreamer](https://github.com/chrippa/livestreamer) ⭐ 3,863 | 🐛 660 | 🌐 Python | 📅 2022-08-29 - The precursor to Streamlink, a command-line utility that extracted streams from various services to feed into a media player. (No longer maintained, replaced by Streamlink.).
 * [Tartube](https://github.com/axcore/tartube) ⭐ 3,078 | 🐛 22 | 🌐 Python | 📅 2026-07-13 - A GUI front-end for YouTube-dl/yt-dlp on Linux and Windows that helps manage video downloads, subscriptions to channels/playlists, and metadata for offline viewing.
-* [TorchAudio](https://github.com/pytorch/audio) ⭐ 2,924 | 🐛 337 | 🌐 Python | 📅 2026-08-14 - A set of tools and building blocks for audio and speech processing, designed to accelerate the development and deployment of machine learning applications in these domains. It offers GPU-compatible, differentiable, and production-ready components, making it valuable for integrating audio processing into video streaming and encoding workflows.
+* [TorchAudio](https://github.com/pytorch/audio) ⭐ 2,925 | 🐛 337 | 🌐 Python | 📅 2026-08-15 - A set of tools and building blocks for audio and speech processing, designed to accelerate the development and deployment of machine learning applications in these domains. It offers GPU-compatible, differentiable, and production-ready components, making it valuable for integrating audio processing into video streaming and encoding workflows.
 * [Aeneas](https://github.com/readbeyond/aeneas) ⭐ 2,861 | 🐛 37 | 🌐 Python | 📅 2026-07-25 - A Python library and command-line tool for automating the synchronization of audio and text (forced alignment). It can be used to align subtitles with audio tracks, making it useful for developers working on video streaming and encoding projects that require precise subtitle timing.
 * [Shaka Packager](https://github.com/google/shaka-packager) ⭐ 2,575 | 🐛 156 | 🌐 C++ | 📅 2026-07-27 - An open source tool by Google for packaging media content (e.g., creating MPD/manifest and segments) with support for encryption (Widevine, PlayReady, FairPlay). It's often used to prepare content for DASH and HLS with CMAF and DRM, complementing encoding pipelines.
 * [Untrunc](https://github.com/ponchio/untrunc) ⭐ 1,945 | 🐛 193 | 🌐 C++ | 📅 2024-05-23 - A tool to recover and repair corrupted video files (e.g., missing headers) by reconstructing them using a reference file of the same format.
-* [Video Hub App](https://github.com/whyboris/Video-Hub-App) ⭐ 714 | 🐛 138 | 🌐 TypeScript | 📅 2026-08-13 - An electron-based video library organizer that scans folders for video files and presents an interface with thumbnails and search for browsing a video collection.
+* [Video Hub App](https://github.com/whyboris/Video-Hub-App) ⭐ 713 | 🐛 138 | 🌐 TypeScript | 📅 2026-08-13 - An electron-based video library organizer that scans folders for video files and presents an interface with thumbnails and search for browsing a video collection.
 * [Brave](https://github.com/bbc/brave) ⭐ 692 | 🐛 25 | 🌐 Python | 📅 2023-09-01 - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud.
-* [Minyami](https://github.com/Last-Order/Minyami) ⭐ 649 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-14 - A lovely video downloader for HLS videos.
+* [Minyami](https://github.com/Last-Order/Minyami) ⭐ 649 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-15 - A lovely video downloader for HLS videos.
 * [Frei0r Plugins](https://github.com/dyne/frei0r) ⭐ 583 | 🐛 28 | 🌐 C | 📅 2026-06-27 - A collection of free and simple video effect plugins. Frei0r plugins provide dozens of filters, mixers, and generators that can be used in compatible video editors (like LiVES, Flowblade, Kdenlive).
 * [OpenFX (OFX)](https://github.com/AcademySoftwareFoundation/openfx) ⭐ 557 | 🐛 45 | 🌐 C++ | 📅 2026-07-24 - An open standard for visual effects plugins, widely supported in compositing software. It defines a C API for writing plugins (e.g., for Nuke, Natron) that perform image and video processing tasks.
-* [srt](https://github.com/cdown/srt) ⭐ 535 | 🐛 9 | 🌐 Python | 📅 2024-03-19 - A simple library and set of tools for parsing, modifying, and composing SRT files. It offers a straightforward approach to handling subtitle files, making it suitable for developers who need to work with subtitles in their applications.
+* [srt](https://github.com/cdown/srt) ⭐ 535 | 🐛 10 | 🌐 Python | 📅 2024-03-19 - A simple library and set of tools for parsing, modifying, and composing SRT files. It offers a straightforward approach to handling subtitle files, making it suitable for developers who need to work with subtitles in their applications.
 * [pysrt](https://github.com/byroot/pysrt) ⭐ 491 | 🐛 30 | 🌐 Python | 📅 2023-05-09 - A Python library for parsing, modifying, and composing SubRip (SRT) files. It provides developers with tools to handle subtitle files programmatically, enabling tasks such as reading, writing, and editing subtitles within Python applications.
 * [Video.js IMA Plugin](https://github.com/googleads/videojs-ima) ⭐ 488 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-12 - Integrates the Video.js player with Google's IMA SDK, enabling seamless ad integration in HTML5 video players. It supports various ad formats and provides a consistent ad experience across different platforms.
 * [Tero Subtitler](https://github.com/URUWorks/TeroSubtitler) ⭐ 462 | 🐛 83 | 🌐 Pascal | 📅 2026-07-01 - An open-source, cross-platform, and free subtitle editing software with a user-friendly interface. It offers fully-fledged editing with SMPTE and MEDIA modes, support for various subtitle formats, multi-level undo/redo, search and replace, auto-backup, source and transcription modes, translation memory, audiovisual preview, timeline with waveform visualizer, manipulation tools, formatting options, quality control features, translation and transcription capabilities, validation tools, automation for correcting errors, and more. The tool utilizes powerful multimedia playback engines like mpv, advanced audio/video manipulation tools like FFmpeg, tools for automatic transcription like whisper.cpp/Faster-Whisper, auto-translation API like Google Translate, and ElevenLabs TTS for video dubbing.
-* [pysubs2](https://github.com/tkarabela/pysubs2) ⭐ 436 | 🐛 18 | 🌐 Python | 📅 2026-07-30 - A Python library for editing subtitle files, supporting various formats including SubRip (SRT), SubStation Alpha (SSA), and Advanced SubStation Alpha (ASS). It allows for reading, writing, and modifying subtitle files, making it a versatile tool for developers working with subtitles in Python.
+* [pysubs2](https://github.com/tkarabela/pysubs2) ⭐ 437 | 🐛 18 | 🌐 Python | 📅 2026-08-14 - A Python library for editing subtitle files, supporting various formats including SubRip (SRT), SubStation Alpha (SSA), and Advanced SubStation Alpha (ASS). It allows for reading, writing, and modifying subtitle files, making it a versatile tool for developers working with subtitles in Python.
 * [SimpleVideoCutter](https://github.com/bartekmotyl/simple-video-cutter) ⭐ 380 | 🐛 24 | 🌐 C# | 📅 2024-11-13 - A straightforward Windows tool for browsing and cutting segments from video files without re-encoding. It provides a preview and easy selection of in/out points to extract clips quickly.
 * [VAST 4.0 Sample Tags](https://github.com/InteractiveAdvertisingBureau/VAST_Samples) ⭐ 231 | 🐛 24 | 📅 2024-02-26 - The Interactive Advertising Bureau (IAB) provides sample VAST 4.0 tags to help developers understand and implement the latest standards in video ad serving. These samples are valuable resources for testing and ensuring compliance with VAST 4.0 specifications.
 * [vigenair](https://github.com/google-marketing-solutions/vigenair) ⭐ 228 | 🐛 29 | 🌐 TypeScript | 📅 2026-06-20 - Recrafting Video Ads with Generative AI, this project leverages machine learning to enhance video advertisements, utilizing technologies like Google Cloud Vision and Vertex AI.
@@ -754,7 +754,7 @@
 
 #### Quality & Testing
 
-* [VMAF](https://github.com/Netflix/vmaf) ⭐ 5,452 | 🐛 109 | 🌐 C | 📅 2026-08-14 - Perceptual video quality assessment based on multi-method fusion.
+* [VMAF](https://github.com/Netflix/vmaf) ⭐ 5,454 | 🐛 110 | 🌐 C | 📅 2026-08-14 - Perceptual video quality assessment based on multi-method fusion.
 * [Eyevinn Stream Corruptor](https://github.com/Eyevinn/streaming-onboarding/blob/master/Stream-Corruptor.md) ⭐ 573 | 🐛 20 | 📅 2026-03-17 - Eyevinn's Stream Corruptor is a tool designed to intentionally corrupt streaming media, useful for testing error resilience in players.
 * [VQMT](https://github.com/Rolinh/VQMT) ⭐ 387 | 🐛 10 | 🌐 C++ | 📅 2020-03-09 - Video Quality Measurement Tool. Fast implementations of the following objective image quality metrics: PSNR, SSIM, MS-SSIM, VIFp, PSNR-HVS and PSNR-HVS-M.
 * [Qctools (GitHub)](https://github.com/bavc/qctools) ⭐ 385 | 🐛 80 | 🌐 C++ | 📅 2026-07-06 - A quality control tool for analyzing video files, detecting defects, and evaluating technical quality metrics for archival and broadcast purposes.
@@ -802,19 +802,19 @@
 
 ### Audio & Subtitles
 
-* [ffsubsync](https://github.com/smacke/ffsubsync) ⭐ 7,835 | 🐛 68 | 🌐 Python | 📅 2026-07-24 - A tool to automatically synchronize subtitles with video by analyzing audio tracks. It uses speech detection to align subtitle timing via FFmpeg and machine learning.
+* [ffsubsync](https://github.com/smacke/ffsubsync) ⭐ 7,836 | 🐛 68 | 🌐 Python | 📅 2026-07-24 - A tool to automatically synchronize subtitles with video by analyzing audio tracks. It uses speech detection to align subtitle timing via FFmpeg and machine learning.
 * [Gaupol](https://otsaloma.io/gaupol) - An open source subtitle editor for text-based subtitle files, featuring timing adjustment, translation support, and built-in video preview (Linux).
 
 #### Subtitles & Captions
 
-* [WhisperX](https://github.com/m-bain/whisperx) ⭐ 23,572 | 🐛 211 | 🌐 Python | 📅 2026-07-13 - ASR pipeline producing word-level timestamps via wav2vec2 forced alignment plus speaker diarization, useful for accurate subtitle cue timing.
-* [pyvideotrans — video translation/dubbing pipeline](https://github.com/jianchang512/pyvideotrans) ⭐ 18,683 | 🐛 9 | 🌐 Python | 📅 2026-08-14 - End-to-end pipeline: ASR → subtitle translation → multi-role dubbing → audio-video re-sync, offline or via API models.
-* [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) ⭐ 13,831 | 🐛 245 | 🌐 C# | 📅 2026-08-14 - A free, open source subtitle editor that supports over 200 subtitle formats, with tools for sync, translation, and conversion.
-* [Whisper-WebUI — subtitle generation UI](https://github.com/jhj0517/Whisper-WebUI) ⭐ 2,849 | 🐛 155 | 🌐 Python | 📅 2025-12-29 - Gradio UI generating subtitles from files/YouTube/mic using faster-whisper; outputs SRT/WebVTT, translation (NLLB/DeepL), Silero VAD, diarization.
+* [WhisperX](https://github.com/m-bain/whisperx) ⭐ 23,590 | 🐛 211 | 🌐 Python | 📅 2026-07-13 - ASR pipeline producing word-level timestamps via wav2vec2 forced alignment plus speaker diarization, useful for accurate subtitle cue timing.
+* [pyvideotrans — video translation/dubbing pipeline](https://github.com/jianchang512/pyvideotrans) ⭐ 18,689 | 🐛 9 | 🌐 Python | 📅 2026-08-15 - End-to-end pipeline: ASR → subtitle translation → multi-role dubbing → audio-video re-sync, offline or via API models.
+* [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) ⭐ 13,835 | 🐛 242 | 🌐 C# | 📅 2026-08-15 - A free, open source subtitle editor that supports over 200 subtitle formats, with tools for sync, translation, and conversion.
+* [Whisper-WebUI — subtitle generation UI](https://github.com/jhj0517/Whisper-WebUI) ⭐ 2,851 | 🐛 155 | 🌐 Python | 📅 2025-12-29 - Gradio UI generating subtitles from files/YouTube/mic using faster-whisper; outputs SRT/WebVTT, translation (NLLB/DeepL), Silero VAD, diarization.
 * [stable-ts](https://github.com/jianfch/stable-ts) ⚠️ Archived - Whisper-based transcription with forced alignment and audio indexing, including a mode that loads audio in 30s chunks for near-streaming subtitle generation.
-* [Ccextractor (GitHub)](https://github.com/CCExtractor/ccextractor) ⭐ 897 | 🐛 36 | 🌐 C | 📅 2026-08-13 - CCExtractor - Official version maintained by the core team.
+* [Ccextractor (GitHub)](https://github.com/CCExtractor/ccextractor) ⭐ 898 | 🐛 36 | 🌐 C | 📅 2026-08-15 - CCExtractor - Official version maintained by the core team.
 * [go-astisub](https://github.com/asticode/go-astisub) ⭐ 702 | 🐛 11 | 🌐 Go | 📅 2026-07-08 - A Golang library for manipulating subtitles (supports formats like SRT, WebVTT, SSA/ASS, etc.), useful for automated subtitle processing.
-* [Pycaption](https://github.com/pbs/pycaption) ⭐ 272 | 🐛 1 | 🌐 Python | 📅 2026-08-13 - Python module to read/write popular video caption formats.
+* [Pycaption](https://github.com/pbs/pycaption) ⭐ 272 | 🐛 3 | 🌐 Python | 📅 2026-08-13 - Python module to read/write popular video caption formats.
 * [Subtitle Composer](https://github.com/maxrd2/subtitlecomposer) ⭐ 253 | 🐛 0 | 🌐 C++ | 📅 2025-11-04 - A Qt-based subtitle editor for KDE/Linux that supports multiple subtitle formats and provides tools for timing, text editing, and translation.
 * [ttconv: subtitle/caption format converter](https://github.com/sandflow/ttconv) ⭐ 236 | 🐛 34 | 🌐 Python | 📅 2026-08-12 - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT.
 * [Webvtt Py](https://github.com/glut23/webvtt-py) ⭐ 234 | 🐛 23 | 🌐 Python | 📅 2024-06-13 - Read, write and segment WebVTT caption files in Python.
@@ -859,16 +859,16 @@
 
 #### Audio
 
-* [pyAudioAnalysis — Python Audio Analysis Library](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,253 | 🐛 205 | 🌐 Python | 📅 2025-08-04 - Python library for audio segmentation, silence removal via dynamic thresholding, spectral features, and classification.
-* [RNNoise](https://github.com/xiph/rnnoise) ⭐ 5,777 | 🐛 204 | 🌐 C | 📅 2025-02-22 - Xiph's RNN-based real-time noise suppression library for speech, operating on 16-bit 48kHz PCM with a CLI example included.
-* [aubio](https://github.com/aubio/aubio) ⭐ 3,745 | 🐛 157 | 🌐 C | 📅 2026-04-10 - C library with Python bindings for audio/music analysis: onset detection, pitch tracking, tempo/beat detection, and MIDI-from-audio conversion.
-* [Essentia](https://github.com/MTG/essentia) ⭐ 3,691 | 🐛 425 | 🌐 C++ | 📅 2026-07-22 - C++ audio/music analysis library with a large algorithm set for spectral/tonal/rhythm descriptors, Python bindings, and an essentia.js WebAssembly port.
+* [pyAudioAnalysis — Python Audio Analysis Library](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,254 | 🐛 205 | 🌐 Python | 📅 2025-08-04 - Python library for audio segmentation, silence removal via dynamic thresholding, spectral features, and classification.
+* [RNNoise](https://github.com/xiph/rnnoise) ⭐ 5,778 | 🐛 204 | 🌐 C | 📅 2025-02-22 - Xiph's RNN-based real-time noise suppression library for speech, operating on 16-bit 48kHz PCM with a CLI example included.
+* [aubio](https://github.com/aubio/aubio) ⭐ 3,746 | 🐛 157 | 🌐 C | 📅 2026-04-10 - C library with Python bindings for audio/music analysis: onset detection, pitch tracking, tempo/beat detection, and MIDI-from-audio conversion.
+* [Essentia](https://github.com/MTG/essentia) ⭐ 3,692 | 🐛 425 | 🌐 C++ | 📅 2026-07-22 - C++ audio/music analysis library with a large algorithm set for spectral/tonal/rhythm descriptors, Python bindings, and an essentia.js WebAssembly port.
 * [Low Latency Android iOS Linux Windows tvOS macOS Interactive Audio Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) ⭐ 1,444 | 🐛 4 | 🌐 C++ | 📅 2026-08-11 - Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 * [fdk-aac](https://github.com/mstorsjo/fdk-aac) ⭐ 1,386 | 🐛 59 | 🌐 C++ | 📅 2026-08-14 - Standalone Fraunhofer FDK AAC codec library (from Android AOSP) supporting AAC-LC/HE-AAC/HE-AACv2/LD/ELD encode and decode, commonly paired with FFmpeg's --enable-libfdk-aac.
 * [pyloudnorm](https://github.com/csteinmetz1/pyloudnorm) ⭐ 780 | 🐛 14 | 🌐 Python | 📅 2026-01-04 - Pure-Python loudness measurement and normalization library with no FFmpeg dependency.
-* [AudioSeal — localized audio watermarking](https://github.com/facebookresearch/audioseal) ⭐ 769 | 🐛 21 | 🌐 Python | 📅 2026-05-19 - Meta's localized sample-level audio watermarking with fast detector, robust to compression/re-encoding; MIT with weights.
+* [AudioSeal — localized audio watermarking](https://github.com/facebookresearch/audioseal) ⭐ 770 | 🐛 21 | 🌐 Python | 📅 2026-05-19 - Meta's localized sample-level audio watermarking with fast detector, robust to compression/re-encoding; MIT with weights.
 * [audiowmark — robust audio watermarking](https://github.com/swesterfeld/audiowmark) ⭐ 577 | 🐛 20 | 🌐 C++ | 📅 2026-08-03 - Robust blind audio watermarking that survives mp3/ogg re-encoding at ≥128kbit/s, with tunable strength.
-* [Cavern — object-based audio engine (Atmos render)](https://github.com/VoidXH/Cavern) ⭐ 564 | 🐛 1 | 🌐 C# | 📅 2026-08-14 - Object-based audio engine and codec pack: Dolby Atmos rendering, HRTF, room correction, unlimited objects (C#).
+* [Cavern — object-based audio engine (Atmos render)](https://github.com/VoidXH/Cavern) ⭐ 565 | 🐛 1 | 🌐 C# | 📅 2026-08-14 - Object-based audio engine and codec pack: Dolby Atmos rendering, HRTF, room correction, unlimited objects (C#).
 * [libebur128](https://github.com/jiixyj/libebur128) ⭐ 491 | 🐛 38 | 🌐 C | 📅 2023-06-25 - An open source C library implementing the EBU R128 loudness standard. It can be used to measure and normalize audio loudness (LUFS) for broadcast compliance.
 * [libspatialaudio — VideoLAN spatial audio renderer](https://github.com/videolabs/libspatialaudio) ⭐ 310 | 🐛 7 | 🌐 C | 📅 2026-07-14 - Spatial audio renderer supporting ADM objects, Higher-Order Ambisonics and IAMF; from VideoLAN, actively maintained.
 * [opus-tools](https://github.com/xiph/opus-tools) ⭐ 283 | 🐛 46 | 🌐 C | 📅 2026-03-25 - Xiph's official CLI tools for encoding, inspecting, and decoding Opus audio (opusenc, opusdec, opusinfo).
@@ -887,7 +887,7 @@
 ### Metadata Extraction & Management
 
 * [MediaInfo (GitHub)](https://github.com/MediaArea/MediaInfo) ⭐ 1,984 | 🐛 223 | 🌐 C++ | 📅 2026-08-11 - Convenient unified display of the most relevant technical and tag data for video and audio files.
-* [Mutagen](https://github.com/quodlibet/mutagen) ⭐ 1,946 | 🐛 119 | 🌐 Python | 📅 2026-07-13 - Python module for handling audio metadata.
+* [Mutagen](https://github.com/quodlibet/mutagen) ⭐ 1,947 | 🐛 120 | 🌐 Python | 📅 2026-07-13 - Python module for handling audio metadata.
 * [xk media library](https://github.com/chapmanjacobd/library) ⭐ 480 | 🐛 7 | 🌐 Python | 📅 2026-08-13 - Scan millions of files with FFmpeg and access the metadata as a SQLite database. Also, a CLI alternative to media browsers like Plex or Jellyfin.
 * [Pymediainfo](https://github.com/sbraz/pymediainfo) ⭐ 360 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - A Python wrapper around the MediaInfo library. Contribute to sbraz/pymediainfo development by creating an account on GitHub.
 * [Isoviewer](https://github.com/sannies/isoviewer) ⭐ 240 | 🐛 11 | 🌐 Kotlin | 📅 2022-09-26 - GUI application to have closer look ISO 14496-12 and other MP4 files.
@@ -895,7 +895,7 @@
 * [codem-isoboxer — Browser ISOBMFF Box Parser](https://github.com/madebyhiro/codem-isoboxer) ⭐ 121 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-30 - Lightweight browser ISOBMFF (MP4) box parser for inspecting fragmented and progressive MP4 structure.
 * [Mp4analyser](https://github.com/essential61/mp4analyser) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2026-04-12 - Mp4 file analyser written in Python.
 * [slhck/h26x-extractor — H.264/H.265 NAL Extractor](https://github.com/slhck/h26x-extractor) ⭐ 77 | 🐛 2 | 🌐 Python | 📅 2026-03-30 - Python tool extracting NAL units from H.264/H.265 bitstreams, decoding type and content with JSON output.
-* [chemag/h264nal — C++ H.264/H.265 NAL Parser](https://github.com/chemag/h264nal) ⭐ 62 | 🐛 3 | 🌐 C++ | 📅 2026-08-12 - Modern C++ NAL-unit parser for H.264 and H.265 (h265nal sister project), with cmake+tests, dumping parsed NALs from Annex B streams.
+* [chemag/h264nal — C++ H.264/H.265 NAL Parser](https://github.com/chemag/h264nal) ⭐ 62 | 🐛 3 | 🌐 C++ | 📅 2026-08-15 - Modern C++ NAL-unit parser for H.264 and H.265 (h265nal sister project), with cmake+tests, dumping parsed NALs from Annex B streams.
 * [metadata — Rust FFmpeg-backed media metadata parser](https://github.com/zmwangx/metadata) ⭐ 62 | 🐛 8 | 🌐 Rust | 📅 2026-08-12 - Rust CLI (FFmpeg-backed) parsing and formatting media metadata for human consumption; MediaInfo/ffprobe alternative.
 * [amarghosh/mp4viewer — ISOBMFF Atom Analyzer](https://github.com/amarghosh/mp4viewer) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2024-04-15 - Python ISOBMFF atom analyser with shell, GTK, and JSON output for inspecting MP4 structure.
 * [scte35-go (Comcast)](https://github.com/Comcast/scte35-go) ⭐ 47 | 🐛 3 | 🌐 Go | 📅 2026-08-12 - Go library for encoding and decoding SCTE-35 ad markers, spec-complete to ANSI/SCTE 35 2022b.
@@ -929,7 +929,7 @@
 * [Autosub (BingLingGroup)](https://github.com/BingLingGroup/autosub) ⭐ 1,960 | 🐛 39 | 🌐 Python | 📅 2023-12-21 - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles.
 * [subsai](https://github.com/absadiki/subsai) ⭐ 1,680 | 🐛 77 | 🌐 Python | 📅 2026-04-20 - Subtitle generation tool with WebUI, CLI, and Python API using faster-whisper; exports srt/ass/ssa/sub/JSON/txt/vtt with translation support.
 * [subgen — Whisper Auto-Subtitles for Media Servers](https://github.com/McCloudS/subgen) ⭐ 1,460 | 🐛 3 | 🌐 Python | 📅 2026-08-07 - Auto-subtitle generator using Whisper (stable-ts + faster-whisper) for Jellyfin/Plex/Emby/Bazarr, CPU or CUDA.
-* [AutoSubSync](https://github.com/denizsafak/AutoSubSync) ⭐ 1,137 | 🐛 23 | 🌐 Python | 📅 2026-05-19 - Subtitle auto-sync GUI wrapping ffsubsync/autosubsync/alass; can sync against a reference subtitle instead of the video.
+* [AutoSubSync](https://github.com/denizsafak/AutoSubSync) ⭐ 1,138 | 🐛 24 | 🌐 Python | 📅 2026-05-19 - Subtitle auto-sync GUI wrapping ffsubsync/autosubsync/alass; can sync against a reference subtitle instead of the video.
 * [AutoSub](https://github.com/abhirooptalasila/AutoSub) ⚠️ Archived - A CLI application to generate subtitle file (.srt) for any video file using Mozilla DeepSpeech.
 * [WhisperTimeSync — Transcript-to-Whisper Subtitle Aligner](https://github.com/EtienneAb3d/WhisperTimeSync) ⭐ 165 | 🐛 8 | 🌐 Java | 📅 2024-05-28 - Aligns an existing accurate transcript over Whisper timestamps to produce SRT with both good text and good timing.
 * [vidstack/captions — Lightweight JS Caption Parser/Renderer](https://github.com/vidstack/captions) ⭐ 145 | 🐛 3 | 🌐 TypeScript | 📅 2024-07-29 - Modern \~5kB JS library parsing and rendering VTT/SRT/SSA captions, with server-side support, VTT-region rollup captions, and CSS styling.
@@ -957,7 +957,7 @@
 ### Color Science & Histogram Analysis
 
 * [YUView](https://github.com/IENT/YUView) ⭐ 2,298 | 🐛 88 | 🌐 C++ | 📅 2026-08-13 - A QT based, cross-platform YUV player with an advanced analytic toolset.
-* [OpenColorIO (GitHub)](https://github.com/AcademySoftwareFoundation/OpenColorIO) ⭐ 2,084 | 🐛 206 | 🌐 C++ | 📅 2026-07-10 - Academy Software Foundation's industry-standard color management framework for color space transforms and display transforms, used by Nuke, Blender, Krita, and major VFX pipelines.
+* [OpenColorIO (GitHub)](https://github.com/AcademySoftwareFoundation/OpenColorIO) ⭐ 2,085 | 🐛 206 | 🌐 C++ | 📅 2026-07-10 - Academy Software Foundation's industry-standard color management framework for color space transforms and display transforms, used by Nuke, Blender, Krita, and major VFX pipelines.
 * [quietvoid/dovi\_tool — Dolby Vision RPU Metadata Tool](https://github.com/quietvoid/dovi_tool) ⭐ 1,001 | 🐛 9 | 🌐 Rust | 📅 2026-08-06 - Rust CLI to extract, edit, and generate Dolby Vision RPU metadata (profiles 4/5/7/8) and plot L1/L2/L8 levels.
 * [libplacebo](https://github.com/haasn/libplacebo) ⭐ 769 | 🐛 64 | 🌐 C | 📅 2026-08-12 - GPU-based video rendering library (from mpv's algorithms) with dynamic HDR tone mapping, scene-change detection, gamut mapping, and native Dolby Vision Profile 5; powers FFmpeg's vf\_libplacebo and VLC.
 * [quietvoid/hdr10plus\_tool — HDR10+ Metadata Extractor](https://github.com/quietvoid/hdr10plus_tool) ⭐ 450 | 🐛 4 | 🌐 Rust | 📅 2026-04-27 - Rust CLI to extract HDR10+ dynamic metadata from HEVC to JSON, plot brightness graphs, and compute Samsung scene info.
@@ -970,7 +970,7 @@
 ### Scene Detection & Segmentation
 
 * [TransNetV2 — Deep Shot Boundary Detector](https://github.com/soCzech/TransNetV2) ⭐ 1,022 | 🐛 10 | 🌐 Python | 📅 2023-12-04 - Deep 3D-CNN shot boundary/scene-cut detector, SOTA on ClipShots/BBC/RAI with real-time inference.
-* [Comskip](https://github.com/erikkaashoek/Comskip) ⭐ 700 | 🐛 43 | 🌐 C | 📅 2025-04-18 - Tool for automatically detecting and marking commercial breaks in recorded video content.
+* [Comskip](https://github.com/erikkaashoek/Comskip) ⭐ 700 | 🐛 44 | 🌐 C | 📅 2025-04-18 - Tool for automatically detecting and marking commercial breaks in recorded video content.
 * [Katna](https://github.com/keplerlab/katna) ⭐ 398 | 🐛 10 | 🌐 Python | 📅 2024-08-06 - Pip-installable MIT library for automated keyframe extraction (LUV color-diff), video compression, and smart image cropping.
 * [AutoShot](https://github.com/wentaozhu/AutoShot) ⭐ 252 | 🐛 6 | 🌐 Python | 📅 2023-04-18 - CVPR-NAS 2023 shot boundary detection model with a NAS-optimized architecture and the new SHOT dataset (853 videos, 11,606 annotations).
 * [SceneSeg (Local-to-Global Scene Segmentation)](https://github.com/AnyiRao/SceneSeg) ⭐ 237 | 🐛 17 | 🌐 Python | 📅 2024-05-20 - CVPR 2020 multimodal movie scene segmentation using place and audio features on the MovieNet dataset; reference ML baseline with code.
@@ -986,7 +986,7 @@
 ### AI & Machine Learning Tools
 
 * [Jukebox](https://github.com/openai/jukebox) ⚠️ Archived - Code for the paper "Jukebox: A Generative Model for Music".
-* [FlashVSR](https://github.com/OpenImagingLab/FlashVSR) ⭐ 1,770 | 🐛 75 | 🌐 Python | 📅 2025-12-23 - CVPR 2026 real-time diffusion-based streaming video super-resolution using one-step, locality-constrained sparse attention with a tiny conditional decoder.
+* [FlashVSR](https://github.com/OpenImagingLab/FlashVSR) ⭐ 1,771 | 🐛 75 | 🌐 Python | 📅 2026-08-15 - CVPR 2026 real-time diffusion-based streaming video super-resolution using one-step, locality-constrained sparse attention with a tiny conditional decoder.
 * [FGVC](https://github.com/vt-vl-lab/FGVC) ⭐ 1,552 | 🐛 16 | 🌐 Python | 📅 2021-12-14 - (ECCV 2020) Flow-edge Guided Video Completion.
 * [Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) ⭐ 1,473 | 🐛 37 | 🌐 Python | 📅 2024-09-27 - CVPR 2024 temporal-consistent diffusion model for real-world video super-resolution.
 * [Videocr](https://github.com/apm1467/videocr) ⭐ 551 | 🐛 32 | 🌐 Python | 📅 2024-01-30 - Extract hardcoded subtitles from videos using machine learning.
@@ -1007,24 +1007,24 @@
 
 ### Effects & Compositing Tools
 
-* [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,253 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17 - A High-Quality Real Time Upscaler for Anime Video.
-* [Video2X — ML video super-resolution & interpolation](https://github.com/k4yt3x/video2x) ⭐ 20,923 | 🐛 129 | 🌐 C++ | 📅 2026-03-07 - Machine-learning video super-resolution and frame-interpolation framework (C/C++ v6) wrapping Real-ESRGAN, Real-CUGAN, RIFE and Anime4K via ncnn/Vulkan, with CLI and Qt6 GUI.
-* [BasicSR — image/video restoration toolbox](https://github.com/xinntao/BasicSR) ⭐ 8,367 | 🐛 353 | 🌐 Python | 📅 2024-07-21 - Open-source PyTorch toolbox for image/video super-resolution and restoration implementing EDSR, RCAN, ESRGAN, EDVR, BasicVSR and SwinIR.
-* [Natron (GitHub)](https://github.com/NatronGitHub/Natron) ⭐ 5,477 | 🐛 281 | 🌐 C++ | 📅 2026-07-24 - Open-source node-graph video compositor comparable to After Effects/Nuke, GPLv2, cross-platform, supports the OpenFX plugin standard.
+* [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,254 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17 - A High-Quality Real Time Upscaler for Anime Video.
+* [Video2X — ML video super-resolution & interpolation](https://github.com/k4yt3x/video2x) ⭐ 20,932 | 🐛 129 | 🌐 C++ | 📅 2026-03-07 - Machine-learning video super-resolution and frame-interpolation framework (C/C++ v6) wrapping Real-ESRGAN, Real-CUGAN, RIFE and Anime4K via ncnn/Vulkan, with CLI and Qt6 GUI.
+* [BasicSR — image/video restoration toolbox](https://github.com/xinntao/BasicSR) ⭐ 8,366 | 🐛 353 | 🌐 Python | 📅 2024-07-21 - Open-source PyTorch toolbox for image/video super-resolution and restoration implementing EDSR, RCAN, ESRGAN, EDVR, BasicVSR and SwinIR.
+* [Natron (GitHub)](https://github.com/NatronGitHub/Natron) ⭐ 5,479 | 🐛 281 | 🌐 C++ | 📅 2026-07-24 - Open-source node-graph video compositor comparable to After Effects/Nuke, GPLv2, cross-platform, supports the OpenFX plugin standard.
 * [rife-ncnn-vulkan — RIFE interpolation via Vulkan](https://github.com/nihui/rife-ncnn-vulkan) ⭐ 1,078 | 🐛 47 | 🌐 C | 📅 2024-01-02 - PyTorch-free, cross-platform RIFE frame-interpolation CLI using ncnn and Vulkan for concurrent CPU+GPU processing.
-* [Practical-RIFE — real-time frame interpolation](https://github.com/hzwer/Practical-RIFE) ⭐ 992 | 🐛 69 | 🌐 Python | 📅 2025-11-20 - Actively maintained, deployment-focused fork of RIFE (real-time intermediate flow estimation) for arbitrary-timestep video frame interpolation.
-* [vkdt — Vulkan node-graph media processing](https://github.com/hanatos/vkdt) ⭐ 590 | 🐛 27 | 🌐 C | 📅 2026-08-14 - GLSL/Vulkan node-graph (DAG) processing engine for raw stills and video, running all processing as GPU shaders.
+* [Practical-RIFE — real-time frame interpolation](https://github.com/hzwer/Practical-RIFE) ⭐ 993 | 🐛 69 | 🌐 Python | 📅 2025-11-20 - Actively maintained, deployment-focused fork of RIFE (real-time intermediate flow estimation) for arbitrary-timestep video frame interpolation.
+* [vkdt — Vulkan node-graph media processing](https://github.com/hanatos/vkdt) ⭐ 591 | 🐛 27 | 🌐 C | 📅 2026-08-14 - GLSL/Vulkan node-graph (DAG) processing engine for raw stills and video, running all processing as GPU shaders.
 * [openfx-misc — OpenFX Plugin Set](https://github.com/NatronGitHub/openfx-misc) ⭐ 329 | 🐛 22 | 🌐 C++ | 📅 2025-04-29 - Collection of OpenFX (OFX) plugins - Merge, Roto, keyers, generators, retiming - compatible with any OFX host.
 
 ### Non-linear Editing Suites
 
-* [Motion Canvas — TypeScript Animation Framework](https://github.com/motion-canvas/motion-canvas) ⭐ 18,933 | 🐛 173 | 🌐 TypeScript | 📅 2026-07-02 - TypeScript generator-function animation framework with Canvas2D renderer and a real-time editor for programmatic video/animation.
-* [Revideo — Programmatic Video via Motion Canvas](https://github.com/redotvideo/revideo) ⭐ 3,974 | 🐛 65 | 🌐 TypeScript | 📅 2026-07-15 - Open-source fork of Motion Canvas adding server-side rendering API and templates for automated/batch programmatic video pipelines.
-* [FreeCut](https://github.com/walterlow/freecut) ⭐ 2,028 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-14 - Professional-grade browser-based video editor with multi-track editing, WebGPU/WebCodecs support, keyframe animations, AI tools, real-time preview, and export capabilities. Runs entirely in the browser with no installation required.
-* [FFmpeg-webCLI — In-Browser Video Editor on FFmpeg.WebAssembly](https://github.com/tejaswigowda/ffmpeg-webCLI) ⭐ 1,093 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-28 - Fully local browser video editor built on FFmpeg.WebAssembly with timeline trim, transcode, and GIF export.
+* [Motion Canvas — TypeScript Animation Framework](https://github.com/motion-canvas/motion-canvas) ⭐ 18,940 | 🐛 173 | 🌐 TypeScript | 📅 2026-07-02 - TypeScript generator-function animation framework with Canvas2D renderer and a real-time editor for programmatic video/animation.
+* [Revideo — Programmatic Video via Motion Canvas](https://github.com/redotvideo/revideo) ⭐ 3,975 | 🐛 65 | 🌐 TypeScript | 📅 2026-07-15 - Open-source fork of Motion Canvas adding server-side rendering API and templates for automated/batch programmatic video pipelines.
+* [FreeCut](https://github.com/walterlow/freecut) ⭐ 2,031 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-14 - Professional-grade browser-based video editor with multi-track editing, WebGPU/WebCodecs support, keyframe animations, AI tools, real-time preview, and export capabilities. Runs entirely in the browser with no installation required.
+* [FFmpeg-webCLI — In-Browser Video Editor on FFmpeg.WebAssembly](https://github.com/tejaswigowda/ffmpeg-webCLI) ⭐ 1,092 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-28 - Fully local browser video editor built on FFmpeg.WebAssembly with timeline trim, transcode, and GIF export.
 * [OpenTimelineIO raven — OTIO Timeline Viewer](https://github.com/OpenTimelineIO/raven) ⭐ 139 | 🐛 38 | 🌐 C++ | 📅 2026-01-01 - C++ OTIO timeline viewer for inspecting OpenTimelineIO editorial timelines.
 * [OpenTimelineIO Swift Bindings](https://github.com/OpenTimelineIO/OpenTimelineIO-Swift-Bindings) ⭐ 29 | 🐛 13 | 🌐 Swift | 📅 2026-03-10 - Swift language bindings for OpenTimelineIO, enabling OTIO timeline read/write from Swift apps.
-* [VoidCut](https://github.com/timii/voidcut) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-08 - Free, open-source browser-based non-linear video editor with drag-and-drop timeline, local-only processing (privacy-focused), FFmpeg integration, and simple export. All processing happens locally in the browser.
+* [VoidCut](https://github.com/timii/voidcut) ⭐ 18 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-15 - Free, open-source browser-based non-linear video editor with drag-and-drop timeline, local-only processing (privacy-focused), FFmpeg integration, and simple export. All processing happens locally in the browser.
 
 ### Conversion & Format Tools
 
@@ -1053,18 +1053,18 @@
 
 ## Protocols & Transport
 
-* [OBS Studio - Streaming with SRT and RIST](https://github.com/obsproject/obs-studio/wiki/Streaming-With-SRT-or-RIST-Protocols) ⭐ 74,991 | 🐛 1,173 | 🌐 C | 📅 2026-08-11 - OBS Studio, a popular open-source software for video recording and live streaming, offers support for both SRT and RIST protocols. This integration allows users to leverage these protocols for enhanced streaming performance, including improved resilience to network issues and lower latency. The project's wiki provides detailed instructions on setting up and using SRT and RIST within OBS Studio.
-* [Pion WebRTC](https://github.com/pion/webrtc) ⭐ 16,717 | 🐛 113 | 🌐 Go | 📅 2026-08-12 - A pure Go implementation of the WebRTC protocol, enabling developers to build real-time video (and audio) streaming applications without external dependencies.
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,293 | 🐛 315 | 🌐 C | 📅 2026-08-12 - An open source implementation of TURN and STUN servers, used to facilitate NAT traversal for peer-to-peer video (and audio) communication in WebRTC and other protocols.
-* [aiortc (Python WebRTC)](https://github.com/aiortc/aiortc) ⭐ 5,084 | 🐛 33 | 🌐 Python | 📅 2026-07-17 - A Python library for Web Real-Time Communication that implements WebRTC and ORTC, enabling real-time audio/video and data streaming in Python applications.
-* [srt-live-transmit](https://github.com/Haivision/srt/blob/master/docs/apps/srt-live-transmit.md) ⭐ 3,579 | 🐛 371 | 🌐 C++ | 📅 2026-08-06 - A command-line application that demonstrates the usage of the SRT library API. It allows for the transmission of live video streams over the SRT protocol, showcasing the protocol's capabilities in real-world scenarios.
-* [RootEncoder](https://github.com/pedroSG94/RootEncoder) ⭐ 3,019 | 🐛 66 | 🌐 Kotlin | 📅 2026-08-13 - An Android library that enables streaming of video and audio to media servers using protocols such as RTMP, RTSP, SRT, and UDP. Written in Java/Kotlin, it provides a versatile solution for mobile live streaming applications.
+* [OBS Studio - Streaming with SRT and RIST](https://github.com/obsproject/obs-studio/wiki/Streaming-With-SRT-or-RIST-Protocols) ⭐ 75,044 | 🐛 1,173 | 🌐 C | 📅 2026-08-15 - OBS Studio, a popular open-source software for video recording and live streaming, offers support for both SRT and RIST protocols. This integration allows users to leverage these protocols for enhanced streaming performance, including improved resilience to network issues and lower latency. The project's wiki provides detailed instructions on setting up and using SRT and RIST within OBS Studio.
+* [Pion WebRTC](https://github.com/pion/webrtc) ⭐ 16,718 | 🐛 113 | 🌐 Go | 📅 2026-08-15 - A pure Go implementation of the WebRTC protocol, enabling developers to build real-time video (and audio) streaming applications without external dependencies.
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,295 | 🐛 315 | 🌐 C | 📅 2026-08-12 - An open source implementation of TURN and STUN servers, used to facilitate NAT traversal for peer-to-peer video (and audio) communication in WebRTC and other protocols.
+* [aiortc (Python WebRTC)](https://github.com/aiortc/aiortc) ⭐ 5,085 | 🐛 33 | 🌐 Python | 📅 2026-07-17 - A Python library for Web Real-Time Communication that implements WebRTC and ORTC, enabling real-time audio/video and data streaming in Python applications.
+* [srt-live-transmit](https://github.com/Haivision/srt/blob/master/docs/apps/srt-live-transmit.md) ⭐ 3,581 | 🐛 371 | 🌐 C++ | 📅 2026-08-06 - A command-line application that demonstrates the usage of the SRT library API. It allows for the transmission of live video streams over the SRT protocol, showcasing the protocol's capabilities in real-world scenarios.
+* [RootEncoder](https://github.com/pedroSG94/RootEncoder) ⭐ 3,020 | 🐛 66 | 🌐 Kotlin | 📅 2026-08-13 - An Android library that enables streaming of video and audio to media servers using protocols such as RTMP, RTSP, SRT, and UDP. Written in Java/Kotlin, it provides a versatile solution for mobile live streaming applications.
 * [Videojs Contrib HLS](https://github.com/videojs/videojs-contrib-hls) ⚠️ Archived - An HLS library for video.js that enables HLS playback in environments where it's not natively supported. It integrates seamlessly with video.js, providing features like adaptive bitrate selection, AES-128 segment encryption, and support for multiple audio tracks.
-* [gortsplib](https://github.com/aler9/gortsplib) ⭐ 934 | 🐛 20 | 🌐 Go | 📅 2026-08-08 - A pure Go RTSP server and client library that supports handling RTSP streams without external dependencies, ideal for building streaming servers or proxies.
+* [gortsplib](https://github.com/aler9/gortsplib) ⭐ 934 | 🐛 20 | 🌐 Go | 📅 2026-08-15 - A pure Go RTSP server and client library that supports handling RTSP streams without external dependencies, ideal for building streaming servers or proxies.
 * [Python-FFmpeg-video-streaming](https://github.com/quasarstream/python-ffmpeg-video-streaming) ⭐ 859 | 🐛 15 | 🌐 Python | 📅 2024-08-14 - This Python package leverages FFmpeg to package media content for online streaming, supporting both DASH and HLS formats. It offers functionalities to implement DRM for HLS packaging and provides options to handle files from and to cloud storage. This tool is valuable for developers looking to integrate FFmpeg-based streaming solutions into their Python applications.
 * [MediaFlow Proxy](https://github.com/mhdzumair/mediaflow-proxy) ⭐ 773 | 🐛 22 | 🌐 Python | 📅 2026-05-19 - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption. It can convert MPEG-DASH DRM-protected streams to decrypted HLS live streams in real-time, making it one of the fastest live decrypter servers available.
 * [SRT Live Server](https://github.com/Edward-Wu/srt-live-server) ⭐ 689 | 🐛 90 | 🌐 C++ | 📅 2024-04-17 - (SLS) is a live streaming server that supports the SRT protocol, enabling low-latency and secure video streaming. It allows for efficient transmission of live video content over the internet, even in challenging network conditions.
-* [go-astits](https://github.com/asticode/go-astits) ⭐ 616 | 🐛 8 | 🌐 Go | 📅 2026-08-14 - A Golang library for parsing and demuxing MPEG Transport Stream (.ts) files natively, enabling inspection and processing of TS files.
+* [go-astits](https://github.com/asticode/go-astits) ⭐ 616 | 🐛 8 | 🌐 Go | 📅 2026-08-15 - A Golang library for parsing and demuxing MPEG Transport Stream (.ts) files natively, enabling inspection and processing of TS files.
 * [OvenPlayer](https://github.com/airensoft/ovenplayer) ⭐ 587 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-12 - A JavaScript-based player that supports Low-Latency HLS (LLHLS) and WebRTC playback. Designed for integration with OvenMediaEngine, it offers sub-second latency streaming, making it ideal for applications requiring real-time video delivery.
 * [uvgRTP](https://github.com/ultravideo/uvgRTP) ⭐ 436 | 🐛 31 | 🌐 C++ | 📅 2026-07-28 - An open-source Real-Time Transport Protocol (RTP) library written in C++ that focuses on high-efficiency media delivery over the Internet. It supports various video codecs, including VVC, HEVC, and AVC, and offers features like Secure RTP (SRTP) for encrypted media delivery. Its intuitive API and cross-platform compatibility make it valuable for developers working on real-time video streaming applications.
 * [Bitmovin Player](https://github.com/bitmovin/bitmovin-player-web-samples) ⭐ 102 | 🐛 2 | 🌐 HTML | 📅 2026-08-12 - A comprehensive adaptive streaming player supporting HLS and MPEG-DASH, offering features like low latency, DRM integration, and customizable UI. It is designed for high-quality video playback across various devices and platforms.
@@ -1142,7 +1142,7 @@
 
 #### HLS
 
-* [HLS JS](https://github.com/video-dev/hls.js) ⭐ 16,874 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-14 - JavaScript HLS client using Media Source Extension.
+* [HLS JS](https://github.com/video-dev/hls.js) ⭐ 16,877 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-15 - JavaScript HLS client using Media Source Extension.
 * [HLS Downloader Chrome Extension](https://github.com/puemos/hls-downloader-chrome-extension) ⭐ 2,673 | 🐛 213 | 🌐 TypeScript | 📅 2026-08-11 - Google Chrome Extension for sniffing and downloading HTTP Live streams (HLS).
 * [M3U8](https://github.com/globocom/m3u8) ⭐ 2,276 | 🐛 45 | 🌐 Python | 📅 2025-01-31 - Python library from Globo for parsing and generating M3U8 playlists used in HLS streaming workflows.
 * [M3U8 (grafov)](https://github.com/grafov/m3u8) ⚠️ Archived - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language.:cinema:.
@@ -1154,8 +1154,8 @@
 * [HLS Analyzer](https://github.com/epiclabs-io/hls-analyzer) ⭐ 193 | 🐛 7 | 🌐 Python | 📅 2019-02-12 - Analyzer for HTTP Live Streams (HLS) content.
 * [HLS Fetch](https://github.com/osklil/hls-fetch) ⭐ 193 | 🐛 10 | 🌐 Perl | 📅 2017-05-11 - Download and decrypt videos served by the HTTP Live Streaming (HLS) protocol.
 * [Mamba](https://github.com/Comcast/mamba) ⭐ 191 | 🐛 7 | 🌐 Swift | 📅 2025-09-12 - A Swift iOS, tvOS and macOS framework to parse, validate and write HTTP Live Streaming (HLS) data.
-* [gohlslib — Go HLS client & muxer library](https://github.com/bluenviron/gohlslib) ⭐ 187 | 🐛 10 | 🌐 Go | 📅 2026-08-04 - Pure-Go HLS library (from MediaMTX project) with client and muxer; outputs MPEG-TS, fMP4, or LL-HLS, supports AV1/VP9/H265/H264/Opus/AAC.
-* [wasp-hls](https://github.com/peaBerberian/wasp-hls) ⭐ 186 | 🐛 5 | 🌐 Rust | 📅 2026-06-01 - HLS media player built in Rust/WebAssembly running inside a Web Worker to reduce main-thread load during playback.
+* [wasp-hls](https://github.com/peaBerberian/wasp-hls) ⭐ 188 | 🐛 5 | 🌐 Rust | 📅 2026-06-01 - HLS media player built in Rust/WebAssembly running inside a Web Worker to reduce main-thread load during playback.
+* [gohlslib — Go HLS client & muxer library](https://github.com/bluenviron/gohlslib) ⭐ 187 | 🐛 10 | 🌐 Go | 📅 2026-08-15 - Pure-Go HLS library (from MediaMTX project) with client and muxer; outputs MPEG-TS, fMP4, or LL-HLS, supports AV1/VP9/H265/H264/Opus/AAC.
 * [HLSCachingReverseProxyServer](https://github.com/StyleShare/HLSCachingReverseProxyServer) ⭐ 166 | 🐛 9 | 🌐 Swift | 📅 2021-03-29 - A simple local reverse proxy server for HLS segment cache.
 * [HLS Downloader](https://github.com/denex/hls-downloader) ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2025-12-16 - Download all video files from HLS (HTTP Live Streaming) VoD (Video on Demand) m3u8 playlist for local playback.
 * [NGINX Audio Track For HLS Module](https://github.com/flavioribeiro/nginx-audio-track-for-hls-module) ⚠️ Archived - Nginx module that generates audio track for HTTP Live Streaming (HLS) streams on the fly.
@@ -1212,8 +1212,8 @@
 
 #### DASH
 
-* [Dash JS](https://github.com/Dash-Industry-Forum/dash.js) ⭐ 5,542 | 🐛 158 | 🌐 JavaScript | 📅 2026-08-14 - A reference client implementation for the playback of MPEG DASH via JavaScript and compliant browsers.
-* [Generate MPEG-DASH Content Encrypted with MPEG-CENC ClearKey (dash.js Wiki)](https://github.com/Dash-Industry-Forum/dash.js/wiki/Generate-MPEG-DASH-content-encrypted-with-MPEG-CENC-ClearKey) ⭐ 5,542 | 🐛 158 | 🌐 JavaScript | 📅 2026-08-14 - Step-by-step guide from the dash.js wiki showing how to generate MPEG-DASH content encrypted with MPEG-CENC ClearKey, and how to configure dash.js to play the protected stream back.
+* [Dash JS](https://github.com/Dash-Industry-Forum/dash.js) ⭐ 5,543 | 🐛 158 | 🌐 JavaScript | 📅 2026-08-14 - A reference client implementation for the playback of MPEG DASH via JavaScript and compliant browsers.
+* [Generate MPEG-DASH Content Encrypted with MPEG-CENC ClearKey (dash.js Wiki)](https://github.com/Dash-Industry-Forum/dash.js/wiki/Generate-MPEG-DASH-content-encrypted-with-MPEG-CENC-ClearKey) ⭐ 5,543 | 🐛 158 | 🌐 JavaScript | 📅 2026-08-14 - Step-by-step guide from the dash.js wiki showing how to generate MPEG-DASH content encrypted with MPEG-CENC ClearKey, and how to configure dash.js to play the protected stream back.
 * [DASH Sequences (GPAC Wiki)](https://github.com/gpac/gpac/wiki/dash-sequences) ⭐ 3,293 | 🐛 37 | 🌐 C | 📅 2026-08-13 - The GPAC Wiki provides DASH sequences for conformance testing and validation.
 * [Libdash (GitHub)](https://github.com/bitmovin/libdash) ⭐ 600 | 🐛 27 | 🌐 C | 📅 2022-12-05 - MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation.
 * [dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli) ⭐ 554 | 🐛 16 | 🌐 Rust | 📅 2026-08-05 - Commandline application for downloading media content from a DASH MPD manifest.
@@ -1260,11 +1260,11 @@
 
 ### Low-Latency Streaming Tools
 
-* [broadcast-box — sub-second WHIP/WHEP server](https://github.com/Glimesh/broadcast-box) ⭐ 2,293 | 🐛 16 | 🌐 Go | 📅 2026-08-10 - Go WebRTC broadcast server offering sub-second WHIP ingest and WHEP egress with webhook auth and data-channel chat, easily deployed via Docker.
-* [moq-dev/moq — Media over QUIC Relay & Client](https://github.com/moq-dev/moq) ⭐ 1,448 | 🐛 121 | 🌐 Rust | 📅 2026-08-14 - Active Rust pub/sub relay and client stack for Media over QUIC (MoQ), targeting real-time latency at scale; docs at doc.moq.dev.
+* [broadcast-box — sub-second WHIP/WHEP server](https://github.com/Glimesh/broadcast-box) ⭐ 2,294 | 🐛 16 | 🌐 Go | 📅 2026-08-10 - Go WebRTC broadcast server offering sub-second WHIP ingest and WHEP egress with webhook auth and data-channel chat, easily deployed via Docker.
+* [moq-dev/moq — Media over QUIC Relay & Client](https://github.com/moq-dev/moq) ⭐ 1,450 | 🐛 119 | 🌐 Rust | 📅 2026-08-15 - Active Rust pub/sub relay and client stack for Media over QUIC (MoQ), targeting real-time latency at scale; docs at doc.moq.dev.
 * [atm0s-media-server](https://github.com/8xFF/atm0s-media-server) ⭐ 328 | 🐛 36 | 🌐 Rust | 📅 2026-08-12 - Rust decentralized, global-scale media server supporting WebRTC, WHIP/WHEP, RTMP, and SIP.
 * [live777](https://github.com/binbat/live777) ⭐ 310 | 🐛 11 | 🌐 Rust | 📅 2026-08-12 - Lightweight Rust WebRTC SFU for mobile/IoT/web providing WHIP/WHEP live streaming with sub-second latency.
-* [cloudflare/moq-rs — Media over QUIC in Rust](https://github.com/cloudflare/moq-rs) ⭐ 155 | 🐛 60 | 🌐 Rust | 📅 2026-07-31 - Cloudflare's production-tested Rust implementation of IETF Media over QUIC Transport (draft-14), providing moq-relay, moq-API and moq-pub crates for low-latency live media.
+* [cloudflare/moq-rs — Media over QUIC in Rust](https://github.com/cloudflare/moq-rs) ⭐ 156 | 🐛 60 | 🌐 Rust | 📅 2026-07-31 - Cloudflare's production-tested Rust implementation of IETF Media over QUIC Transport (draft-14), providing moq-relay, moq-API and moq-pub crates for low-latency live media.
 * [Eyevinn WHIP](https://github.com/Eyevinn/whip) ⭐ 148 | 🐛 33 | 🌐 TypeScript | 📅 2026-06-09 - Open source client and server modules for WHIP (WebRTC-HTTP Ingestion Protocol), Apache 2.0, WHEP egress tested with Eyevinn player.
 * [Eyevinn/srt-whep — SRT to WHEP/WebRTC Gateway](https://github.com/Eyevinn/srt-whep) ⭐ 140 | 🐛 10 | 🌐 Rust | 📅 2026-07-20 - Rust gateway ingesting SRT MPEG-TS and outputting WHEP/WebRTC with no transcode, for low-latency preview/monitoring.
 * [simple-whip-server (Janus)](https://github.com/meetecho/simple-whip-server) ⭐ 124 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-10 - Node.js WHIP server implementation built on the Janus WebRTC gateway, reference implementation by Meetecho (Janus maintainers).
@@ -1315,7 +1315,7 @@
 
 * [mp4ff (Eyevinn)](https://github.com/Eyevinn/mp4ff) ⭐ 652 | 🐛 5 | 🌐 Go | 📅 2026-08-11 - Go library and CLI tools (mp4ff-info, mp4ff-encrypt, mp4ff-decrypt) for fragmented MP4/CMAF inspection and manipulation.
 * [abema/go-mp4 — low-level MP4 box library (Go)](https://github.com/abema/go-mp4) ⭐ 546 | 🐛 5 | 🌐 Go | 📅 2026-06-16 - Go library for low-level reading and writing of ISOBMFF/MP4 boxes via io.ReadSeeker, enabling direct construction of any atom for fMP4/CMAF workflows.
-* [mp4parse-rust — Firefox ISOBMFF parser](https://github.com/mozilla/mp4parse-rust) ⭐ 448 | 🐛 42 | 🌐 Rust | 📅 2026-08-13 - Battle-tested Rust ISOBMFF/MP4 demux parser used in Firefox for safe media container parsing.
+* [mp4parse-rust — Firefox ISOBMFF parser](https://github.com/mozilla/mp4parse-rust) ⭐ 448 | 🐛 41 | 🌐 Rust | 📅 2026-08-15 - Battle-tested Rust ISOBMFF/MP4 demux parser used in Firefox for safe media container parsing.
 * [Create DASH HLS](https://github.com/matmoi/create-DASH-HLS) ⚠️ Archived - A tutorial to generate fMp4 files compatible with dash and HLS.
 * [DASH-IF fmp4-ingest Reference](https://github.com/unifiedstreaming/fmp4-ingest) ⭐ 34 | 🐛 12 | 🌐 C | 📅 2025-01-28 - DASH-IF CMAF ingest spec with a Node.js reference receiver implementation, storing ingested chunks as CMAF track files.
 * [mp4-atom](https://github.com/kixelated/mp4-atom) ⭐ 30 | 🐛 42 | 🌐 Rust | 📅 2026-07-31 - Low-level Rust ISOBMFF (ISO 14496-12) box encoder/decoder from the MoQ ecosystem.
@@ -1361,7 +1361,7 @@
 * [HydraSRT](https://github.com/abc3/hydra-srt) ⭐ 139 | 🐛 19 | 🌐 Elixir | 📅 2026-08-09 - Open-source alternative to the Haivision SRT Gateway built on Elixir/OTP + Rust + GStreamer, with failover, supervision, metrics, and a web UI/API.
 * [HydraSRT — open-source SRT gateway](https://github.com/streamband/hydra-srt) ⭐ 139 | 🐛 19 | 🌐 Elixir | 📅 2026-08-09 - Open-source SRT gateway positioned as an alternative to Haivision SRT Gateway for reliable contribution-grade transport routing.
 * [opensrthub — SRT hub/gateway with web UI](https://github.com/cannonbeach/opensrthub) ⭐ 49 | 🐛 8 | 🌐 C | 📅 2026-06-22 - Linux SRT hub/gateway routing SRT and UDP transport streams with a stats web UI for monitoring.
-* [irl-srt-server — SRT Live Server for IRL Streaming](https://github.com/irlserver/irl-srt-server) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2026-07-29 - SRT Live Server fork tailored for SRTLA/Belabox IRL mobile streaming setups.
+* [irl-srt-server — SRT Live Server for IRL Streaming](https://github.com/irlserver/irl-srt-server) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2026-08-15 - SRT Live Server fork tailored for SRTLA/Belabox IRL mobile streaming setups.
 
 #### RTMP
 
@@ -1394,20 +1394,20 @@
 
 ## Players & Clients
 
-* [Iina (GitHub)](https://github.com/iina/iina) ⭐ 45,955 | 🐛 1,926 | 🌐 Swift | 📅 2026-08-14 - The modern video player for macOS.
-* [Video.js](https://github.com/videojs/video.js) ⭐ 39,850 | 🐛 663 | 🌐 JavaScript | 📅 2026-08-03 - A full-featured, open-source HTML5 video player that supports all common media formats, including streaming formats like HLS and DASH. It is compatible across desktops, mobile devices, tablets, and web-based Smart TVs. Video.js offers a robust ecosystem of plugins for analytics, advertising, and more, making it highly extensible and customizable.
-* [Mpv (GitHub)](https://github.com/mpv-player/mpv) ⭐ 36,541 | 🐛 1,127 | 🌐 C | 📅 2026-08-13 - Lightweight command-line video player supporting wide format compatibility and advanced playback features.
-* [ijkplayer](https://github.com/bilibili/ijkplayer) ⭐ 33,195 | 🐛 2,895 | 🌐 C | 📅 2024-08-13 - An open source cross-platform media player library based on FFmpeg. ijkplayer is widely used on Android and iOS for its stable performance and was originally developed by Bilibili.
-* [Invidious](https://github.com/iv-org/invidious) ⭐ 22,649 | 🐛 473 | 🌐 Crystal | 📅 2026-08-12 - An open source, alternative front-end for YouTube that is privacy-respecting. It streams YouTube content without ads or tracking, and supports lightweight instances.
-* [Media Player Classic - Home Cinema (MPC-HC)](https://github.com/clsid2/mpc-hc) ⭐ 15,459 | 🐛 15 | 🌐 C++ | 📅 2026-08-14 - A lightweight, open source Windows media player modeled after the classic Windows Media Player 6.4. It supports a wide range of formats with GPU acceleration and subtitle support.
+* [Iina (GitHub)](https://github.com/iina/iina) ⭐ 45,962 | 🐛 1,926 | 🌐 Swift | 📅 2026-08-14 - The modern video player for macOS.
+* [Video.js](https://github.com/videojs/video.js) ⭐ 39,853 | 🐛 664 | 🌐 JavaScript | 📅 2026-08-03 - A full-featured, open-source HTML5 video player that supports all common media formats, including streaming formats like HLS and DASH. It is compatible across desktops, mobile devices, tablets, and web-based Smart TVs. Video.js offers a robust ecosystem of plugins for analytics, advertising, and more, making it highly extensible and customizable.
+* [Mpv (GitHub)](https://github.com/mpv-player/mpv) ⭐ 36,548 | 🐛 1,126 | 🌐 C | 📅 2026-08-14 - Lightweight command-line video player supporting wide format compatibility and advanced playback features.
+* [ijkplayer](https://github.com/bilibili/ijkplayer) ⭐ 33,194 | 🐛 2,894 | 🌐 C | 📅 2024-08-13 - An open source cross-platform media player library based on FFmpeg. ijkplayer is widely used on Android and iOS for its stable performance and was originally developed by Bilibili.
+* [Invidious](https://github.com/iv-org/invidious) ⭐ 22,658 | 🐛 475 | 🌐 Crystal | 📅 2026-08-15 - An open source, alternative front-end for YouTube that is privacy-respecting. It streams YouTube content without ads or tracking, and supports lightweight instances.
+* [Media Player Classic - Home Cinema (MPC-HC)](https://github.com/clsid2/mpc-hc) ⭐ 15,468 | 🐛 17 | 🌐 C++ | 📅 2026-08-14 - A lightweight, open source Windows media player modeled after the classic Windows Media Player 6.4. It supports a wide range of formats with GPU acceleration and subtitle support.
 * [xgplayer](https://github.com/bytedance/xgplayer) ⭐ 9,274 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-04 - An HTML5 video player with a parser that saves traffic. It is designed to be lightweight and efficient, providing a smooth playback experience with support for various video formats.
-* [mpv.net](https://github.com/stax76/mpv.net) ⭐ 5,323 | 🐛 155 | 🌐 C# | 📅 2026-02-09 - A modern Windows user interface for the mpv media player, adding a GUI and settings dialog to the powerful mpv core.
-* [VLC for Android](https://github.com/videolan/vlc-android) ⭐ 3,940 | 🐛 6 | 🌐 Kotlin | 📅 2026-07-27 - The official port of the VLC media player to the Android platform. It supports a wide range of multimedia formats and streaming protocols, offering a versatile solution for media playback on Android devices.
-* [MiSTer FPGA](https://github.com/MiSTer-devel/Main_MiSTer) ⭐ 3,268 | 🐛 130 | 🌐 C++ | 📅 2026-08-12 - An open-source project that aims to recreate various classic computers, game consoles, and arcade machines using modern FPGA-based hardware. It allows software and video game images to run as they would on original hardware, using peripherals such as mice, keyboards, joysticks, and other game controllers. MiSTer provides a versatile platform for enthusiasts interested in retro computing and gaming.
-* [NymphCast](https://github.com/MayaPosch/NymphCast) ⭐ 2,559 | 🐛 23 | 🌐 C | 📅 2026-01-10 - An open source audio and video casting system (similar to Chromecast) that allows streaming media and running custom applications on a receiver device.
-* [Lightspark](https://github.com/lightspark/lightspark) ⭐ 1,894 | 🐛 75 | 🌐 C++ | 📅 2026-08-10 - An open source flash player implementation.
+* [mpv.net](https://github.com/stax76/mpv.net) ⭐ 5,328 | 🐛 155 | 🌐 C# | 📅 2026-02-09 - A modern Windows user interface for the mpv media player, adding a GUI and settings dialog to the powerful mpv core.
+* [VLC for Android](https://github.com/videolan/vlc-android) ⭐ 3,942 | 🐛 6 | 🌐 Kotlin | 📅 2026-07-27 - The official port of the VLC media player to the Android platform. It supports a wide range of multimedia formats and streaming protocols, offering a versatile solution for media playback on Android devices.
+* [MiSTer FPGA](https://github.com/MiSTer-devel/Main_MiSTer) ⭐ 3,268 | 🐛 129 | 🌐 C++ | 📅 2026-08-15 - An open-source project that aims to recreate various classic computers, game consoles, and arcade machines using modern FPGA-based hardware. It allows software and video game images to run as they would on original hardware, using peripherals such as mice, keyboards, joysticks, and other game controllers. MiSTer provides a versatile platform for enthusiasts interested in retro computing and gaming.
+* [NymphCast](https://github.com/MayaPosch/NymphCast) ⭐ 2,558 | 🐛 23 | 🌐 C | 📅 2026-01-10 - An open source audio and video casting system (similar to Chromecast) that allows streaming media and running custom applications on a receiver device.
+* [Lightspark](https://github.com/lightspark/lightspark) ⭐ 1,895 | 🐛 75 | 🌐 C++ | 📅 2026-08-10 - An open source flash player implementation.
 * [CyTube](https://github.com/calzoneman/sync) ⭐ 1,580 | 🐛 67 | 🌐 JavaScript | 📅 2026-01-21 - A self-hosted web application for synchronized media playback and chat. CyTube allows multiple users to watch videos together in real-time in various channels.
-* [Celluloid (GNOME MPV)](https://github.com/celluloid-player/celluloid) ⭐ 1,446 | 🐛 289 | 🌐 C | 📅 2026-07-17 - A simple GTK+ frontend for the mpv player (formerly GNOME MPV). Celluloid provides a lightweight graphical interface to mpv on Linux, integrating features like playlists and settings into a GNOME-friendly UI.
+* [Celluloid (GNOME MPV)](https://github.com/celluloid-player/celluloid) ⭐ 1,445 | 🐛 289 | 🌐 C | 📅 2026-07-17 - A simple GTK+ frontend for the mpv player (formerly GNOME MPV). Celluloid provides a lightweight graphical interface to mpv on Linux, integrating features like playlists and settings into a GNOME-friendly UI.
 * [OMXPlayer](https://github.com/popcornmix/omxplayer) ⭐ 1,039 | 🐛 297 | 🌐 C++ | 📅 2024-01-15 - A hardware-accelerated command-line video player for the Raspberry Pi that utilizes the Pi's GPU decoding for smooth playback.
 * [Clapper](https://github.com/Rafostar/clapper) ⭐ 973 | 🐛 133 | 🌐 C | 📅 2026-07-20 - A media player designed for GNOME that utilizes GStreamer for media playback. It supports hardware-accelerated video playback, providing smoother performance and improved efficiency on compatible hardware. Clapper offers a simple and modern user interface, making it a suitable choice for users seeking a native GNOME media player.
 * [Fluid Player](https://github.com/fluid-player/fluid-player) ⭐ 944 | 🐛 25 | 🌐 JavaScript | 📅 2026-07-29 - A free, open-source HTML5 video player that is lightweight and easy to integrate. It offers advanced VAST (Video Ad Serving Template) capabilities, making it suitable for developers looking to implement video advertising. Fluid Player supports various customization options and is licensed under the MIT License.
@@ -1514,9 +1514,9 @@
 
 ### Mobile & Web Players
 
-* [Deskreen](https://github.com/pavlobu/deskreen) ⭐ 21,319 | 🐛 20 | 🌐 TypeScript | 📅 2026-07-08 - An open source application that turns any device with a web browser into a secondary screen for your computer by streaming your desktop over WebRTC in real-time.
+* [Deskreen](https://github.com/pavlobu/deskreen) ⭐ 21,324 | 🐛 20 | 🌐 TypeScript | 📅 2026-07-08 - An open source application that turns any device with a web browser into a secondary screen for your computer by streaming your desktop over WebRTC in real-time.
 * [ReactPlayer](https://github.com/cookpete/react-player) ⭐ 10,279 | 🐛 59 | 🌐 TypeScript | 📅 2025-11-13 - A React component for playing a variety of URLs, including YouTube, Vimeo, SoundCloud, and many more.
-* [React Native Video](https://github.com/react-native-video/react-native-video) ⭐ 7,708 | 🐛 143 | 🌐 Kotlin | 📅 2026-08-14 - A React Native component for video playback that supports both iOS and Android using native player APIs.
+* [React Native Video](https://github.com/react-native-video/react-native-video) ⭐ 7,708 | 🐛 142 | 🌐 Kotlin | 📅 2026-08-14 - A React Native component for video playback that supports both iOS and Android using native player APIs.
 * [streamlit-WebRTC](https://github.com/whitphx/streamlit-webrtc) ⭐ 1,705 | 🐛 94 | 🌐 Python | 📅 2026-08-13 - A Streamlit component that enables real-time video/audio streams in web apps. It allows building interactive computer vision or conferencing apps by integrating WebRTC with Streamlit.
 * [Epic Video Comparator](https://github.com/epiclabs-io/epic-video-comparator) ⭐ 85 | 🐛 3 | 🌐 TypeScript | 📅 2019-11-03 - JavaScript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source.
 * [Google Media Framework iOS](https://github.com/googleads/google-media-framework-ios) ⚠️ Archived - The Google Media Framework (GMF) is a lightweight media player designed to make video playback and integration with the Google IMA SDK on iOS easier.
@@ -1527,19 +1527,19 @@
 
 #### Web Players
 
-* [Plyr (GitHub)](https://github.com/sampotts/plyr) ⭐ 29,950 | 🐛 938 | 🌐 JavaScript | 📅 2026-01-03 - A simple HTML5, YouTube and Vimeo player.
-* [DPlayer (GitHub)](https://github.com/MoePlayer/DPlayer) ⭐ 16,473 | 🐛 268 | 🌐 JavaScript | 📅 2026-03-04 - Wow, such a lovely HTML5 danmaku video player.
-* [Mediaelement](https://github.com/mediaelement/mediaelement) ⭐ 8,298 | 🐛 228 | 🌐 JavaScript | 📅 2026-05-12 - HTML5 audio/video player with support for MP4, WebM, and MP3 as well as HLS, DASH, YouTube, Facebook, SoundCloud and others, exposing a consistent HTML5 MediaElement API across browsers.
-* [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,195 | 🐛 54 | 🌐 JavaScript | 📅 2026-08-13 - An open source JavaScript library for adaptive video streaming, providing a DASH and HLS player with Widevine DRM support for HTML5 browsers.
-* [Clappr](https://github.com/clappr/clappr) ⭐ 7,492 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-11 - An open source HTML5 video player that supports custom plugins and playback of various formats.
+* [Plyr (GitHub)](https://github.com/sampotts/plyr) ⭐ 29,951 | 🐛 938 | 🌐 JavaScript | 📅 2026-01-03 - A simple HTML5, YouTube and Vimeo player.
+* [DPlayer (GitHub)](https://github.com/MoePlayer/DPlayer) ⭐ 16,476 | 🐛 268 | 🌐 JavaScript | 📅 2026-03-04 - Wow, such a lovely HTML5 danmaku video player.
+* [Mediaelement](https://github.com/mediaelement/mediaelement) ⭐ 8,299 | 🐛 228 | 🌐 JavaScript | 📅 2026-05-12 - HTML5 audio/video player with support for MP4, WebM, and MP3 as well as HLS, DASH, YouTube, Facebook, SoundCloud and others, exposing a consistent HTML5 MediaElement API across browsers.
+* [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,196 | 🐛 54 | 🌐 JavaScript | 📅 2026-08-15 - An open source JavaScript library for adaptive video streaming, providing a DASH and HLS player with Widevine DRM support for HTML5 browsers.
+* [Clappr](https://github.com/clappr/clappr) ⭐ 7,492 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 - An open source HTML5 video player that supports custom plugins and playback of various formats.
 * [JSMpeg](https://github.com/phoboslab/jsmpeg) ⭐ 6,498 | 🐛 191 | 🌐 JavaScript | 📅 2022-09-20 - Pure-JavaScript MPEG-TS demuxer and MPEG1/MP2 decoder with WebGL rendering, \~50ms low-latency WebSocket streaming in \~20kb.
 * [jPlayer](https://github.com/jplayer/jPlayer) ⭐ 4,596 | 🐛 170 | 🌐 JavaScript | 📅 2021-11-02 - A jQuery-based media library that can be used to build web audio and video players. jPlayer abstracts the HTML5 <video> and <audio> elements and provides a consistent API, with a Flash fallback (for older browsers) and skinnable UI via CSS.
-* [video-react](https://github.com/video-react/video-react) ⭐ 2,725 | 🐛 140 | 🌐 JavaScript | 📅 2024-09-25 - A web video player built for the HTML5 world using React.
-* [media-chrome — web components for player UI](https://github.com/muxinc/media-chrome) ⭐ 2,723 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-01 - Framework-agnostic custom elements for building audio/video player controls; works with any playback engine (hls.js, dash.js, native video, YouTube).
+* [video-react](https://github.com/video-react/video-react) ⭐ 2,726 | 🐛 140 | 🌐 JavaScript | 📅 2024-09-25 - A web video player built for the HTML5 world using React.
+* [media-chrome — web components for player UI](https://github.com/muxinc/media-chrome) ⭐ 2,725 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-01 - Framework-agnostic custom elements for building audio/video player controls; works with any playback engine (hls.js, dash.js, native video, YouTube).
 * [Chimee](https://github.com/Chimeejs/chimee) ⭐ 2,394 | 🐛 35 | 🌐 JavaScript | 📅 2020-06-15 - A video player framework aims to bring wonderful experience on browser.
 * [Videogular](https://github.com/videogular/videogular) ⭐ 1,456 | 🐛 70 | 🌐 JavaScript | 📅 2018-07-08 - The HTML5 video player for AngularJS.
 * [Indigo Player](https://github.com/matvp91/indigo-player) ⭐ 1,245 | 🐛 58 | 🌐 TypeScript | 📅 2024-09-22 - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
-* [elements/packages/mux-player](https://github.com/muxinc/elements/tree/main/packages/mux-player) ⭐ 362 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-23 - The official Mux-flavored video player web component. The player UI is built on Media Chrome, with the mux-video element driving the core playback logic for Mux streams.
+* [elements/packages/mux-player](https://github.com/muxinc/elements/tree/main/packages/mux-player) ⭐ 363 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-23 - The official Mux-flavored video player web component. The player UI is built on Media Chrome, with the mux-video element driving the core playback logic for Mux streams.
 * [afterglow](https://github.com/moay/afterglow) ⭐ 233 | 🐛 13 | 🌐 JavaScript | 📅 2020-04-14 - An open source HTML5 video player that builds on top of Video.js, offering a simpler integration (just adding data attributes to video tags) and a default aesthetic out-of-the-box. afterglow aims to make including a responsive, skinnable video player on websites quick and easy.
 * [Replay](https://github.com/vimond/replay) ⭐ 225 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-16 - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 * [Projekktor](https://github.com/frankyghost/projekktor) ⭐ 195 | 🐛 32 | 🌐 JavaScript | 📅 2015-11-05 - An open source HTML5 video player from the early 2010s. Projekktor provided a unified player with plugin support to handle both HTML5 and Flash fallback in an era of transition. While development has slowed, it remains a piece of the open source player history.
@@ -1554,9 +1554,9 @@
 #### Android
 
 * [ExoPlayer (GitHub)](https://github.com/google/ExoPlayer) ⭐ 21,931 | 🐛 627 | 🌐 Java | 📅 2025-12-23 - ExoPlayer is an application level media player for Android.
-* [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) ⭐ 21,463 | 🐛 18 | 🌐 Java | 📅 2026-07-03 - An open source video player library for Android, offering multiple playback engines (ExoPlayer, IjkPlayer etc.), gesture controls, and rich features for building video apps.
+* [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) ⭐ 21,463 | 🐛 17 | 🌐 Java | 📅 2026-07-03 - An open source video player library for Android, offering multiple playback engines (ExoPlayer, IjkPlayer etc.), gesture controls, and rich features for building video apps.
 * [DKVideoPlayer](https://github.com/Doikki/DKVideoPlayer) ⭐ 5,324 | 🐛 115 | 🌐 Java | 📅 2024-06-03 - An Android video player library wrapping MediaPlayer, ExoPlayer, and IJKPlayer with features like preload, list playback, floating window, and more.
-* [mpv-android](https://github.com/mpv-android/mpv-android) ⭐ 3,466 | 🐛 163 | 🌐 Kotlin | 📅 2026-08-14 - An Android port of the mpv media player. It leverages mpv's core for high quality video playback on Android devices, supporting hardware decoding and gesture controls.
+* [mpv-android](https://github.com/mpv-android/mpv-android) ⭐ 3,468 | 🐛 167 | 🌐 Kotlin | 📅 2026-08-14 - An Android port of the mpv media player. It leverages mpv's core for high quality video playback on Android devices, supporting hardware decoding and gesture controls.
 * [ExoMedia](https://github.com/brianwernick/ExoMedia) ⭐ 2,169 | 🐛 22 | 🌐 Kotlin | 📅 2026-05-25 - Android media playback library wrapping ExoPlayer/Media3 to simplify audio/video setup, with HLS support; available on Maven Central.
 * [GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android) ⭐ 678 | 🐛 81 | 🌐 Java | 📅 2023-01-25 - An Android library that applies GPU-accelerated video filters to videos, integrates with ExoPlayer, and supports video recording with Camera2.
 * [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) ⭐ 94 | 🐛 3 | 🌐 Kotlin | 📅 2017-10-16 - A custom Android view that integrates a video player with a loader and placeholder image, enabling quick embedding of video playback in Android apps.
@@ -1570,9 +1570,9 @@
 #### iOS/tvOS
 
 * [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) ⭐ 4,394 | 🐛 142 | 🌐 Objective-C | 📅 2023-04-07 - An open source iOS live streaming framework that supports RTMP broadcasting with H.264 (GPU) and AAC encoding.
-* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) ⭐ 3,075 | 🐛 51 | 🌐 Swift | 📅 2022-07-21 - A powerful and completely customizable media player for iOS, with playback controls and easy integration.
+* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) ⭐ 3,074 | 🐛 51 | 🌐 Swift | 📅 2022-07-21 - A powerful and completely customizable media player for iOS, with playback controls and easy integration.
 * [SJVideoPlayer](https://github.com/changsanjiang/SJVideoPlayer) ⭐ 2,510 | 🐛 182 | 🌐 Objective-C | 📅 2022-12-10 - An open source media player library for iOS that provides a customizable player interface. It supports multiple backends (AVPlayer, IJKPlayer, etc.) and features like gesture controls and picture-in-picture.
-* [SGPlayer](https://github.com/libobjc/SGPlayer) ⭐ 2,192 | 🐛 38 | 🌐 Objective-C | 📅 2025-02-21 - A powerful media play framework for iOS, macOS, and tvOS.
+* [SGPlayer](https://github.com/libobjc/SGPlayer) ⭐ 2,193 | 🐛 38 | 🌐 Objective-C | 📅 2025-02-21 - A powerful media play framework for iOS, macOS, and tvOS.
 * [Player](https://github.com/piemonte/Player) ⭐ 2,165 | 🐛 11 | 🌐 Swift | 📅 2026-03-02 - ▶️ video player in Swift, simple way to play and stream media on iOS/tvOS.
 * [HTY360Player](https://github.com/hanton/HTY360Player) ⭐ 2,147 | 🐛 13 | 🌐 Swift | 📅 2026-03-08 - Open Source iOS 360 Degree Panorama Video Player.
 * [BMPlayer](https://github.com/BrikerMan/BMPlayer) ⭐ 2,006 | 🐛 120 | 🌐 Swift | 📅 2024-04-23 - A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
@@ -1608,7 +1608,7 @@
 
 * [Samples](https://github.com/rokudev/samples) ⭐ 546 | 🐛 61 | 🌐 Brightscript | 📅 2026-03-28 - Collection of sample channels for side-loading on your Roku device.
 * [BrighterScript](https://github.com/rokucommunity/brighterscript) ⭐ 204 | 🐛 317 | 🌐 TypeScript | 📅 2026-08-11 - Superset language of BrightScript adding types, classes, and modern features, compiles to standard BrightScript; also serves as LSP backend for editor tooling.
-* [brs-engine — BrightScript Simulation Engine](https://github.com/lvcabral/brs-engine) ⭐ 132 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-14 - Run Roku BrightScript/SceneGraph apps in the browser and Node.js, with filesystem/registry/remote simulation and a Micro Debugger.
+* [brs-engine — BrightScript Simulation Engine](https://github.com/lvcabral/brs-engine) ⭐ 132 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-15 - Run Roku BrightScript/SceneGraph apps in the browser and Node.js, with filesystem/registry/remote simulation and a Micro Debugger.
 * [Vscode Brightscript Language](https://github.com/rokucommunity/vscode-brightscript-language) ⭐ 131 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-11 - A Visual Studio Code extension for Roku's BrightScript language.
 * [SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions) ⭐ 128 | 🐛 51 | 🌐 Brightscript | 📅 2024-02-07 - Contribute to rokudev/SceneGraphDeveloperExtensions development by creating an account on GitHub.
 * [Unit Testing Framework](https://github.com/rokudev/unit-testing-framework) ⭐ 84 | 🐛 8 | 🌐 Brightscript | 📅 2022-10-12 - Tool for automating and testing Roku channels.
@@ -1616,7 +1616,7 @@
 * [rooibos](https://github.com/rokucommunity/rooibos) ⭐ 80 | 🐛 53 | 🌐 BrighterScript | 📅 2026-08-11 - Unit test framework for BrightScript/SceneGraph apps, a rewrite of Roku's official framework with code coverage support.
 * [Rooibos (georgejecook)](https://github.com/georgejecook/rooibos) ⭐ 80 | 🐛 53 | 🌐 BrighterScript | 📅 2026-08-11 - Simple, flexible, fun brightscript test framework for roku scenegraph apps.
 * [Roku Libs](https://github.com/juliomalves/roku-libs) ⭐ 66 | 🐛 1 | 🌐 Brightscript | 📅 2026-01-04 - BrightScript Utility Libraries.
-* [roku-deploy](https://github.com/rokucommunity/roku-deploy) ⭐ 57 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-13 - Node.js npm module for zipping, signing, and deploying Roku channel packages to devices.
+* [roku-deploy](https://github.com/rokucommunity/roku-deploy) ⭐ 57 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-14 - Node.js npm module for zipping, signing, and deploying Roku channel packages to devices.
 * [Roku Lib](https://github.com/dphang/roku-lib) ⚠️ Archived - Collection of utility functions and helpers for Roku channel development and video streaming apps.
 * [Ukor](https://github.com/willowtreeapps/ukor) ⚠️ Archived - A Roku build tool with support for build flavors.
 * [RokuFramework](https://github.com/mrkjffrsn/RokuFramework) ⭐ 51 | 🐛 4 | 🌐 Brightscript | 📅 2020-06-11 - Open source framework for developing Roku channels with reusable components for video streaming applications.
@@ -1645,7 +1645,7 @@
 
 ### Frameworks & UI Components
 
-* [Vapoursynth (GitHub)](https://github.com/vapoursynth/vapoursynth) ⭐ 2,075 | 🐛 10 | 🌐 C++ | 📅 2026-08-14 - A video processing framework with simplicity in mind.
+* [Vapoursynth (GitHub)](https://github.com/vapoursynth/vapoursynth) ⭐ 2,075 | 🐛 10 | 🌐 C++ | 📅 2026-08-15 - A video processing framework with simplicity in mind.
 * [Libvlcsharp](https://github.com/videolan/LibVLCSharp) ⭐ 1,805 | 🐛 5 | 🌐 C# | 📅 2026-08-05 - Cross-platform.NET/Mono bindings for LibVLC.
 * [Libvlc Go](https://github.com/adrg/libvlc-go) ⭐ 509 | 🐛 13 | 🌐 Go | 📅 2026-07-16 - Go bindings for libVLC and high-level media player interface.
 * [Channel Engine Multiview](https://github.com/Eyevinn/channel-engine-multiview) ⚠️ Archived - A multiview frontend for Eyevinn Channel Engine.
@@ -1655,7 +1655,7 @@
 
 ### Set-top Box Players
 
-* [Inputstream Adaptive](https://github.com/peak3d/inputstream.adaptive) ⭐ 528 | 🐛 23 | 🌐 C++ | 📅 2026-08-13 - Kodi inputstream addon for several manifest types.
+* [Inputstream Adaptive](https://github.com/peak3d/inputstream.adaptive) ⭐ 528 | 🐛 24 | 🌐 C++ | 📅 2026-08-13 - Kodi inputstream addon for several manifest types.
 * [WPE WebKit — WebKit for embedded/STB](https://github.com/WebPlatformForEmbedded/WPEWebKit) ⭐ 246 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-13 - Downstream WPE WebKit port for set-top boxes (RDK) with media handled via GStreamer and OpenCDM decryptors, requiring no UI toolkit dependency.
 * [inputstream.ffmpegdirect](https://github.com/xbmc/inputstream.ffmpegdirect) ⭐ 102 | 🐛 49 | 🌐 C++ | 📅 2026-08-13 - Kodi inputstream addon using FFmpeg libavformat/cURL for stream input (TS, HLS, DASH non-DRM), with catchup/timeshift support.
 * [exobase — Media3/ExoPlayer base for Android/TV](https://github.com/eneim/exobase) ⭐ 85 | 🐛 0 | 🌐 Java | 📅 2025-08-10 - Media3/ExoPlayer-based video player base compatible with Android TV, bundling FFmpeg extension (AC3/EAC3/DTS/TrueHD) and HDR10+/Dolby Vision support.
@@ -1665,7 +1665,7 @@
 
 ### Mobile Players
 
-* [react-native-video — React Native video component](https://github.com/TheWidlarzGroup/react-native-video) ⭐ 7,708 | 🐛 143 | 🌐 Kotlin | 📅 2026-08-14 - Community-maintained React Native <Video> component with DRM, offline, HLS/DASH support; v7 new-architecture in development.
+* [react-native-video — React Native video component](https://github.com/TheWidlarzGroup/react-native-video) ⭐ 7,708 | 🐛 142 | 🌐 Kotlin | 📅 2026-08-14 - Community-maintained React Native <Video> component with DRM, offline, HLS/DASH support; v7 new-architecture in development.
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) ⭐ 7,129 | 🐛 255 | 🌐 Objective-C | 📅 2024-05-24 - Support customization of any player SDK and control layer.
 * [ComposeMultiplatformMediaPlayer — KMP video player](https://github.com/Chaintech-Network/ComposeMultiplatformMediaPlayer) ⭐ 736 | 🐛 43 | 🌐 Kotlin | 📅 2026-01-21 - Kotlin/Compose Multiplatform media player supporting video, reels, audio, YouTube, thumbnails and HLS m3u8 across Android/iOS/wasmJs/Desktop.
 * [GSPlayer](https://github.com/wxxsw/GSPlayer) ⭐ 511 | 🐛 51 | 🌐 Swift | 📅 2026-06-07 - ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层.
@@ -1679,7 +1679,7 @@
 * [hls-downloader browser extension](https://github.com/puemos/hls-downloader) ⭐ 2,673 | 🐛 213 | 🌐 TypeScript | 📅 2026-08-11 - Browser extension that sniffs and downloads HLS streams in-browser using FFmpeg.WebAssembly for segment merging, supports MV2/MV3.
 * [stream-detector browser extension](https://github.com/54ac/stream-detector) ⚠️ Archived - Firefox/Chrome extension that tracks HLS/HDS/DASH/Smooth Streaming manifests on a page and emits ready-to-use yt-dlp/FFmpeg/streamlink commands.
 * [Bitmovin MP4Inspector](https://github.com/bitmovin/MP4Inspector) ⭐ 79 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-22 - Chrome extension that hooks SourceBuffer.appendBuffer to inspect MP4 bytes pushed into MSE SourceBuffers and surface stream irregularities.
-* [m3u8-video-sniffer](https://github.com/royswift2007/m3u8-video-sniffer) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Desktop tool with browser-extension integration to sniff, parse, and download m3u8/mpd/mp4 streams with multi-engine queue management.
+* [m3u8-video-sniffer](https://github.com/royswift2007/m3u8-video-sniffer) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Desktop tool with browser-extension integration to sniff, parse, and download m3u8/mpd/mp4 streams with multi-engine queue management.
 * [nas-extension (native adaptive streaming)](https://github.com/Palethorn/nas-extension) ⭐ 32 | 🐛 14 | 🌐 TypeScript | 📅 2024-05-07 - Browser extension that forces native HLS/MPEG-DASH playback by injecting hls.js/dash.js into pages lacking adaptive streaming support.
 * [media-bridge](https://github.com/jvillegasd/media-bridge) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07 - Manifest V3 Chromium extension that detects and downloads HLS/DASH/M3U8 streams, records live streams, muxes with FFmpeg.WebAssembly, and decrypts AES-128, with m3u8/mpd parser modules.
 
@@ -1694,10 +1694,10 @@
 
 ### Desktop Players
 
-* [VLC](https://github.com/videolan/vlc) ⭐ 19,316 | 🐛 2 | 🌐 C | 📅 2026-08-14 - Media player - All pull requests are ignored, please follow <HTTPS://wiki.videolan.org/Sending_Patches_VLC/>.
-* [Ruffle](https://github.com/ruffle-rs/ruffle) ⭐ 18,423 | 🐛 5,619 | 🌐 Rust | 📅 2026-08-14 - A Flash Player emulator written in Rust.
-* [mpv.net (GitHub)](https://github.com/mpvnet-player/mpv.net) ⭐ 5,323 | 🐛 155 | 🌐 C# | 📅 2026-02-09 - Modern mpv-based Windows media player with a customizable GUI, themes, and extension support built on the mpv engine.
-* [KSPlayer](https://github.com/kingslay/KSPlayer) ⭐ 1,639 | 🐛 10 | 🌐 Swift | 📅 2026-08-11 - Swift media player framework for iOS/macOS/tvOS/visionOS on AVPlayer+FFmpeg with HLG, HDR10, HDR10+, Dolby Vision, Dolby Atmos, and text/image subtitle support.
+* [VLC](https://github.com/videolan/vlc) ⭐ 19,326 | 🐛 2 | 🌐 C | 📅 2026-08-15 - Media player - All pull requests are ignored, please follow <HTTPS://wiki.videolan.org/Sending_Patches_VLC/>.
+* [Ruffle](https://github.com/ruffle-rs/ruffle) ⭐ 18,428 | 🐛 5,619 | 🌐 Rust | 📅 2026-08-15 - A Flash Player emulator written in Rust.
+* [mpv.net (GitHub)](https://github.com/mpvnet-player/mpv.net) ⭐ 5,328 | 🐛 155 | 🌐 C# | 📅 2026-02-09 - Modern mpv-based Windows media player with a customizable GUI, themes, and extension support built on the mpv engine.
+* [KSPlayer](https://github.com/kingslay/KSPlayer) ⭐ 1,639 | 🐛 9 | 🌐 Swift | 📅 2026-08-15 - Swift media player framework for iOS/macOS/tvOS/visionOS on AVPlayer+FFmpeg with HLG, HDR10, HDR10+, Dolby Vision, Dolby Atmos, and text/image subtitle support.
 * [VTM Decoder VLC Plugin](https://github.com/InterDigitalInc/VTMDecoder_VLCPlugin) ⭐ 26 | 🐛 5 | 🌐 C | 📅 2024-05-31 - VVC (H.266) video decoder plugin for VLC Media Player based on a multithreaded VTM decoder implementation. Includes TS demux plugin with VVC stream format support. Enables VVC playback in VLC with configurable threading and hurry-up mode.
 * [HWAcceleratedVP9Player](https://github.com/rinsuki/HWAcceleratedVP9Player) ⭐ 8 | 🐛 0 | 🌐 Swift | 📅 2020-08-05 - Hardware Accelerated VP9 Player in macOS 11.0 Big Sur beta 4+.
 
@@ -1710,7 +1710,7 @@
 
 * [react-tv](https://github.com/raphamorim/react-tv) ⚠️ Archived - React renderer and packager for building low-memory TV apps on webOS, Tizen, and Orsay.
 * [Awesome Smart TV](https://github.com/vitalets/awesome-smart-tv) ⭐ 1,402 | 🐛 3 | 📅 2026-07-26 - A curated list of awesome resources for building Smart TV apps.
-* [Moonfin Smart TV Client](https://github.com/Moonfin-Client/Smart-TV) ⭐ 374 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-14 - Premium Jellyfin and Emby client for Samsung Tizen and LG webOS Smart TVs. Built with Enact/Sandstone framework, featuring native video pipelines, hardware decoding (H.264, HEVC, HDR10, Dolby Vision), PGS/ASS subtitle rendering with libass, and unified multi-server library mode.
+* [Moonfin Smart TV Client](https://github.com/Moonfin-Client/Smart-TV) ⭐ 375 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-15 - Premium Jellyfin and Emby client for Samsung Tizen and LG webOS Smart TVs. Built with Enact/Sandstone framework, featuring native video pipelines, hardware decoding (H.264, HEVC, HDR10, Dolby Vision), PGS/ASS subtitle rendering with libass, and unified multi-server library mode.
 * [Samsung/TizenTVApps — Tizen TV Sample Apps](https://github.com/Samsung/TizenTVApps) ⭐ 292 | 🐛 6 | 🌐 JavaScript | 📅 2022-11-26 - Official Samsung tutorial and sample apps for the Tizen TV web platform (HTML5/JS/CSS).
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) ⭐ 61 | 🐛 4 | 🌐 CSS | 📅 2018-06-26 - HbbTV application which can playback media by using url of media as parameter. It conforms to W3C and HbbTV specification.
 * [Build a basic Cast Receiver](https://codelabs.developers.google.com/codelabs/cast-receiver/#0) - Google Codelab tutorial for building a basic Cast Receiver application to enable video playback on Google Cast-compatible smart TVs.
@@ -1724,7 +1724,7 @@
 
 * [Python-mpv](https://github.com/jaseg/python-mpv) ⭐ 631 | 🐛 30 | 🌐 Python | 📅 2025-04-25 - Python libmpv wrapper designed for embedding into other applications, disables GUI chrome by default.
 * [libmpv embedding examples](https://github.com/mpv-player/mpv-examples/tree/master/libmpv) ⭐ 286 | 🐛 17 | 🌐 C++ | 📅 2024-06-07 - Official libmpv embedding examples covering Qt widget, QML, render API, and C# integration for building custom embedded video players.
-* [philn/glide — GStreamer+GTK Media Player in Rust](https://github.com/philn/glide) ⭐ 286 | 🐛 8 | 🌐 Rust | 📅 2026-08-13 - Minimal cross-platform GStreamer + GTK media player written in Rust, a good base for kiosk/embedded playback of any GStreamer format.
+* [philn/glide — GStreamer+GTK Media Player in Rust](https://github.com/philn/glide) ⭐ 286 | 🐛 8 | 🌐 Rust | 📅 2026-08-15 - Minimal cross-platform GStreamer + GTK media player written in Rust, a good base for kiosk/embedded playback of any GStreamer format.
 * [Shaka Player Embedded](https://github.com/shaka-project/shaka-player-embedded) ⚠️ Archived - A C++ framework that integrates Shaka Player, Google's open-source DASH and HLS player, into native applications. It enables developers to incorporate adaptive streaming capabilities into their applications, supporting various streaming protocols and DRM systems.
 * [intel/gstreamer-media-SDK — HW-Accel GStreamer Plugins](https://github.com/intel/gstreamer-media-SDK) ⚠️ Archived - Hardware-accelerated GStreamer plugins with zero-copy EGL glimagesink and a Yocto embedded edition for Intel platforms.
 * [libmpv2-rs — Rust Bindings for libmpv 2.0](https://github.com/kohsine/libmpv2-rs) ⭐ 60 | 🐛 1 | 🌐 Rust | 📅 2026-05-22 - Active Rust safe-abstraction over libmpv 2.0 (mpv 0.35+) for embedding a full-featured player, including a rendering implementation.
@@ -1732,9 +1732,9 @@
 
 ## General Tools
 
-* [FaceSwap](https://github.com/deepfakes/faceswap) ⭐ 57,454 | 🐛 12 | 🌐 Python | 📅 2026-08-05 - An open source deepfake application that provides tools to extract, train, and swap faces in videos. FaceSwap has an active community and supports plugins for different neural network models.
+* [FaceSwap](https://github.com/deepfakes/faceswap) ⭐ 57,458 | 🐛 12 | 🌐 Python | 📅 2026-08-05 - An open source deepfake application that provides tools to extract, train, and swap faces in videos. FaceSwap has an active community and supports plugins for different neural network models.
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ⚠️ Archived - The leading software for creating deepfakes. It's an open source toolkit that allows users to swap faces in videos using machine learning, with support for multiple models and GPU acceleration.
-* [Editly](https://github.com/mifi/editly) ⭐ 5,471 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - A command-line tool for declarative video editing, allowing users to create videos programmatically using JSON configurations. It supports features like text overlays, transitions, and audio tracks, making it a valuable resource for developers seeking to automate video creation processes.
+* [Editly](https://github.com/mifi/editly) ⭐ 5,472 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - A command-line tool for declarative video editing, allowing users to create videos programmatically using JSON configurations. It supports features like text overlays, transitions, and audio tracks, making it a valuable resource for developers seeking to automate video creation processes.
 * [Seriously.js](https://github.com/brianchirls/Seriously.js) ⭐ 3,883 | 🐛 69 | 🌐 JavaScript | 📅 2022-10-21 - A real-time, node-based video compositor for the web. Inspired by professional software like After Effects, it allows dynamic and interactive rendering of high-quality video effects directly in the browser.
 * [VidGear](https://github.com/abhiTronix/vidgear) ⭐ 3,720 | 🐛 1 | 🌐 Python | 📅 2026-05-18 - A high-performance cross-platform video processing Python framework that provides an easy-to-use, highly extensible, and thoroughly optimized multi-threaded API. It integrates various libraries like OpenCV, FFmpeg, and ZeroMQ, enabling developers to perform complex video processing tasks with minimal code.
 * [FFCreator](https://github.com/tnfe/FFCreator) ⭐ 3,156 | 🐛 180 | 🌐 JavaScript | 📅 2024-12-19 - A fast video processing library based on Node.js. It allows developers to create videos with various effects, transitions, and animations programmatically, making it suitable for applications like video generation and editing.
@@ -1807,7 +1807,7 @@
 
 ### Command-line Utilities & Wrappers
 
-* [Streamlink](https://github.com/streamlink/streamlink) ⭐ 11,689 | 🐛 74 | 🌐 Python | 📅 2026-08-12 - A CLI utility which pipes video streams from various services into a video player.
+* [Streamlink](https://github.com/streamlink/streamlink) ⭐ 11,692 | 🐛 74 | 🌐 Python | 📅 2026-08-12 - A CLI utility which pipes video streams from various services into a video player.
 * [goffmpeg — Go FFmpeg wrapper](https://github.com/xfrr/goffmpeg) ⭐ 835 | 🐛 3 | 🌐 Go | 📅 2024-07-25 - Maintained Go wrapper for FFmpeg: transcode/stream with progress via channel, filters, watermark, concat, subtitles.
 * [Jaffree](https://github.com/kokorin/Jaffree) ⭐ 550 | 🐛 19 | 🌐 Java | 📅 2026-03-17 - Java FFmpeg and ffprobe command-line wrapper.
 * [Eel](https://github.com/Comcast/eel) ⭐ 108 | 🐛 4 | 🌐 Go | 📅 2025-07-18 - A simple proxy service to forward JSON events and transform or filter them along the way.
@@ -1823,13 +1823,13 @@
 * [pssh-tools — JS PSSH generator for multi-DRM](https://github.com/feedsbrain/pssh-tools) ⭐ 20 | 🐛 6 | 🌐 TypeScript | 📅 2025-05-10 - JavaScript/Node library to generate PSSH data and boxes for multi-DRM CENC (Widevine, PlayReady).
 * [google/cpix\_cc — CPIX 2.2 C++ Implementation](https://github.com/google/cpix_cc) ⚠️ Archived - Google C++ implementation of the DASH-IF CPIX 2.2 spec to create, read, and modify CPIX documents for key/DRM exchange.
 * [pssh-box-rs — PSSH box parser/serializer in Rust](https://github.com/emarsden/pssh-box-rs) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-07-24 - Rust library and CLI to parse and serialize DRM PSSH boxes (base64/hex/binary) across Widevine, PlayReady, WisePlay, Irdeto, Marlin, Nagra, Netflix FairPlay and CENC.
-* [DRMSense — browser DRM capability tester](https://github.com/avikekkk/DRMSense) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-26 - Local browser tool testing DRM capabilities (Widevine/PlayReady/FairPlay), supported codecs and HDR; MIT.
+* [DRMSense — browser DRM capability tester](https://github.com/avikekkk/DRMSense) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-26 - Local browser tool testing DRM capabilities (Widevine/PlayReady/FairPlay), supported codecs and HDR; MIT.
 * [Cpix Validator](https://github.com/Axinom/cpix-validator) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2023-01-18 - Web app for validating CPIX documents. Contribute to Axinom/cpix-validator development by creating an account on GitHub.
 * [clearkey-test-cases — EME ClearKey Test Vectors](https://github.com/SingingTree/clearkey-test-cases) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-02 - Collection of ClearKey EME test cases covering cenc and cbcs schemes for mp4/webm, packaged with shaka-packager.
 
 ### Widevine FairPlay PlayReady Integrations
 
-* [pywidevine](https://github.com/devine-dl/pywidevine) ⭐ 911 | 🐛 13 | 🌐 Python | 📅 2025-10-27 - Python implementation of the Widevine CDM with a built-in test command that validates license acquisition against a sample stream; useful for DRM integration/testing.
+* [pywidevine](https://github.com/devine-dl/pywidevine) ⭐ 912 | 🐛 13 | 🌐 Python | 📅 2025-10-27 - Python implementation of the Widevine CDM with a built-in test command that validates license acquisition against a sample stream; useful for DRM integration/testing.
 * [Video Decrypter](https://github.com/CrackerCat/video_decrypter) ⭐ 337 | 🐛 0 | 🌐 C++ | 📅 2022-02-01 - Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 * [Axinom DRM Quick Start](https://github.com/Axinom/drm-quick-start) ⭐ 265 | 🐛 10 | 🌐 JavaScript | 📅 2026-04-30 - Node.js sample wiring Widevine + PlayReady + FairPlay license/key services together, with AWS SPEKE and Widevine CENC API support.
 * [ksm — Go FairPlay Key Security Module](https://github.com/easonlin404/ksm) ⭐ 108 | 🐛 1 | 🌐 Go | 📅 2023-03-27 - Go implementation of an Apple FairPlay Streaming Key Security Module (KSM).
@@ -1858,7 +1858,7 @@
 
 ### FFmpeg & Tools
 
-* [Videomass](https://github.com/jeanslack/Videomass) ⭐ 1,660 | 🐛 22 | 🌐 Python | 📅 2026-05-03 - Cross-platform FFmpeg GUI in Python3/wxPython with multitasking transcoding, running on Linux/macOS/Windows/FreeBSD.
+* [Videomass](https://github.com/jeanslack/Videomass) ⭐ 1,661 | 🐛 22 | 🌐 Python | 📅 2026-05-03 - Cross-platform FFmpeg GUI in Python3/wxPython with multitasking transcoding, running on Linux/macOS/Windows/FreeBSD.
 * [HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) ⭐ 708 | 🐛 63 | 🌐 HTML | 📅 2026-05-11 - HandBrake + FFmpeg/FFprobe batch automation GUI with recursive folder scans, folder watching, and multi-instance encoding across Windows/macOS/Linux/Docker.
 * [FFmpeg-web](https://github.com/dinoosauro/ffmpeg-web) ⭐ 278 | 🐛 6 | 🌐 TypeScript | 📅 2025-09-02 - Web + Electron UI built on FFmpeg.WebAssembly for converting video (H264/H265/VP9/VP8/Theora/WMV), audio, and images, with merging and album-art video generation, all client-side.
 * [video-compress (FFmpeg.WebAssembly)](https://github.com/addyosmani/video-compress) ⭐ 225 | 🐛 7 | 🌐 TypeScript | 📅 2025-02-07 - React + FFmpeg.WebAssembly in-browser video compression with real-time preview and no server uploads.
@@ -1867,7 +1867,7 @@
 * [FFmpeg-gui (Haoming02)](https://github.com/Haoming02/ffmpeg-gui) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-16 - Lightweight Tauri FFmpeg GUI for batch-processing folders with CRF/bitrate control, progress bar, and interrupt support.
 * [gui-for-FFmpeg](https://github.com/lostdusty/gui-for-ffmpeg) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2024-02-28 - Go + Fyne cross-platform FFmpeg GUI frontend with multi-language support.
 * [FFmpeg-gui (puzzithinker)](https://github.com/puzzithinker/ffmpeg-gui) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-17 - Tauri 2 + Rust + React FFmpeg GUI with visual trim timeline, subtitle burn, and real-time progress; uses the system FFmpeg.
-* [ffui — FFmpeg desktop GUI](https://github.com/muyuanjin/ffui) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-22 - Tauri/Rust + Vue3 desktop FFmpeg GUI with batch video/audio/image queue workflow, preset management, quality comparison, and auto-download of FFmpeg. MIT.
+* [ffui — FFmpeg desktop GUI](https://github.com/muyuanjin/ffui) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-22 - Tauri/Rust + Vue3 desktop FFmpeg GUI with batch video/audio/image queue workflow, preset management, quality comparison, and auto-download of FFmpeg. MIT.
 
 ### API Libraries & SDKs
 
@@ -1879,7 +1879,7 @@
 
 ### DRM Solutions & Implementations
 
-* [Video Seal (Meta)](https://github.com/facebookresearch/videoseal) ⭐ 731 | 🐛 18 | 🌐 Python | 📅 2026-07-02 - Meta's efficient neural video and image forensic watermarking framework with a 256-bit payload model (MIT).
+* [Video Seal (Meta)](https://github.com/facebookresearch/videoseal) ⭐ 738 | 🐛 18 | 🌐 Python | 📅 2026-07-02 - Meta's efficient neural video and image forensic watermarking framework with a 256-bit payload model (MIT).
 * [RivaGAN](https://github.com/DAI-Lab/RivaGAN) ⭐ 321 | 🐛 8 | 🌐 Python | 📅 2021-10-12 - Robust video watermarking with non-differentiable adversaries, recovering payload after redistribution (MIT).
 * [Axinom DRM Decoders](https://tools.axinom.com) - Axinom offers DRM tools for encoding and decoding, ensuring secure streaming media delivery.
 * [CENC — The DRM Blog](https://go.buydrm.com/thedrmblog/topic/cenc) - CENC | The DRM Blog - Your New Official Source for Everything DRM.
@@ -1890,7 +1890,7 @@
 
 ### Independent & Hobbyist Projects
 
-* [codec-from-scratch (kevmo314)](https://github.com/kevmo314/codec-from-scratch) ⭐ 462 | 🐛 1 | 🌐 Go | 📅 2025-03-07 - \~120-line Go weekend project building a simple video encoder from scratch (YUV420P → RLE → DEFLATE).
+* [codec-from-scratch (kevmo314)](https://github.com/kevmo314/codec-from-scratch) ⭐ 463 | 🐛 1 | 🌐 Go | 📅 2025-03-07 - \~120-line Go weekend project building a simple video encoder from scratch (YUV420P → RLE → DEFLATE).
 * [sensorReporter](https://github.com/rkoshak/sensorReporter) ⭐ 107 | 🐛 2 | 🌐 Python | 📅 2026-02-23 - A Python based service that receives sensor inputs and publishes them over REST (should work with any API but mainly tested with openHAB) or MQTT.
 * [Rokumote](https://github.com/nod/rokumote) ⭐ 33 | 🐛 3 | 🌐 Swift | 📅 2018-05-01 - macOS app for controlling your roku because sometimes your kids lose the remote.
 
@@ -1904,7 +1904,7 @@
 
 ### Specialized Utility Scripts
 
-* [Springer Free Books](https://github.com/alexgand/springer_free_books) ⭐ 1,644 | 🐛 23 | 🌐 Python | 📅 2022-12-08 - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine.
+* [Springer Free Books](https://github.com/alexgand/springer_free_books) ⭐ 1,645 | 🐛 23 | 🌐 Python | 📅 2022-12-08 - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine.
 * [jwplayer-thumbnail-preview-generator](https://github.com/amnuts/jwplayer-thumbnail-preview-generator) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2021-10-09 - Small PHP CLI generating sprite sheets and VTT files for JW Player scrub-bar thumbnail previews.
 * [tcCoca — SMPTE/EBU Timecode Calculator](https://github.com/agfline/tcCoca) ⭐ 12 | 🐛 0 | 🌐 C | 📅 2019-10-03 - Small C CLI tool converting/calculating SMPTE/EBU timecodes, supporting drop/non-drop frame and 14 framerates.
 * [Content Manager](https://github.com/ebu/content-manager) ⭐ 8 | 🐛 9 | 🌐 C# | 📅 2017-03-01 - A visual production tool which generates on-the-fly visualisations for DAB slideshow and RadioVIS. Based on the .NET framework, it is developed in C# and distributed as open source.
@@ -1957,7 +1957,7 @@
 
 ### Logging & Debugging Tools
 
-* [Man in the Middle Proxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,700 | 🐛 466 | 🌐 Python | 📅 2026-08-13 - An interactive HTTPS proxy that allows inspection, modification, and debugging of network traffic, useful for video streaming analysis.
+* [Man in the Middle Proxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,704 | 🐛 469 | 🌐 Python | 📅 2026-08-13 - An interactive HTTPS proxy that allows inspection, modification, and debugging of network traffic, useful for video streaming analysis.
 * [Video Containers Debugging Tools](https://github.com/leandromoreira/video-containers-debugging-tools) ⭐ 52 | 🐛 0 | 📅 2024-02-04 - A set of command lines to debug video streaming files like mp4 (MPEG-4 Part 14), ts (MPEG-2 Part 1), fmp4 in Dash, HLS, or MSS, with or without DRM.
 * [Chrome Media Internals](https://developer.chrome.com/docs/devtools/media-panel) - A built-in Chrome tool that provides detailed logs and diagnostics for media playback and streaming issues.
 
@@ -1967,7 +1967,7 @@
 
 ### Cross-Platform Media Tools
 
-* [Wsgidav](https://github.com/mar10/wsgidav) ⭐ 1,217 | 🐛 6 | 🌐 Python | 📅 2026-08-09 - A generic and extendable WebDAV server based on WSGI.
+* [Wsgidav](https://github.com/mar10/wsgidav) ⭐ 1,218 | 🐛 6 | 🌐 Python | 📅 2026-08-09 - A generic and extendable WebDAV server based on WSGI.
 * [Text To Speech Node.js](https://github.com/watson-developer-cloud/text-to-speech-nodejs) ⚠️ Archived - Sample Node.js Application for the IBM Watson Text to Speech Service.
 
 ### Docker & Containerization Tools
@@ -1979,14 +1979,14 @@
 
 ## Standards & Industry
 
-* [Awesome Video: A Curated List of Streaming Video Tools and Resources](https://github.com/krzemienski/awesome-video) ⭐ 1,907 | 🐛 46 | 🌐 HTML | 📅 2026-07-20 - Awesome Video is a curated list of streaming video tools, frameworks, libraries, and learning resources. It covers various aspects of video technology, including DASH, AV1, and video containers, providing valuable information for developers interested in video streaming and encoding.
-* [Use DirectX with Advanced Color on High/Standard Dynamic Range Displays](https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/direct3darticles/high-dynamic-range.md) ⭐ 1,343 | 🐛 21 | 📅 2026-08-14 - A detailed guide from Microsoft on utilizing DirectX for Advanced Color scenarios, including HDR and wide color gamut, providing instructions for rendering HDR content, adapting to display capabilities using tone mapping, and capturing HDR screen content.
+* [Awesome Video: A Curated List of Streaming Video Tools and Resources](https://github.com/krzemienski/awesome-video) ⭐ 1,907 | 🐛 47 | 🌐 HTML | 📅 2026-07-20 - Awesome Video is a curated list of streaming video tools, frameworks, libraries, and learning resources. It covers various aspects of video technology, including DASH, AV1, and video containers, providing valuable information for developers interested in video streaming and encoding.
+* [Use DirectX with Advanced Color on High/Standard Dynamic Range Displays](https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/direct3darticles/high-dynamic-range.md) ⭐ 1,344 | 🐛 21 | 📅 2026-08-14 - A detailed guide from Microsoft on utilizing DirectX for Advanced Color scenarios, including HDR and wide color gamut, providing instructions for rendering HDR content, adapting to display capabilities using tone mapping, and capturing HDR screen content.
 * [xAVS2 & dAVS2](https://github.com/pkuvcl/xavs2) ⭐ 252 | 🐛 15 | 🌐 C | 📅 2024-06-23 - XAVS2 and dAVS2 are open-source encoder and decoder published by Peking University Video Coding Laboratory (PKU-VCL) based on the AVS2-P2/IEEE 1857.4 video coding standard. These tools are offered under either version 2 of the GNU General Public License (GPL) or a commercial license. They are valuable for developers working with the AVS2 standard, providing efficient encoding and decoding solutions.
 * [XEVE: eXtra-fast Essential Video Encoder](https://github.com/mpeg5/xeve) ⭐ 205 | 🐛 12 | 🌐 C | 📅 2026-08-08 - XEVE is an open-source video encoder implementing the MPEG-5 Essential Video Coding (EVC) standard. It offers improved visual quality for video calls and addresses licensing complexities associated with other codecs.
 * [uAVS3](https://github.com/uavs3/uavs3d) ⭐ 134 | 🐛 12 | 🌐 C | 📅 2026-08-10 - An open-source and cross-platform AVS3 encoder and decoder. The decoder (uAVS3d) and encoder (uAVS3e) support the AVS3-Phase2 baseline profile. uAVS3d can be compiled for Windows, Linux, macOS, iOS, and Android, while uAVS3e can be compiled for Windows and Linux. These tools are valuable for developers working with the AVS3 standard, offering efficient encoding and decoding capabilities.
 * [NBCUniversal UHD HDR-SDR Single Master Production Workflow Recommendation LUTs](https://github.com/digitaltvguy/NBCUniversal-UHD-HDR-SDR-Single-Master-Production-Workflow-Recommendation-LUTs) ⭐ 113 | 🐛 2 | 📅 2026-07-23 - This repository provides Look-Up Tables (LUTs) recommended by NBCUniversal for a single master production workflow accommodating both HDR and SDR content. It serves as a valuable resource for professionals aiming to streamline their production processes while maintaining high-quality output across different display standards.
 * [MPEG-2 Transport Stream Packet Analyser](https://github.com/daniep01/MPEG-2-Transport-Stream-Packet-Analyser) ⭐ 106 | 🐛 0 | 🌐 Visual Basic .NET | 📅 2023-06-28 - An MPEG-2 Transport Stream packet analyser that enables decoding and low-level analysis of ISO/DVB/AVCHD transport streams. It is useful for fault-finding, equipment and system testing, software development, and learning about digital television systems.
-* [Common Media Library](https://github.com/streaming-video-technology-alliance/common-media-library) ⭐ 82 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-14 - Developed by the Streaming Video Technology Alliance, the Common Media Library is a JavaScript library aimed at standardizing media playback across different platforms. It provides a consistent API for developers to implement media playback functionalities, ensuring compatibility and reducing fragmentation in the streaming ecosystem.
+* [Common Media Library](https://github.com/streaming-video-technology-alliance/common-media-library) ⭐ 82 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-15 - Developed by the Streaming Video Technology Alliance, the Common Media Library is a JavaScript library aimed at standardizing media playback across different platforms. It provides a consistent API for developers to implement media playback functionalities, ensuring compatibility and reducing fragmentation in the streaming ecosystem.
 * [XEVD: eXtra-fast Essential Video Decoder](https://github.com/mpeg5/xevd) ⭐ 82 | 🐛 5 | 🌐 C | 📅 2026-08-08 - XEVD is the counterpart decoder to XEVE, providing an open-source implementation of the MPEG-5 EVC standard. It enables efficient decoding of EVC-encoded video streams.
 * [ITU-T P.1204.3 Reference Implementation](https://github.com/Telecommunication-Telemedia-Assessment/bitstream_mode3_p1204_3) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2026-03-30 - This project offers an open-source reference implementation of the ITU-T P.1204.3 standard, a bitstream-based short-term video quality prediction model. It estimates video quality scores on a segment level using full bitstream data, aiding in the assessment of video quality.
 * [Encoding Guidelines by Academy Software Foundation](https://github.com/AcademySoftwareFoundation/EncodingGuidelines) ⭐ 54 | 🐛 8 | 🌐 Dockerfile | 📅 2026-04-07 - This project provides guidelines for encoding frames to movie files for review purposes. It includes test suites to help select suitable encoding profiles for VFX/Animation media reviews and aims to develop best practices for encoding parameters.
@@ -2146,7 +2146,7 @@
 
 ### Best Practices & Guidelines
 
-* [Caniuse](https://github.com/Fyrd/caniuse) ⭐ 5,867 | 🐛 979 | 🌐 JSON | 📅 2026-08-07 - Raw browser/feature support data from caniuse.com.
+* [Caniuse](https://github.com/Fyrd/caniuse) ⭐ 5,865 | 🐛 979 | 🌐 JSON | 📅 2026-08-07 - Raw browser/feature support data from caniuse.com.
 * [Cable Bible](https://github.com/amiaopensource/cable-bible) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2025-11-20 - A guide to cables and connectors used for audiovisual tech.
 * [Apple Got It Wrong: Encoding Specs for HEVC in HLS](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=121878) - Adding HEVC to your HLS streams is looking like a no brainer, but if you decide to do so, you may not want to take Apple's HEVC encoding recommendations verbatim. You'll deliver noticeably higher quality video if you follow the advice detailed below.
 * [Dolby Vision for Content Creators](https://www.dolby.com/us/en/technologies/dolby-vision/dolby-vision-for-creative-professionals.html) - The Dolby Vision integrated workflow gives you the tools needed to efficiently create wide color gamut and high dynamic range content and ensures that the look you create in the color suite stays true when experienced across across a multitude of devices. With Dolby Vision high dynamic range imaging, you get bolder highlights and incredible contrast. That means greater sharpness, depth, and more detailed shadows to expand your storytelling possibilities like never before.
@@ -2268,7 +2268,7 @@
 
 ### Community Groups
 
-* [CNCF Community Groups](https://github.com/cncf/communitygroups) ⭐ 221 | 🐛 59 | 📅 2026-06-10 - Managed by the Cloud Native Computing Foundation, this repository organizes community groups (formerly meetups) focused on cloud-native technologies. It offers resources for organizing and participating in community events, including training sessions and support for event management.
+* [CNCF Community Groups](https://github.com/cncf/communitygroups) ⭐ 221 | 🐛 60 | 📅 2026-06-10 - Managed by the Cloud Native Computing Foundation, this repository organizes community groups (formerly meetups) focused on cloud-native technologies. It offers resources for organizing and participating in community events, including training sessions and support for event management.
 * [Bay Area Tech Meetups](https://github.com/elizabethsiegle/Bay_Area_tech_meetups) ⭐ 190 | 🐛 0 | 🌐 Shell | 📅 2023-02-06 - A comprehensive list of tech meetups in the San Francisco Bay Area, covering topics like mobile development, iOS, AI, and more. It provides details on meetup topics, locations, and schedules, aiding developers in finding relevant community events.
 * [ConferenceXP](https://github.com/conferencexp/conferencexp) ⭐ 100 | 🐛 25 | 🌐 C# | 📅 2016-09-09 - An open-source video conferencing and collaboration platform developed by Microsoft Research. It supports low-latency, high-fidelity conferencing applications and is optimized for multicast networks, making it suitable for academic, government, and research networks.
 * [Atlanta Tech Resources](https://github.com/citizen00147/atlanta-tech-resources) ⭐ 14 | 🐛 1 | 📅 2024-03-08 - A curated collection of groups, events, and opportunities for developers in the Atlanta, GA area. This repository serves as a comprehensive guide to active tech meetups, affordable conventions, and networking opportunities, making it easier for developers to connect and collaborate.
@@ -2322,13 +2322,13 @@
 
 ## Infrastructure & Delivery
 
-* [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://github.com/Tencent/HunyuanVideo) ⭐ 12,422 | 🐛 183 | 🌐 Python | 📅 2026-06-29 - HunyuanVideo is an open-source video foundation model that demonstrates performance in video generation comparable to, or even surpassing, leading closed-source models. It encompasses a comprehensive framework integrating data curation, advanced architectural design, progressive model scaling and training, and efficient infrastructure tailored for large-scale model training and inference. HunyuanVideo aims to bridge the gap between closed-source and open-source communities, empowering individuals to experiment with their ideas and fostering a more dynamic video generation ecosystem.
-* [AVideo CDN Storage](https://github.com/WWBN/AVideo/wiki/CDN-Storage) ⭐ 2,099 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-14 - AVideo offers a CDN Storage solution that automatically replicates video files globally, ensuring low latency and high throughput for video streaming. It provides infinite scalability, strategic positioning of data, and direct CDN integration, making it valuable for developers seeking efficient content delivery.
+* [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://github.com/Tencent/HunyuanVideo) ⭐ 12,425 | 🐛 183 | 🌐 Python | 📅 2026-06-29 - HunyuanVideo is an open-source video foundation model that demonstrates performance in video generation comparable to, or even surpassing, leading closed-source models. It encompasses a comprehensive framework integrating data curation, advanced architectural design, progressive model scaling and training, and efficient infrastructure tailored for large-scale model training and inference. HunyuanVideo aims to bridge the gap between closed-source and open-source communities, empowering individuals to experiment with their ideas and fostering a more dynamic video generation ecosystem.
+* [AVideo CDN Storage](https://github.com/WWBN/AVideo/wiki/CDN-Storage) ⭐ 2,099 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-14 - AVideo offers a CDN Storage solution that automatically replicates video files globally, ensuring low latency and high throughput for video streaming. It provides infinite scalability, strategic positioning of data, and direct CDN integration, making it valuable for developers seeking efficient content delivery.
 * [HLS.js P2P Engine](https://github.com/cdnbye/hlsjs-p2p-engine) ⭐ 1,075 | 🐛 5 | 📅 2026-01-19 - A hls.js plugin to offload bandwidth from expensive traditional CDNs，while also maximizing a user's viewing experience.
 * [Kaltura Platform Install Packages](https://github.com/kaltura/platform-install-packages) ⭐ 536 | 🐛 29 | 🌐 Shell | 📅 2023-03-31 - Official deployment packages to install the Kaltura platform on server or cluster environments using native OS package managers. Kaltura provides a comprehensive video platform for managing, publishing, and distributing video content.
 * [BemTV](https://github.com/streamroot/bemtv) ⚠️ Archived - An open-source P2P library tailored for the HTTP Live Streaming (HLS) protocol. It introduces a hybrid CDN/P2P architecture for live video broadcasts over the internet, leveraging WebRTC to decentralize delivery. This approach reduces the number of requests to CDN servers, thereby decreasing transmission costs and enhancing system scalability. BemTV is valuable for developers exploring peer-to-peer solutions to scale live video streaming without external plugins.
 * [ClipBucket](https://github.com/arslancb/clipbucket) ⚠️ Archived - An open source video sharing platform (YouTube-like) allowing users to upload, manage, and stream video content on their own server.
-* [Kaltura Community Edition](https://github.com/kaltura/server) ⭐ 407 | 🐛 361 | 🌐 PHP | 📅 2026-08-13 - The open source edition of the Kaltura video platform, which offers video content management, transcoding, and streaming services that can be self-hosted.
+* [Kaltura Community Edition](https://github.com/kaltura/server) ⭐ 407 | 🐛 362 | 🌐 PHP | 📅 2026-08-15 - The open source edition of the Kaltura video platform, which offers video content management, transcoding, and streaming services that can be self-hosted.
 * [Dionysia](https://github.com/dionysia-dev/dionysia) ⭐ 130 | 🐛 5 | 🌐 Go | 📅 2024-05-04 - A live streaming platform based on open-source software. It integrates various open-source projects to create a seamless experience for video developers, supporting multiple ingest protocols, customizable transcoding profiles, and adaptive bitrate streaming.
 * [Intel Cloud Streaming](https://github.com/intel/cloud-streaming) ⚠️ Archived - A comprehensive suite of software, drivers, and utilities to set up streaming and video encoding services in the cloud. It enables remote access to Android and Windows cloud instances, providing tools for screen capture, encoding, and streaming.
 * [CDN Video Uploader and Transcoder](https://github.com/SoftUni/CDN-Video-Uploader) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2024-06-11 - A tool designed for transcoding and uploading videos to a CDN network for HLS video streaming. It supports various input formats and resolutions, utilizes hardware-accelerated video transcoding, and automates the upload process to the target CDN.
@@ -2395,4 +2395,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
