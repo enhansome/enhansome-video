@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T02:55:49Z",
             "owner": "libjxl",
             "repo": "libjxl",
-            "stars": 3633
+            "stars": 3634
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-22T10:42:57Z",
             "owner": "aeron-io",
             "repo": "simple-binary-encoding",
-            "stars": 3494
+            "stars": 3495
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 111158319,
             "language": "C",
-            "last_commit": "2026-08-24T09:19:27Z",
+            "last_commit": "2026-08-25T08:50:21Z",
             "owner": "intel",
             "repo": "media-driver",
             "stars": 1237
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-18T09:32:37Z",
             "owner": "fraunhoferhhi",
             "repo": "vvenc",
-            "stars": 1202
+            "stars": 1203
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-03-27T02:31:22Z",
             "owner": "TheNickOfTime",
             "repo": "handbrake-web",
-            "stars": 794
+            "stars": 793
           }
         },
         {
@@ -215,6 +215,21 @@
         },
         {
           "node_type": "item",
+          "title": "UT Video Codec Suite",
+          "description": "An open source lossless video codec from Umezawa that provides fast encoding/decoding and is often used for lossless video compression on Windows (supports RGB and YUV formats).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40411891,
+            "language": "C++",
+            "last_commit": "2025-10-17T14:22:12Z",
+            "owner": "umezawatakeshi",
+            "repo": "utvideo",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
           "title": "x264: H.264 Video Encoder",
           "description": "X264 is a free software library for encoding video streams into the H.264/MPEG-4 AVC format. It is widely used due to its high performance and quality, making it a staple in video encoding applications.",
           "children": [],
@@ -226,21 +241,6 @@
             "owner": "mirror",
             "repo": "x264",
             "stars": 346
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UT Video Codec Suite",
-          "description": "An open source lossless video codec from Umezawa that provides fast encoding/decoding and is often used for lossless video compression on Windows (supports RGB and YUV formats).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 40411891,
-            "language": "C++",
-            "last_commit": "2025-10-17T14:22:12Z",
-            "owner": "umezawatakeshi",
-            "repo": "utvideo",
-            "stars": 345
           }
         },
         {
@@ -542,7 +542,7 @@
                 "last_commit": "2026-08-24T00:22:37Z",
                 "owner": "juliobbv-p",
                 "repo": "svt-av1-hdr",
-                "stars": 241
+                "stars": 242
               }
             },
             {
@@ -584,7 +584,7 @@
                 "archived": false,
                 "id": 1238937717,
                 "language": "C",
-                "last_commit": "2026-08-24T23:43:30Z",
+                "last_commit": "2026-08-25T18:45:42Z",
                 "owner": "AOMediaCodec",
                 "repo": "avm",
                 "stars": 209
@@ -624,7 +624,7 @@
                 "last_commit": "2026-08-21T09:03:12Z",
                 "owner": "mifi",
                 "repo": "lossless-cut",
-                "stars": 43179
+                "stars": 43192
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2026-02-01T08:35:30Z",
                 "owner": "ffmpegwasm",
                 "repo": "ffmpeg.wasm",
-                "stars": 17752
+                "stars": 17753
               }
             },
             {
@@ -654,7 +654,7 @@
                 "last_commit": "2026-08-11T16:30:06Z",
                 "owner": "Zulko",
                 "repo": "moviepy",
-                "stars": 14864
+                "stars": 14866
               }
             },
             {
@@ -669,7 +669,7 @@
                 "last_commit": "2026-08-17T09:24:22Z",
                 "owner": "Nevcairiel",
                 "repo": "LAVFilters",
-                "stars": 9103
+                "stars": 9104
               }
             },
             {
@@ -684,7 +684,7 @@
                 "last_commit": "2026-05-22T06:57:59Z",
                 "owner": "datarhei",
                 "repo": "restreamer",
-                "stars": 5171
+                "stars": 5173
               }
             },
             {
@@ -699,7 +699,7 @@
                 "last_commit": "2026-08-20T19:22:01Z",
                 "owner": "WyattBlue",
                 "repo": "auto-editor",
-                "stars": 5061
+                "stars": 5064
               }
             },
             {
@@ -774,7 +774,7 @@
                 "last_commit": "2026-08-08T14:32:58Z",
                 "owner": "staxrip",
                 "repo": "staxrip",
-                "stars": 2968
+                "stars": 2970
               }
             },
             {
@@ -831,7 +831,7 @@
                 "archived": false,
                 "id": 4019052,
                 "language": "C",
-                "last_commit": "2026-08-22T16:14:49Z",
+                "last_commit": "2026-08-25T18:00:20Z",
                 "owner": "mltframework",
                 "repo": "mlt",
                 "stars": 1831
@@ -909,7 +909,7 @@
                 "last_commit": "2026-08-23T06:52:37Z",
                 "owner": "RandomEngy",
                 "repo": "VidCoder",
-                "stars": 861
+                "stars": 862
               }
             },
             {
@@ -951,7 +951,7 @@
                 "archived": false,
                 "id": 237257326,
                 "language": "Go",
-                "last_commit": "2026-08-22T14:24:29Z",
+                "last_commit": "2026-08-25T15:39:45Z",
                 "owner": "Eyevinn",
                 "repo": "mp4ff",
                 "stars": 653
@@ -1071,7 +1071,7 @@
                 "archived": false,
                 "id": 22225589,
                 "language": "Shell",
-                "last_commit": "2026-08-05T15:41:10Z",
+                "last_commit": "2026-08-25T19:59:11Z",
                 "owner": "amiaopensource",
                 "repo": "vrecord",
                 "stars": 202
@@ -1164,7 +1164,7 @@
                 "last_commit": "2020-04-30T20:42:27Z",
                 "owner": "teejee2008",
                 "repo": "selene",
-                "stars": 90
+                "stars": 89
               }
             },
             {
@@ -1313,10 +1313,10 @@
                     "archived": false,
                     "id": 1614410,
                     "language": "C",
-                    "last_commit": "2026-08-25T01:04:00Z",
+                    "last_commit": "2026-08-25T16:10:42Z",
                     "owner": "FFmpeg",
                     "repo": "FFmpeg",
-                    "stars": 63606
+                    "stars": 63626
                   }
                 },
                 {
@@ -1361,7 +1361,7 @@
                     "last_commit": "2023-11-04T22:20:41Z",
                     "owner": "Kagami",
                     "repo": "ffmpeg.js",
-                    "stars": 3462
+                    "stars": 3460
                   }
                 },
                 {
@@ -2018,7 +2018,7 @@
                 "last_commit": "2026-08-15T12:48:15Z",
                 "owner": "Themaister",
                 "repo": "Granite",
-                "stars": 1938
+                "stars": 1937
               }
             },
             {
@@ -2048,7 +2048,7 @@
                 "last_commit": "2026-08-10T08:58:55Z",
                 "owner": "nyanmisaka",
                 "repo": "ffmpeg-rockchip",
-                "stars": 1272
+                "stars": 1274
               }
             },
             {
@@ -2060,7 +2060,7 @@
                 "archived": false,
                 "id": 94728962,
                 "language": "Go",
-                "last_commit": "2026-08-21T17:29:24Z",
+                "last_commit": "2026-08-25T15:25:19Z",
                 "owner": "livepeer",
                 "repo": "go-livepeer",
                 "stars": 586
@@ -2127,7 +2127,7 @@
                 "archived": false,
                 "id": 19401646,
                 "language": "C",
-                "last_commit": "2026-08-19T19:35:49Z",
+                "last_commit": "2026-08-25T10:12:29Z",
                 "owner": "gpac",
                 "repo": "gpac",
                 "stars": 3296
@@ -2145,7 +2145,7 @@
                 "last_commit": "2024-08-14T01:11:11Z",
                 "owner": "quasarstream",
                 "repo": "python-ffmpeg-video-streaming",
-                "stars": 859
+                "stars": 860
               }
             },
             {
@@ -2239,7 +2239,7 @@
                 "archived": false,
                 "id": 13909573,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:23:51Z",
+                "last_commit": "2026-08-25T08:42:10Z",
                 "owner": "cisco",
                 "repo": "openh264",
                 "stars": 6138
@@ -2269,7 +2269,7 @@
                 "archived": false,
                 "id": 22927608,
                 "language": "C",
-                "last_commit": "2026-08-24T22:23:48Z",
+                "last_commit": "2026-08-25T15:18:48Z",
                 "owner": "webmproject",
                 "repo": "libvpx",
                 "stars": 971
@@ -2761,7 +2761,7 @@
                 "archived": false,
                 "id": 262623449,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T20:41:31Z",
+                "last_commit": "2026-08-25T20:10:19Z",
                 "owner": "ThibaultBee",
                 "repo": "StreamPack",
                 "stars": 364
@@ -2821,7 +2821,7 @@
                 "archived": false,
                 "id": 1183065935,
                 "language": "Go",
-                "last_commit": "2026-08-21T14:16:15Z",
+                "last_commit": "2026-08-25T15:31:15Z",
                 "owner": "im-pingo",
                 "repo": "liveforge",
                 "stars": 18
@@ -3130,7 +3130,7 @@
                 "last_commit": "2026-08-11T07:34:42Z",
                 "owner": "rockchip-linux",
                 "repo": "mpp",
-                "stars": 1048
+                "stars": 1049
               }
             },
             {
@@ -3217,7 +3217,7 @@
                 "archived": false,
                 "id": 357339304,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:51:18Z",
+                "last_commit": "2026-08-25T09:20:16Z",
                 "owner": "intel",
                 "repo": "vpl-gpu-rt",
                 "stars": 154
@@ -3299,7 +3299,7 @@
                 "archived": false,
                 "id": 19401646,
                 "language": "C",
-                "last_commit": "2026-08-19T19:35:49Z",
+                "last_commit": "2026-08-25T10:12:29Z",
                 "owner": "gpac",
                 "repo": "gpac",
                 "stars": 3296
@@ -3347,7 +3347,7 @@
                 "last_commit": "2025-04-21T10:41:40Z",
                 "owner": "justdan96",
                 "repo": "tsMuxer",
-                "stars": 1057
+                "stars": 1056
               }
             },
             {
@@ -3404,7 +3404,7 @@
                 "archived": false,
                 "id": 851362743,
                 "language": "Rust",
-                "last_commit": "2026-08-25T05:45:40Z",
+                "last_commit": "2026-08-25T08:18:49Z",
                 "owner": "shiguredo",
                 "repo": "mp4-rs",
                 "stars": 157
@@ -3661,7 +3661,7 @@
                 "last_commit": "2026-08-25T03:43:10Z",
                 "owner": "MediaMolder",
                 "repo": "mediamolder",
-                "stars": 107
+                "stars": 108
               }
             },
             {
@@ -3855,7 +3855,7 @@
                 "last_commit": "2023-03-06T09:02:25Z",
                 "owner": "video-dev",
                 "repo": "video-transcoding-api",
-                "stars": 650
+                "stars": 649
               }
             },
             {
@@ -4140,10 +4140,10 @@
             "archived": false,
             "id": 307260205,
             "language": "Python",
-            "last_commit": "2026-08-25T01:45:23Z",
+            "last_commit": "2026-08-25T16:30:28Z",
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 186764
+            "stars": 186901
           }
         },
         {
@@ -4158,7 +4158,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34395
+            "stars": 34403
           }
         },
         {
@@ -4173,7 +4173,7 @@
             "last_commit": "2026-03-29T18:18:56Z",
             "owner": "iawia002",
             "repo": "lux",
-            "stars": 31656
+            "stars": 31654
           }
         },
         {
@@ -4188,7 +4188,7 @@
             "last_commit": "2026-08-24T13:22:20Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20706
+            "stars": 20726
           }
         },
         {
@@ -4203,7 +4203,7 @@
             "last_commit": "2026-08-23T15:23:27Z",
             "owner": "Huanshere",
             "repo": "VideoLingo",
-            "stars": 18253
+            "stars": 18258
           }
         },
         {
@@ -4218,7 +4218,7 @@
             "last_commit": "2024-08-30T23:48:03Z",
             "owner": "alievk",
             "repo": "avatarify-python",
-            "stars": 16516
+            "stars": 16515
           }
         },
         {
@@ -4233,7 +4233,7 @@
             "last_commit": "2026-07-19T18:30:44Z",
             "owner": "WEIFENG2333",
             "repo": "VideoCaptioner",
-            "stars": 15733
+            "stars": 15747
           }
         },
         {
@@ -4248,7 +4248,7 @@
             "last_commit": "2026-08-08T02:47:29Z",
             "owner": "haiwen",
             "repo": "seafile",
-            "stars": 15164
+            "stars": 15168
           }
         },
         {
@@ -4263,7 +4263,7 @@
             "last_commit": "2024-11-14T03:16:41Z",
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15015
+            "stars": 15014
           }
         },
         {
@@ -4278,7 +4278,7 @@
             "last_commit": "2026-08-24T16:29:53Z",
             "owner": "ajayyy",
             "repo": "SponsorBlock",
-            "stars": 13689
+            "stars": 13697
           }
         },
         {
@@ -4293,7 +4293,7 @@
             "last_commit": "2025-06-22T02:41:21Z",
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13178
+            "stars": 13180
           }
         },
         {
@@ -4308,7 +4308,7 @@
             "last_commit": "2026-08-11T17:41:07Z",
             "owner": "jely2002",
             "repo": "youtube-dl-gui",
-            "stars": 9070
+            "stars": 9072
           }
         },
         {
@@ -4323,7 +4323,7 @@
             "last_commit": "2026-07-10T01:20:32Z",
             "owner": "nadermx",
             "repo": "backgroundremover",
-            "stars": 8017
+            "stars": 8019
           }
         },
         {
@@ -4338,7 +4338,7 @@
             "last_commit": "2025-02-10T19:33:18Z",
             "owner": "RayVentura",
             "repo": "ShortGPT",
-            "stars": 7880
+            "stars": 7882
           }
         },
         {
@@ -4413,7 +4413,7 @@
             "last_commit": "2026-08-24T01:55:27Z",
             "owner": "Breakthrough",
             "repo": "PySceneDetect",
-            "stars": 5120
+            "stars": 5122
           }
         },
         {
@@ -4428,7 +4428,7 @@
             "last_commit": "2023-05-06T22:35:28Z",
             "owner": "Picsart-AI-Research",
             "repo": "Text2Video-Zero",
-            "stars": 4245
+            "stars": 4246
           }
         },
         {
@@ -4443,7 +4443,7 @@
             "last_commit": "2026-08-24T09:56:08Z",
             "owner": "google",
             "repo": "oboe",
-            "stars": 4094
+            "stars": 4095
           }
         },
         {
@@ -4458,7 +4458,7 @@
             "last_commit": "2026-08-02T21:47:49Z",
             "owner": "tmoroney",
             "repo": "auto-subs",
-            "stars": 4082
+            "stars": 4088
           }
         },
         {
@@ -4500,7 +4500,7 @@
             "archived": false,
             "id": 90321822,
             "language": "Python",
-            "last_commit": "2026-08-24T11:42:04Z",
+            "last_commit": "2026-08-25T11:41:41Z",
             "owner": "pytorch",
             "repo": "audio",
             "stars": 2927
@@ -4533,7 +4533,7 @@
             "last_commit": "2026-08-21T16:30:14Z",
             "owner": "shaka-project",
             "repo": "shaka-packager",
-            "stars": 2586
+            "stars": 2587
           }
         },
         {
@@ -4590,7 +4590,7 @@
             "archived": false,
             "id": 133964846,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:24:51Z",
+            "last_commit": "2026-08-25T17:16:25Z",
             "owner": "Last-Order",
             "repo": "Minyami",
             "stars": 648
@@ -4623,7 +4623,7 @@
             "last_commit": "2026-07-24T21:33:16Z",
             "owner": "AcademySoftwareFoundation",
             "repo": "openfx",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -4683,7 +4683,7 @@
             "last_commit": "2026-07-01T05:43:49Z",
             "owner": "URUWorks",
             "repo": "TeroSubtitler",
-            "stars": 463
+            "stars": 461
           }
         },
         {
@@ -4770,10 +4770,10 @@
             "archived": false,
             "id": 94168129,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:47:36Z",
+            "last_commit": "2026-08-25T13:11:11Z",
             "owner": "kaltura",
             "repo": "kaltura-player-js",
-            "stars": 142
+            "stars": 143
           }
         },
         {
@@ -5234,7 +5234,7 @@
                     "last_commit": "2023-05-22T22:36:12Z",
                     "owner": "rokudev",
                     "repo": "automated-channel-testing",
-                    "stars": 85
+                    "stars": 86
                   }
                 },
                 {
@@ -5578,7 +5578,7 @@
                     "last_commit": "2026-07-13T08:30:07Z",
                     "owner": "m-bain",
                     "repo": "whisperX",
-                    "stars": 23723
+                    "stars": 23737
                   }
                 },
                 {
@@ -5590,10 +5590,10 @@
                     "archived": false,
                     "id": 699432836,
                     "language": "Python",
-                    "last_commit": "2026-08-25T05:46:40Z",
+                    "last_commit": "2026-08-25T13:48:22Z",
                     "owner": "jianchang512",
                     "repo": "pyvideotrans",
-                    "stars": 18795
+                    "stars": 18802
                   }
                 },
                 {
@@ -5605,10 +5605,10 @@
                     "archived": false,
                     "id": 16473585,
                     "language": "C#",
-                    "last_commit": "2026-08-25T05:51:42Z",
+                    "last_commit": "2026-08-25T20:10:53Z",
                     "owner": "SubtitleEdit",
                     "repo": "subtitleedit",
-                    "stars": 13947
+                    "stars": 13955
                   }
                 },
                 {
@@ -5623,7 +5623,7 @@
                     "last_commit": "2025-12-29T07:53:10Z",
                     "owner": "jhj0517",
                     "repo": "Whisper-WebUI",
-                    "stars": 2859
+                    "stars": 2860
                   }
                 },
                 {
@@ -5680,7 +5680,7 @@
                     "archived": false,
                     "id": 4519236,
                     "language": "Python",
-                    "last_commit": "2026-08-24T12:01:52Z",
+                    "last_commit": "2026-08-25T11:49:45Z",
                     "owner": "pbs",
                     "repo": "pycaption",
                     "stars": 272
@@ -5953,7 +5953,7 @@
                     "last_commit": "2026-03-07T16:35:50Z",
                     "owner": "Linwei-Chen",
                     "repo": "AutoSubtitle",
-                    "stars": 4
+                    "stars": 5
                   }
                 },
                 {
@@ -6155,7 +6155,7 @@
                     "last_commit": "2026-07-22T07:45:39Z",
                     "owner": "MTG",
                     "repo": "essentia",
-                    "stars": 3701
+                    "stars": 3702
                   }
                 },
                 {
@@ -6242,7 +6242,7 @@
                     "archived": false,
                     "id": 97760696,
                     "language": "C#",
-                    "last_commit": "2026-08-24T20:17:20Z",
+                    "last_commit": "2026-08-25T14:51:58Z",
                     "owner": "VoidXH",
                     "repo": "Cavern",
                     "stars": 574
@@ -6434,7 +6434,7 @@
                 "archived": false,
                 "id": 435093073,
                 "language": "Python",
-                "last_commit": "2026-08-24T05:46:53Z",
+                "last_commit": "2026-08-25T18:51:21Z",
                 "owner": "chapmanjacobd",
                 "repo": "library",
                 "stars": 480
@@ -6886,7 +6886,7 @@
                 "last_commit": "2023-12-21T09:24:18Z",
                 "owner": "BingLingGroup",
                 "repo": "autosub",
-                "stars": 1961
+                "stars": 1960
               }
             },
             {
@@ -6931,7 +6931,7 @@
                 "last_commit": "2026-08-17T07:03:00Z",
                 "owner": "denizsafak",
                 "repo": "AutoSubSync",
-                "stars": 1151
+                "stars": 1152
               }
             },
             {
@@ -7290,7 +7290,7 @@
                 "last_commit": "2026-08-12T15:40:07Z",
                 "owner": "haasn",
                 "repo": "libplacebo",
-                "stars": 773
+                "stars": 772
               }
             },
             {
@@ -7649,7 +7649,7 @@
                 "last_commit": "2024-01-30T06:14:15Z",
                 "owner": "apm1467",
                 "repo": "videocr",
-                "stars": 550
+                "stars": 549
               }
             },
             {
@@ -7828,7 +7828,7 @@
                 "last_commit": "2024-08-17T12:09:12Z",
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21289
+                "stars": 21287
               }
             },
             {
@@ -7843,7 +7843,7 @@
                 "last_commit": "2026-03-07T15:39:42Z",
                 "owner": "k4yt3x",
                 "repo": "video2x",
-                "stars": 21045
+                "stars": 21105
               }
             },
             {
@@ -7873,7 +7873,7 @@
                 "last_commit": "2026-07-24T09:49:49Z",
                 "owner": "NatronGitHub",
                 "repo": "Natron",
-                "stars": 5494
+                "stars": 5493
               }
             },
             {
@@ -7903,7 +7903,7 @@
                 "last_commit": "2025-11-20T03:55:42Z",
                 "owner": "hzwer",
                 "repo": "Practical-RIFE",
-                "stars": 999
+                "stars": 1001
               }
             },
             {
@@ -7918,7 +7918,7 @@
                 "last_commit": "2026-08-14T08:13:27Z",
                 "owner": "hanatos",
                 "repo": "vkdt",
-                "stars": 594
+                "stars": 595
               }
             },
             {
@@ -7955,7 +7955,7 @@
                 "last_commit": "2026-07-02T20:01:32Z",
                 "owner": "motion-canvas",
                 "repo": "motion-canvas",
-                "stars": 19003
+                "stars": 19005
               }
             },
             {
@@ -7970,7 +7970,7 @@
                 "last_commit": "2026-07-15T22:43:55Z",
                 "owner": "midrender",
                 "repo": "revideo",
-                "stars": 4003
+                "stars": 4005
               }
             },
             {
@@ -7985,7 +7985,7 @@
                 "last_commit": "2026-08-17T00:16:54Z",
                 "owner": "walterlow",
                 "repo": "freecut",
-                "stars": 2080
+                "stars": 2085
               }
             },
             {
@@ -8000,7 +8000,7 @@
                 "last_commit": "2026-06-28T16:58:33Z",
                 "owner": "tejaswigowda",
                 "repo": "ffmpeg-webCLI",
-                "stars": 1375
+                "stars": 1377
               }
             },
             {
@@ -8197,7 +8197,7 @@
             "last_commit": "2026-08-25T00:33:55Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75415
+            "stars": 75443
           }
         },
         {
@@ -8209,10 +8209,10 @@
             "archived": false,
             "id": 134012064,
             "language": "Go",
-            "last_commit": "2026-08-25T05:55:26Z",
+            "last_commit": "2026-08-25T17:03:19Z",
             "owner": "pion",
             "repo": "webrtc",
-            "stars": 16737
+            "stars": 16739
           }
         },
         {
@@ -8227,7 +8227,7 @@
             "last_commit": "2026-08-24T23:23:37Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14340
+            "stars": 14345
           }
         },
         {
@@ -8242,7 +8242,7 @@
             "last_commit": "2026-07-17T08:17:35Z",
             "owner": "aiortc",
             "repo": "aiortc",
-            "stars": 5091
+            "stars": 5093
           }
         },
         {
@@ -8269,7 +8269,7 @@
             "archived": false,
             "id": 79667969,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T19:40:54Z",
+            "last_commit": "2026-08-25T16:46:39Z",
             "owner": "pedroSG94",
             "repo": "RootEncoder",
             "stars": 3028
@@ -8317,7 +8317,7 @@
             "last_commit": "2024-08-14T01:11:11Z",
             "owner": "quasarstream",
             "repo": "python-ffmpeg-video-streaming",
-            "stars": 859
+            "stars": 860
           }
         },
         {
@@ -8332,7 +8332,7 @@
             "last_commit": "2026-05-19T05:24:44Z",
             "owner": "mhdzumair",
             "repo": "mediaflow-proxy",
-            "stars": 780
+            "stars": 778
           }
         },
         {
@@ -8374,7 +8374,7 @@
             "archived": false,
             "id": 139151128,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T03:20:05Z",
+            "last_commit": "2026-08-25T11:28:58Z",
             "owner": "OvenMediaLabs",
             "repo": "OvenPlayer",
             "stars": 588
@@ -8633,10 +8633,10 @@
                     "archived": false,
                     "id": 30064588,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T00:08:23Z",
+                    "last_commit": "2026-08-25T15:51:14Z",
                     "owner": "video-dev",
                     "repo": "hls.js",
-                    "stars": 16892
+                    "stars": 16894
                   }
                 },
                 {
@@ -8648,7 +8648,7 @@
                     "archived": false,
                     "id": 131896967,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T06:57:18Z",
+                    "last_commit": "2026-08-25T06:58:46Z",
                     "owner": "puemos",
                     "repo": "hls-downloader",
                     "stars": 2682
@@ -8666,7 +8666,7 @@
                     "last_commit": "2025-01-31T21:13:34Z",
                     "owner": "globocom",
                     "repo": "m3u8",
-                    "stars": 2277
+                    "stars": 2276
                   }
                 },
                 {
@@ -9360,7 +9360,7 @@
                     "archived": false,
                     "id": 6621471,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T08:49:44Z",
+                    "last_commit": "2026-08-25T08:56:19Z",
                     "owner": "Dash-Industry-Forum",
                     "repo": "dash.js",
                     "stars": 5544
@@ -9375,7 +9375,7 @@
                     "archived": false,
                     "id": 6621471,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T08:49:44Z",
+                    "last_commit": "2026-08-25T08:56:19Z",
                     "owner": "Dash-Industry-Forum",
                     "repo": "dash.js",
                     "stars": 5544
@@ -9390,7 +9390,7 @@
                     "archived": false,
                     "id": 19401646,
                     "language": "C",
-                    "last_commit": "2026-08-19T19:35:49Z",
+                    "last_commit": "2026-08-25T10:12:29Z",
                     "owner": "gpac",
                     "repo": "gpac",
                     "stars": 3296
@@ -9423,7 +9423,7 @@
                     "last_commit": "2026-08-19T13:31:07Z",
                     "owner": "emarsden",
                     "repo": "dash-mpd-cli",
-                    "stars": 556
+                    "stars": 555
                   }
                 },
                 {
@@ -9543,7 +9543,7 @@
                     "last_commit": "2026-08-21T08:14:16Z",
                     "owner": "emarsden",
                     "repo": "dash-mpd-rs",
-                    "stars": 111
+                    "stars": 110
                   }
                 },
                 {
@@ -9897,10 +9897,10 @@
                 "archived": false,
                 "id": 508763694,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:21:29Z",
+                "last_commit": "2026-08-25T19:49:38Z",
                 "owner": "moq-dev",
                 "repo": "moq",
-                "stars": 1472
+                "stars": 1474
               }
             },
             {
@@ -9930,7 +9930,7 @@
                 "last_commit": "2026-08-25T00:39:06Z",
                 "owner": "binbat",
                 "repo": "live777",
-                "stars": 311
+                "stars": 312
               }
             },
             {
@@ -9942,10 +9942,10 @@
                 "archived": false,
                 "id": 873121011,
                 "language": "Rust",
-                "last_commit": "2026-08-18T15:11:35Z",
+                "last_commit": "2026-08-25T20:02:50Z",
                 "owner": "cloudflare",
                 "repo": "moq-rs",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -10443,7 +10443,7 @@
                 "archived": false,
                 "id": 237257326,
                 "language": "Go",
-                "last_commit": "2026-08-22T14:24:29Z",
+                "last_commit": "2026-08-25T15:39:45Z",
                 "owner": "Eyevinn",
                 "repo": "mp4ff",
                 "stars": 653
@@ -10715,7 +10715,7 @@
                 "last_commit": "2024-12-24T10:28:38Z",
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
-                "stars": 14035
+                "stars": 14036
               }
             },
             {
@@ -10766,7 +10766,7 @@
                     "archived": false,
                     "id": 945434151,
                     "language": "Elixir",
-                    "last_commit": "2026-08-24T21:41:13Z",
+                    "last_commit": "2026-08-25T17:23:49Z",
                     "owner": "streamband",
                     "repo": "hydra-srt",
                     "stars": 141
@@ -10781,7 +10781,7 @@
                     "archived": false,
                     "id": 945434151,
                     "language": "Elixir",
-                    "last_commit": "2026-08-24T21:41:13Z",
+                    "last_commit": "2026-08-25T17:23:49Z",
                     "owner": "streamband",
                     "repo": "hydra-srt",
                     "stars": 141
@@ -11133,10 +11133,10 @@
             "archived": false,
             "id": 76838017,
             "language": "Swift",
-            "last_commit": "2026-08-24T21:49:33Z",
+            "last_commit": "2026-08-25T20:14:31Z",
             "owner": "iina",
             "repo": "iina",
-            "stars": 46074
+            "stars": 46083
           }
         },
         {
@@ -11166,7 +11166,7 @@
             "last_commit": "2026-08-23T16:09:02Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36672
+            "stars": 36678
           }
         },
         {
@@ -11181,7 +11181,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33197
+            "stars": 33198
           }
         },
         {
@@ -11196,7 +11196,7 @@
             "last_commit": "2026-08-23T20:33:36Z",
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22759
+            "stars": 22769
           }
         },
         {
@@ -11208,10 +11208,10 @@
             "archived": false,
             "id": 91570348,
             "language": "C++",
-            "last_commit": "2026-08-24T14:41:41Z",
+            "last_commit": "2026-08-25T18:39:42Z",
             "owner": "clsid2",
             "repo": "mpc-hc",
-            "stars": 15523
+            "stars": 15526
           }
         },
         {
@@ -11226,7 +11226,7 @@
             "last_commit": "2026-08-20T03:49:29Z",
             "owner": "bytedance",
             "repo": "xgplayer",
-            "stars": 9281
+            "stars": 9282
           }
         },
         {
@@ -11241,7 +11241,7 @@
             "last_commit": "2026-02-09T13:12:05Z",
             "owner": "mpvnet-player",
             "repo": "mpv.net",
-            "stars": 5348
+            "stars": 5345
           }
         },
         {
@@ -11361,7 +11361,7 @@
             "last_commit": "2026-07-20T15:32:52Z",
             "owner": "Rafostar",
             "repo": "clapper",
-            "stars": 973
+            "stars": 970
           }
         },
         {
@@ -11373,7 +11373,7 @@
             "archived": false,
             "id": 70571294,
             "language": "JavaScript",
-            "last_commit": "2026-07-29T12:25:09Z",
+            "last_commit": "2026-08-25T13:57:03Z",
             "owner": "fluid-player",
             "repo": "fluid-player",
             "stars": 945
@@ -11388,7 +11388,7 @@
             "archived": false,
             "id": 147235939,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:59:05Z",
+            "last_commit": "2026-08-25T12:53:58Z",
             "owner": "openplayerjs",
             "repo": "openplayerjs",
             "stars": 649
@@ -11403,10 +11403,10 @@
             "archived": false,
             "id": 505572267,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T16:23:08Z",
+            "last_commit": "2026-08-25T16:56:43Z",
             "owner": "GetStream",
             "repo": "stream-video-android",
-            "stars": 473
+            "stars": 474
           }
         },
         {
@@ -11478,7 +11478,7 @@
             "archived": false,
             "id": 511099665,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:14:08Z",
+            "last_commit": "2026-08-25T10:56:23Z",
             "owner": "GetStream",
             "repo": "stream-video-js",
             "stars": 123
@@ -11690,7 +11690,7 @@
                 "archived": false,
                 "id": 326705246,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:32:58Z",
+                "last_commit": "2026-08-25T16:34:11Z",
                 "owner": "whitphx",
                 "repo": "streamlit-webrtc",
                 "stars": 1706
@@ -11755,7 +11755,7 @@
                     "last_commit": "2026-08-23T23:37:33Z",
                     "owner": "sampotts",
                     "repo": "plyr",
-                    "stars": 29966
+                    "stars": 29968
                   }
                 },
                 {
@@ -11770,7 +11770,7 @@
                     "last_commit": "2026-03-04T03:04:09Z",
                     "owner": "DIYgod",
                     "repo": "DPlayer",
-                    "stars": 16481
+                    "stars": 16483
                   }
                 },
                 {
@@ -11797,10 +11797,10 @@
                     "archived": false,
                     "id": 28246472,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T10:53:48Z",
+                    "last_commit": "2026-08-25T12:13:03Z",
                     "owner": "shaka-project",
                     "repo": "shaka-player",
-                    "stars": 8204
+                    "stars": 8203
                   }
                 },
                 {
@@ -11812,10 +11812,10 @@
                     "archived": false,
                     "id": 16844474,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T18:43:23Z",
+                    "last_commit": "2026-08-25T13:44:13Z",
                     "owner": "clappr",
                     "repo": "clappr",
-                    "stars": 7495
+                    "stars": 7494
                   }
                 },
                 {
@@ -11845,7 +11845,7 @@
                     "last_commit": "2021-11-02T18:28:47Z",
                     "owner": "jplayer",
                     "repo": "jPlayer",
-                    "stars": 4593
+                    "stars": 4592
                   }
                 },
                 {
@@ -12092,7 +12092,7 @@
                     "last_commit": "2026-08-19T12:56:47Z",
                     "owner": "CarGuo",
                     "repo": "GSYVideoPlayer",
-                    "stars": 21473
+                    "stars": 21475
                   }
                 },
                 {
@@ -12122,7 +12122,7 @@
                     "last_commit": "2026-08-22T07:25:49Z",
                     "owner": "mpv-android",
                     "repo": "mpv-android",
-                    "stars": 3492
+                    "stars": 3493
                   }
                 },
                 {
@@ -12710,7 +12710,7 @@
                     "archived": false,
                     "id": 176580307,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T16:33:24Z",
+                    "last_commit": "2026-08-25T14:21:47Z",
                     "owner": "rokucommunity",
                     "repo": "brighterscript",
                     "stars": 205
@@ -12740,7 +12740,7 @@
                     "archived": false,
                     "id": 108283373,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T15:21:11Z",
+                    "last_commit": "2026-08-25T20:18:14Z",
                     "owner": "rokucommunity",
                     "repo": "vscode-brightscript-language",
                     "stars": 131
@@ -12800,7 +12800,7 @@
                     "archived": false,
                     "id": 141751149,
                     "language": "BrighterScript",
-                    "last_commit": "2026-08-24T15:23:33Z",
+                    "last_commit": "2026-08-25T13:59:16Z",
                     "owner": "rokucommunity",
                     "repo": "rooibos",
                     "stars": 80
@@ -12815,7 +12815,7 @@
                     "archived": false,
                     "id": 141751149,
                     "language": "BrighterScript",
-                    "last_commit": "2026-08-24T15:23:33Z",
+                    "last_commit": "2026-08-25T13:59:16Z",
                     "owner": "rokucommunity",
                     "repo": "rooibos",
                     "stars": 80
@@ -12845,7 +12845,7 @@
                     "archived": false,
                     "id": 108467262,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T19:28:20Z",
+                    "last_commit": "2026-08-25T19:23:18Z",
                     "owner": "rokucommunity",
                     "repo": "roku-deploy",
                     "stars": 57
@@ -13247,10 +13247,10 @@
                 "archived": false,
                 "id": 11136031,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:01:59Z",
+                "last_commit": "2026-08-25T17:33:48Z",
                 "owner": "vapoursynth",
                 "repo": "vapoursynth",
-                "stars": 2077
+                "stars": 2078
               }
             },
             {
@@ -13265,7 +13265,7 @@
                 "last_commit": "2026-08-05T15:50:21Z",
                 "owner": "videolan",
                 "repo": "libvlcsharp",
-                "stars": 1806
+                "stars": 1805
               }
             },
             {
@@ -13329,7 +13329,7 @@
                 "archived": false,
                 "id": 28195272,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T09:52:00Z",
+                "last_commit": "2026-08-25T09:44:14Z",
                 "owner": "WebPlatformForEmbedded",
                 "repo": "WPEWebKit",
                 "stars": 246
@@ -13404,7 +13404,7 @@
                 "archived": false,
                 "id": 560998938,
                 "language": "C++",
-                "last_commit": "2026-08-24T19:36:47Z",
+                "last_commit": "2026-08-25T11:55:10Z",
                 "owner": "rdkcentral",
                 "repo": "rialto",
                 "stars": 5
@@ -13538,7 +13538,7 @@
                 "archived": false,
                 "id": 131896967,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T06:57:18Z",
+                "last_commit": "2026-08-25T06:58:46Z",
                 "owner": "puemos",
                 "repo": "hls-downloader",
                 "stars": 2682
@@ -13556,7 +13556,7 @@
                 "last_commit": "2023-07-13T12:28:31Z",
                 "owner": "54ac",
                 "repo": "stream-detector",
-                "stars": 722
+                "stars": 721
               }
             },
             {
@@ -13601,7 +13601,7 @@
                 "last_commit": "2024-05-07T10:12:58Z",
                 "owner": "Palethorn",
                 "repo": "nas-extension",
-                "stars": 32
+                "stars": 31
               }
             },
             {
@@ -13717,7 +13717,7 @@
                 "archived": false,
                 "id": 3299208,
                 "language": "C",
-                "last_commit": "2026-08-24T16:43:46Z",
+                "last_commit": "2026-08-25T18:53:39Z",
                 "owner": "videolan",
                 "repo": "vlc",
                 "stars": 19427
@@ -13732,10 +13732,10 @@
                 "archived": false,
                 "id": 183483988,
                 "language": "Rust",
-                "last_commit": "2026-08-25T00:08:09Z",
+                "last_commit": "2026-08-25T19:07:36Z",
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 18452
+                "stars": 18456
               }
             },
             {
@@ -13750,7 +13750,7 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5348
+                "stars": 5345
               }
             },
             {
@@ -13864,7 +13864,7 @@
                     "last_commit": "2026-07-26T17:56:30Z",
                     "owner": "vitalets",
                     "repo": "awesome-smart-tv",
-                    "stars": 1405
+                    "stars": 1404
                   }
                 },
                 {
@@ -13876,7 +13876,7 @@
                     "archived": false,
                     "id": 1122628500,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T23:20:00Z",
+                    "last_commit": "2026-08-25T14:08:31Z",
                     "owner": "Moonfin-Client",
                     "repo": "Smart-TV",
                     "stars": 387
@@ -14003,7 +14003,7 @@
                 "last_commit": "2024-06-07T10:38:39Z",
                 "owner": "mpv-player",
                 "repo": "mpv-examples",
-                "stars": 284
+                "stars": 283
               }
             },
             {
@@ -14089,7 +14089,7 @@
             "last_commit": "2026-08-05T11:39:37Z",
             "owner": "deepfakes",
             "repo": "faceswap",
-            "stars": 57496
+            "stars": 57497
           }
         },
         {
@@ -14164,7 +14164,7 @@
             "last_commit": "2024-12-19T07:43:53Z",
             "owner": "tnfe",
             "repo": "FFCreator",
-            "stars": 3157
+            "stars": 3158
           }
         },
         {
@@ -14179,7 +14179,7 @@
             "last_commit": "2024-11-11T13:50:25Z",
             "owner": "jwplayer",
             "repo": "jwplayer",
-            "stars": 2568
+            "stars": 2567
           }
         },
         {
@@ -14224,7 +14224,7 @@
             "last_commit": "2026-08-21T15:23:21Z",
             "owner": "AviSynth",
             "repo": "AviSynthPlus",
-            "stars": 1199
+            "stars": 1197
           }
         },
         {
@@ -14326,7 +14326,7 @@
             "archived": false,
             "id": 298353384,
             "language": "C",
-            "last_commit": "2026-08-24T14:08:43Z",
+            "last_commit": "2026-08-25T14:10:41Z",
             "owner": "OpenVisualCloud",
             "repo": "Media-Transport-Library",
             "stars": 244
@@ -14461,7 +14461,7 @@
             "archived": false,
             "id": 257929963,
             "language": "MDX",
-            "last_commit": "2026-08-24T17:00:05Z",
+            "last_commit": "2026-08-25T16:17:42Z",
             "owner": "THEOplayer",
             "repo": "documentation",
             "stars": 15
@@ -14661,7 +14661,7 @@
                 "last_commit": "2026-08-24T19:55:41Z",
                 "owner": "streamlink",
                 "repo": "streamlink",
-                "stars": 11710
+                "stars": 11711
               }
             },
             {
@@ -14915,7 +14915,7 @@
                 "last_commit": "2025-10-27T13:20:55Z",
                 "owner": "devine-dl",
                 "repo": "pywidevine",
-                "stars": 917
+                "stars": 918
               }
             },
             {
@@ -14930,7 +14930,7 @@
                 "last_commit": "2022-02-01T15:49:33Z",
                 "owner": "CrackerCat",
                 "repo": "video_decrypter",
-                "stars": 337
+                "stars": 338
               }
             },
             {
@@ -14975,7 +14975,7 @@
                 "last_commit": "2025-12-12T10:07:54Z",
                 "owner": "iyear",
                 "repo": "gowidevine",
-                "stars": 96
+                "stars": 97
               }
             },
             {
@@ -15199,7 +15199,7 @@
                 "last_commit": "2026-05-03T13:44:16Z",
                 "owner": "jeanslack",
                 "repo": "Videomass",
-                "stars": 1663
+                "stars": 1662
               }
             },
             {
@@ -15564,7 +15564,7 @@
                 "last_commit": "2026-08-25T02:44:47Z",
                 "owner": "microsoft",
                 "repo": "DCVC",
-                "stars": 817
+                "stars": 819
               }
             },
             {
@@ -15750,7 +15750,7 @@
                 "last_commit": "2026-08-22T09:33:08Z",
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44798
+                "stars": 44805
               }
             },
             {
@@ -15947,7 +15947,7 @@
             "last_commit": "2026-08-08T05:47:59Z",
             "owner": "mpeg5",
             "repo": "xeve",
-            "stars": 205
+            "stars": 211
           }
         },
         {
@@ -16629,7 +16629,7 @@
             "last_commit": "2026-06-29T09:33:50Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo",
-            "stars": 12464
+            "stars": 12467
           }
         },
         {
@@ -16641,10 +16641,10 @@
             "archived": false,
             "id": 86987524,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T19:54:03Z",
+            "last_commit": "2026-08-25T19:28:36Z",
             "owner": "WWBN",
             "repo": "AVideo",
-            "stars": 2101
+            "stars": 2100
           }
         },
         {
@@ -16716,7 +16716,7 @@
             "archived": false,
             "id": 11364783,
             "language": "PHP",
-            "last_commit": "2026-08-24T14:18:39Z",
+            "last_commit": "2026-08-25T13:58:20Z",
             "owner": "kaltura",
             "repo": "server",
             "stars": 407
@@ -16847,7 +16847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:42.460Z",
+    "last_updated": "2026-08-25T20:25:03.723Z",
     "original_repository": "krzemienski/awesome-video",
     "original_repository_id": 163883690,
     "original_repository_sha": "be0c146ae2dbab74e21ba6bc65706545d5fb02b5",
