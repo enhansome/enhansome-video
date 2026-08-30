@@ -19,7 +19,7 @@
             "open_issues": 72,
             "owner": "hzwer",
             "repo": "ECCV2022-RIFE",
-            "stars": 5564,
+            "stars": 5566,
             "topics": [
               "aigc",
               "computer-vision",
@@ -42,11 +42,11 @@
             "id": 340219494,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T02:40:20Z",
+            "last_commit": "2026-08-30T02:44:55Z",
             "open_issues": 484,
             "owner": "libjxl",
             "repo": "libjxl",
-            "stars": 3644,
+            "stars": 3645,
             "topics": [
               "codec",
               "decoder",
@@ -84,7 +84,7 @@
             "open_issues": 39,
             "owner": "aeron-io",
             "repo": "simple-binary-encoding",
-            "stars": 3497,
+            "stars": 3498,
             "topics": [
               "c-plus-plus",
               "codec",
@@ -252,7 +252,7 @@
             "open_issues": 18,
             "owner": "joshuaboniface",
             "repo": "rffmpeg",
-            "stars": 1068,
+            "stars": 1069,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -301,7 +301,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-07-06T22:33:35Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "GPUOpen-LibrariesAndSDKs",
             "repo": "AMF",
             "stars": 743,
@@ -322,7 +322,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-07-06T22:33:35Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "GPUOpen-LibrariesAndSDKs",
             "repo": "AMF",
             "stars": 743,
@@ -558,7 +558,7 @@
             "id": 36927752,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-04-23T18:38:27Z",
+            "last_commit": "2026-08-30T21:31:17Z",
             "open_issues": 1,
             "owner": "zbabac",
             "repo": "VCT",
@@ -609,27 +609,6 @@
         },
         {
           "node_type": "item",
-          "title": "Dolby Vision Professional Decoder Plugin",
-          "description": "DolbyLaboratories/dolby_vision_professional_decoder_plugin - A GitHub repository for video/multimedia development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 198646677,
-            "language": "C",
-            "license": "BSD-3-Clause",
-            "last_commit": "2021-08-28T15:03:58Z",
-            "open_issues": 0,
-            "owner": "DolbyLaboratories",
-            "repo": "dolby_vision_professional_decoder_plugin",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:01:06.455Z"
-        },
-        {
-          "node_type": "item",
           "title": "IHMC Video Codecs",
           "description": "A Java library providing support for H.264 and MJPEG encoding and decoding, as well as MP4 support. It utilizes native code for efficient video processing and includes automatic downloading of the OpenH264 library, ensuring compliance with licensing requirements.",
           "children": [],
@@ -644,6 +623,27 @@
             "open_issues": 1,
             "owner": "ihmcrobotics",
             "repo": "ihmc-video-codecs",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dolby Vision Professional Decoder Plugin",
+          "description": "DolbyLaboratories/dolby_vision_professional_decoder_plugin - A GitHub repository for video/multimedia development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 198646677,
+            "language": "C",
+            "license": "BSD-3-Clause",
+            "last_commit": "2021-08-28T15:03:58Z",
+            "open_issues": 0,
+            "owner": "DolbyLaboratories",
+            "repo": "dolby_vision_professional_decoder_plugin",
             "stars": 17,
             "topics": []
           },
@@ -924,7 +924,7 @@
                 "open_issues": 7,
                 "owner": "juliobbv-p",
                 "repo": "svt-av1-hdr",
-                "stars": 244,
+                "stars": 246,
                 "topics": [
                   "av1",
                   "av1-codec",
@@ -949,7 +949,7 @@
                 "id": 419174287,
                 "language": "Batchfile",
                 "license": "MIT",
-                "last_commit": "2026-07-27T13:21:53Z",
+                "last_commit": "2026-08-30T12:28:17Z",
                 "open_issues": 1,
                 "owner": "MartinEesmaa",
                 "repo": "VVCEasy",
@@ -1010,7 +1010,7 @@
                 "open_issues": 47,
                 "owner": "AOMediaCodec",
                 "repo": "avm",
-                "stars": 211,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -1061,10 +1061,10 @@
                 "language": "TypeScript",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-21T09:03:12Z",
-                "open_issues": 297,
+                "open_issues": 298,
                 "owner": "mifi",
                 "repo": "lossless-cut",
-                "stars": 43294,
+                "stars": 43319,
                 "topics": [
                   "codec",
                   "cut",
@@ -1096,7 +1096,7 @@
                 "open_issues": 422,
                 "owner": "ffmpegwasm",
                 "repo": "ffmpeg.wasm",
-                "stars": 17769,
+                "stars": 17771,
                 "topics": [
                   "audio",
                   "experimental-features",
@@ -1153,7 +1153,7 @@
                 "open_issues": 107,
                 "owner": "Nevcairiel",
                 "repo": "LAVFilters",
-                "stars": 9118,
+                "stars": 9120,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -1174,7 +1174,7 @@
                 "open_issues": 266,
                 "owner": "datarhei",
                 "repo": "restreamer",
-                "stars": 5180,
+                "stars": 5181,
                 "topics": [
                   "ffmpeg",
                   "ffmpeg-api",
@@ -1216,7 +1216,7 @@
                 "open_issues": 0,
                 "owner": "WyattBlue",
                 "repo": "auto-editor",
-                "stars": 5099,
+                "stars": 5107,
                 "topics": [
                   "audio",
                   "audio-editing",
@@ -1310,8 +1310,8 @@
                 "id": 6854611,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-27T23:39:02Z",
-                "open_issues": 7,
+                "last_commit": "2026-08-30T21:54:20Z",
+                "open_issues": 8,
                 "owner": "PyAV-Org",
                 "repo": "PyAV",
                 "stars": 3272,
@@ -1394,8 +1394,8 @@
                 "id": 19062997,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-07-28T15:06:16Z",
-                "open_issues": 41,
+                "last_commit": "2026-08-30T19:44:31Z",
+                "open_issues": 40,
                 "owner": "gpac",
                 "repo": "mp4box.js",
                 "stars": 2463,
@@ -1477,8 +1477,8 @@
                 "id": 4019052,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-08-29T19:43:35Z",
-                "open_issues": 52,
+                "last_commit": "2026-08-30T03:21:30Z",
+                "open_issues": 50,
                 "owner": "mltframework",
                 "repo": "mlt",
                 "stars": 1834,
@@ -1513,11 +1513,11 @@
                 "id": 31920792,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-08-18T06:00:49Z",
+                "last_commit": "2026-08-30T18:03:39Z",
                 "open_issues": 51,
                 "owner": "OpenShot",
                 "repo": "libopenshot",
-                "stars": 1541,
+                "stars": 1542,
                 "topics": [
                   "audio",
                   "c-plus-plus",
@@ -1676,7 +1676,7 @@
                 "open_issues": 1,
                 "owner": "asticode",
                 "repo": "go-astiav",
-                "stars": 731,
+                "stars": 732,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -2328,11 +2328,11 @@
                     "id": 1614410,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-29T14:54:02Z",
+                    "last_commit": "2026-08-30T16:03:55Z",
                     "open_issues": 3,
                     "owner": "FFmpeg",
                     "repo": "FFmpeg",
-                    "stars": 63779,
+                    "stars": 63805,
                     "topics": [
                       "audio",
                       "c",
@@ -2461,7 +2461,7 @@
                     "open_issues": 61,
                     "owner": "u2takey",
                     "repo": "ffmpeg-go",
-                    "stars": 2346,
+                    "stars": 2348,
                     "topics": [
                       "ffmpeg",
                       "ffmpeg-wrapper",
@@ -2483,7 +2483,7 @@
                     "id": 16869559,
                     "language": "Java",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-08-16T08:42:31Z",
+                    "last_commit": "2026-08-30T08:42:42Z",
                     "open_issues": 18,
                     "owner": "bramp",
                     "repo": "ffmpeg-cli-wrapper",
@@ -2507,8 +2507,8 @@
                     "id": 23471285,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T19:53:35Z",
-                    "open_issues": 128,
+                    "last_commit": "2026-08-30T04:42:39Z",
+                    "open_issues": 129,
                     "owner": "jrottenberg",
                     "repo": "ffmpeg",
                     "stars": 1643,
@@ -2565,7 +2565,7 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-08-25T05:54:43Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "markus-perl",
                     "repo": "ffmpeg-build-script",
                     "stars": 1215,
@@ -2698,7 +2698,7 @@
                     "open_issues": 14,
                     "owner": "larksuite",
                     "repo": "rsmpeg",
-                    "stars": 878,
+                    "stars": 877,
                     "topics": [
                       "bindings",
                       "ffi",
@@ -3038,7 +3038,7 @@
                     "open_issues": 0,
                     "owner": "slhck",
                     "repo": "ffmpeg-debug-qp",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": [
                       "ffmpeg",
                       "video-encoding"
@@ -3083,7 +3083,7 @@
                     "open_issues": 0,
                     "owner": "nextbreakpoint",
                     "repo": "ffmpeg4java",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": [
                       "ffmpeg",
                       "ffmper-wrapper",
@@ -3527,7 +3527,7 @@
                 "open_issues": 9,
                 "owner": "nyanmisaka",
                 "repo": "ffmpeg-rockchip",
-                "stars": 1275,
+                "stars": 1276,
                 "topics": [
                   "arm",
                   "arm64",
@@ -3678,7 +3678,7 @@
                 "open_issues": 48,
                 "owner": "gpac",
                 "repo": "gpac",
-                "stars": 3298,
+                "stars": 3297,
                 "topics": [
                   "atsc3",
                   "broadcast",
@@ -3903,7 +3903,7 @@
                 "open_issues": 306,
                 "owner": "cisco",
                 "repo": "openh264",
-                "stars": 6141,
+                "stars": 6140,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -3963,7 +3963,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause-Clear",
                 "last_commit": "2026-08-21T07:59:35Z",
-                "open_issues": 13,
+                "open_issues": 16,
                 "owner": "fraunhoferhhi",
                 "repo": "vvdec",
                 "stars": 563,
@@ -4016,7 +4016,7 @@
                     "open_issues": 109,
                     "owner": "memorysafety",
                     "repo": "rav1d",
-                    "stars": 642,
+                    "stars": 641,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -4080,7 +4080,7 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-04-30T00:20:54Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "rust-av",
                     "repo": "grav1synth",
                     "stars": 92,
@@ -4440,7 +4440,7 @@
                 "id": 1122008771,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T21:58:55Z",
+                "last_commit": "2026-08-29T22:46:00Z",
                 "open_issues": 1,
                 "owner": "imazen",
                 "repo": "codec-eval",
@@ -4703,7 +4703,7 @@
                 "id": 262623449,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T19:27:21Z",
+                "last_commit": "2026-08-30T21:26:44Z",
                 "open_issues": 13,
                 "owner": "ThibaultBee",
                 "repo": "StreamPack",
@@ -4828,7 +4828,7 @@
                 "id": 1183065935,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T10:50:26Z",
+                "last_commit": "2026-08-30T16:38:10Z",
                 "open_issues": 1,
                 "owner": "im-pingo",
                 "repo": "liveforge",
@@ -4927,10 +4927,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-24T10:04:20Z",
-                "open_issues": 158,
+                "open_issues": 159,
                 "owner": "rust-av",
                 "repo": "Av1an",
-                "stars": 1976,
+                "stars": 1975,
                 "topics": [
                   "aomenc",
                   "av1",
@@ -4966,10 +4966,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-24T10:04:20Z",
-                "open_issues": 158,
+                "open_issues": 159,
                 "owner": "rust-av",
                 "repo": "Av1an",
-                "stars": 1976,
+                "stars": 1975,
                 "topics": [
                   "aomenc",
                   "av1",
@@ -5600,7 +5600,7 @@
                 "open_issues": 48,
                 "owner": "gpac",
                 "repo": "gpac",
-                "stars": 3298,
+                "stars": 3297,
                 "topics": [
                   "atsc3",
                   "broadcast",
@@ -6092,8 +6092,8 @@
                 "id": 35139417,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2025-01-28T23:57:23Z",
-                "open_issues": 10,
+                "last_commit": "2026-08-30T01:52:29Z",
+                "open_issues": 5,
                 "owner": "lisamelton",
                 "repo": "video_transcoding",
                 "stars": 2517,
@@ -6988,11 +6988,11 @@
             "id": 307260205,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-08-29T22:12:12Z",
-            "open_issues": 2597,
+            "last_commit": "2026-08-30T13:58:45Z",
+            "open_issues": 2599,
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 187748,
+            "stars": 187935,
             "topics": [
               "cli",
               "downloader",
@@ -7021,7 +7021,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417,
+            "stars": 34420,
             "topics": [
               "caffe",
               "computer-vision",
@@ -7063,7 +7063,7 @@
             "open_issues": 544,
             "owner": "iawia002",
             "repo": "lux",
-            "stars": 31659,
+            "stars": 31661,
             "topics": [
               "bilibili",
               "crawler",
@@ -7095,10 +7095,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-24T13:22:20Z",
-            "open_issues": 170,
+            "open_issues": 171,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20768,
+            "stars": 20772,
             "topics": [
               "ascii",
               "cli",
@@ -7125,10 +7125,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-23T15:23:27Z",
-            "open_issues": 210,
+            "open_issues": 211,
             "owner": "Huanshere",
             "repo": "VideoLingo",
-            "stars": 18291,
+            "stars": 18296,
             "topics": [
               "ai-translation",
               "dubbing",
@@ -7173,10 +7173,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-07-19T18:30:44Z",
-            "open_issues": 200,
+            "open_issues": 201,
             "owner": "WEIFENG2333",
             "repo": "VideoCaptioner",
-            "stars": 15803,
+            "stars": 15810,
             "topics": [
               "ai",
               "subtitle",
@@ -7199,10 +7199,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:49:27Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "haiwen",
             "repo": "seafile",
-            "stars": 15181,
+            "stars": 15182,
             "topics": [
               "cloud-storage",
               "document-management",
@@ -7231,7 +7231,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15015,
+            "stars": 15013,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -7257,7 +7257,7 @@
             "open_issues": 437,
             "owner": "ajayyy",
             "repo": "SponsorBlock",
-            "stars": 13713,
+            "stars": 13718,
             "topics": [
               "adblock",
               "adblocker",
@@ -7293,7 +7293,7 @@
             "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13184,
+            "stars": 13185,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -7314,7 +7314,7 @@
             "open_issues": 62,
             "owner": "jely2002",
             "repo": "youtube-dl-gui",
-            "stars": 9101,
+            "stars": 9105,
             "topics": [
               "cross-platform-gui",
               "downloader",
@@ -7345,7 +7345,7 @@
             "open_issues": 2,
             "owner": "nadermx",
             "repo": "backgroundremover",
-            "stars": 8023,
+            "stars": 8027,
             "topics": [
               "ai",
               "background-removal",
@@ -7380,7 +7380,7 @@
             "open_issues": 86,
             "owner": "RayVentura",
             "repo": "ShortGPT",
-            "stars": 7893,
+            "stars": 7900,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -7541,7 +7541,7 @@
             "open_issues": 67,
             "owner": "Breakthrough",
             "repo": "PySceneDetect",
-            "stars": 5133,
+            "stars": 5138,
             "topics": [
               "analysis",
               "image-processing",
@@ -7593,10 +7593,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-02T21:47:49Z",
-            "open_issues": 261,
+            "open_issues": 262,
             "owner": "tmoroney",
             "repo": "auto-subs",
-            "stars": 4103,
+            "stars": 4106,
             "topics": [
               "ai",
               "cross-platform",
@@ -7630,7 +7630,7 @@
             "open_issues": 163,
             "owner": "google",
             "repo": "oboe",
-            "stars": 4098,
+            "stars": 4099,
             "topics": [
               "android",
               "audio",
@@ -7676,7 +7676,7 @@
             "open_issues": 23,
             "owner": "axcore",
             "repo": "tartube",
-            "stars": 3096,
+            "stars": 3100,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -7693,7 +7693,7 @@
             "id": 90321822,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T11:37:12Z",
+            "last_commit": "2026-08-30T11:37:23Z",
             "open_issues": 338,
             "owner": "pytorch",
             "repo": "audio",
@@ -7768,7 +7768,7 @@
             "open_issues": 148,
             "owner": "shaka-project",
             "repo": "shaka-packager",
-            "stars": 2590,
+            "stars": 2591,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -7789,7 +7789,7 @@
             "open_issues": 193,
             "owner": "ponchio",
             "repo": "untrunc",
-            "stars": 1947,
+            "stars": 1948,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -7880,7 +7880,7 @@
             "open_issues": 6,
             "owner": "Last-Order",
             "repo": "Minyami",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "hls"
             ]
@@ -7932,7 +7932,7 @@
             "open_issues": 45,
             "owner": "AcademySoftwareFoundation",
             "repo": "openfx",
-            "stars": 566,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -8166,7 +8166,7 @@
             "open_issues": 31,
             "owner": "google-marketing-solutions",
             "repo": "vigenair",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "ai",
               "generative-ai",
@@ -8858,7 +8858,7 @@
                     "open_issues": 115,
                     "owner": "Netflix",
                     "repo": "vmaf",
-                    "stars": 5462,
+                    "stars": 5463,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -9412,7 +9412,7 @@
                     "id": 1122848407,
                     "language": "Rust",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-29T19:11:57Z",
+                    "last_commit": "2026-08-30T21:11:02Z",
                     "open_issues": 0,
                     "owner": "imazen",
                     "repo": "butteraugli",
@@ -9454,7 +9454,7 @@
                     "id": 1127465123,
                     "language": "Rust",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-08-29T21:22:15Z",
+                    "last_commit": "2026-08-30T21:11:10Z",
                     "open_issues": 0,
                     "owner": "imazen",
                     "repo": "fast-ssim2",
@@ -9573,11 +9573,11 @@
                     "id": 576103395,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-07-13T08:30:07Z",
-                    "open_issues": 216,
+                    "last_commit": "2026-08-30T15:40:47Z",
+                    "open_issues": 217,
                     "owner": "m-bain",
                     "repo": "whisperX",
-                    "stars": 23803,
+                    "stars": 23819,
                     "topics": [
                       "asr",
                       "speech",
@@ -9604,7 +9604,7 @@
                     "open_issues": 16,
                     "owner": "jianchang512",
                     "repo": "pyvideotrans",
-                    "stars": 18833,
+                    "stars": 18843,
                     "topics": [
                       "speech-to-text",
                       "text-to-speech",
@@ -9625,11 +9625,11 @@
                     "id": 16473585,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T20:38:48Z",
-                    "open_issues": 232,
+                    "last_commit": "2026-08-30T21:10:34Z",
+                    "open_issues": 230,
                     "owner": "SubtitleEdit",
                     "repo": "subtitleedit",
-                    "stars": 14011,
+                    "stars": 14017,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -9647,10 +9647,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-12-29T07:53:10Z",
-                    "open_issues": 156,
+                    "open_issues": 159,
                     "owner": "jhj0517",
                     "repo": "Whisper-WebUI",
-                    "stars": 2867,
+                    "stars": 2865,
                     "topics": [
                       "ai",
                       "gradio",
@@ -9700,7 +9700,7 @@
                     "open_issues": 38,
                     "owner": "CCExtractor",
                     "repo": "ccextractor",
-                    "stars": 899,
+                    "stars": 900,
                     "topics": [
                       "c",
                       "cea-608",
@@ -9812,7 +9812,7 @@
                     "id": 294991067,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-08-26T15:59:10Z",
+                    "last_commit": "2026-08-30T17:32:10Z",
                     "open_issues": 33,
                     "owner": "sandflow",
                     "repo": "ttconv",
@@ -10463,7 +10463,7 @@
                     "open_issues": 205,
                     "owner": "xiph",
                     "repo": "rnnoise",
-                    "stars": 5809,
+                    "stars": 5810,
                     "topics": [
                       "audio",
                       "c",
@@ -10489,7 +10489,7 @@
                     "open_issues": 157,
                     "owner": "aubio",
                     "repo": "aubio",
-                    "stars": 3754,
+                    "stars": 3753,
                     "topics": [
                       "analysis",
                       "annotation",
@@ -10682,11 +10682,11 @@
                     "id": 97760696,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-27T18:18:46Z",
+                    "last_commit": "2026-08-30T20:03:14Z",
                     "open_issues": 0,
                     "owner": "VoidXH",
                     "repo": "Cavern",
-                    "stars": 577,
+                    "stars": 578,
                     "topics": [
                       "atmos",
                       "audio",
@@ -10740,7 +10740,7 @@
                     "open_issues": 7,
                     "owner": "videolan",
                     "repo": "libspatialaudio",
-                    "stars": 313,
+                    "stars": 315,
                     "topics": [
                       "3d-audio",
                       "ambisonics",
@@ -10955,7 +10955,7 @@
                 "open_issues": 221,
                 "owner": "MediaArea",
                 "repo": "MediaInfo",
-                "stars": 2004,
+                "stars": 2005,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -11673,7 +11673,7 @@
                 "open_issues": 18,
                 "owner": "eibols",
                 "repo": "ffmpeg_batch",
-                "stars": 1556,
+                "stars": 1558,
                 "topics": [
                   "aac",
                   "ac3",
@@ -11808,7 +11808,7 @@
                 "open_issues": 77,
                 "owner": "absadiki",
                 "repo": "subsai",
-                "stars": 1683,
+                "stars": 1681,
                 "topics": [
                   "cli",
                   "subtitles",
@@ -11836,7 +11836,7 @@
                 "open_issues": 3,
                 "owner": "McCloudS",
                 "repo": "subgen",
-                "stars": 1468,
+                "stars": 1470,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -11857,7 +11857,7 @@
                 "open_issues": 17,
                 "owner": "denizsafak",
                 "repo": "AutoSubSync",
-                "stars": 1155,
+                "stars": 1157,
                 "topics": [
                   "automatic-subtitle",
                   "caption",
@@ -12432,7 +12432,7 @@
                 "open_issues": 9,
                 "owner": "quietvoid",
                 "repo": "dovi_tool",
-                "stars": 1007,
+                "stars": 1008,
                 "topics": [
                   "dolby",
                   "dolby-vision",
@@ -12497,7 +12497,7 @@
                 "open_issues": 4,
                 "owner": "quietvoid",
                 "repo": "hdr10plus_tool",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "dynamic-metadata",
                   "ffmpeg",
@@ -12665,7 +12665,7 @@
                 "open_issues": 10,
                 "owner": "soCzech",
                 "repo": "TransNetV2",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": [
                   "shot-boundary-detection",
                   "shot-detection"
@@ -12871,7 +12871,7 @@
                 "open_issues": 1,
                 "owner": "slhck",
                 "repo": "scenecut-extractor",
-                "stars": 98,
+                "stars": 97,
                 "topics": [
                   "ffmpeg",
                   "video"
@@ -13007,7 +13007,7 @@
                 "open_issues": 76,
                 "owner": "OpenImagingLab",
                 "repo": "FlashVSR",
-                "stars": 1806,
+                "stars": 1808,
                 "topics": [
                   "diffusion-models",
                   "video-restoration",
@@ -13354,7 +13354,7 @@
                 "open_issues": 132,
                 "owner": "k4yt3x",
                 "repo": "video2x",
-                "stars": 21419,
+                "stars": 21428,
                 "topics": [
                   "anime4k",
                   "frame-interpolation",
@@ -13386,7 +13386,7 @@
                 "open_issues": 123,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21305,
+                "stars": 21307,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -13506,7 +13506,7 @@
                 "open_issues": 68,
                 "owner": "hzwer",
                 "repo": "Practical-RIFE",
-                "stars": 1003,
+                "stars": 1004,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -13524,10 +13524,10 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-14T08:13:27Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "hanatos",
                 "repo": "vkdt",
-                "stars": 596,
+                "stars": 597,
                 "topics": [
                   "gpu",
                   "photography",
@@ -13581,7 +13581,7 @@
                 "open_issues": 173,
                 "owner": "motion-canvas",
                 "repo": "motion-canvas",
-                "stars": 19022,
+                "stars": 19024,
                 "topics": [
                   "animation",
                   "presentation",
@@ -13627,7 +13627,7 @@
                 "open_issues": 12,
                 "owner": "walterlow",
                 "repo": "freecut",
-                "stars": 2112,
+                "stars": 2115,
                 "topics": [
                   "mediabunny",
                   "open-source",
@@ -13658,7 +13658,7 @@
                 "open_issues": 0,
                 "owner": "tejaswigowda",
                 "repo": "ffmpeg-webCLI",
-                "stars": 1395,
+                "stars": 1399,
                 "topics": [
                   "audio-editor",
                   "browser-based",
@@ -13785,7 +13785,7 @@
                 "open_issues": 0,
                 "owner": "petergeneric",
                 "repo": "unifi-protect-remux",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "file-format-conversion",
                   "file-format-converter",
@@ -13983,10 +13983,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-26T18:05:18Z",
-            "open_issues": 1170,
+            "open_issues": 1171,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75593,
+            "stars": 75628,
             "topics": [
               "c",
               "c-plus-plus",
@@ -14015,11 +14015,11 @@
             "id": 134012064,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T14:44:40Z",
-            "open_issues": 119,
+            "last_commit": "2026-08-30T16:45:31Z",
+            "open_issues": 118,
             "owner": "pion",
             "repo": "webrtc",
-            "stars": 16745,
+            "stars": 16744,
             "topics": [
               "audio",
               "go",
@@ -14058,10 +14058,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:26:36Z",
-            "open_issues": 309,
+            "open_issues": 310,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14359,
+            "stars": 14361,
             "topics": [
               "networking",
               "server",
@@ -14114,7 +14114,7 @@
             "open_issues": 376,
             "owner": "Haivision",
             "repo": "srt",
-            "stars": 3588,
+            "stars": 3589,
             "topics": [
               "c-plus-plus",
               "live-streaming",
@@ -14142,7 +14142,7 @@
             "open_issues": 69,
             "owner": "pedroSG94",
             "repo": "RootEncoder",
-            "stars": 3028,
+            "stars": 3029,
             "topics": [
               "aac",
               "amf",
@@ -14207,8 +14207,8 @@
             "id": 235060192,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T10:29:49Z",
-            "open_issues": 20,
+            "last_commit": "2026-08-29T23:03:29Z",
+            "open_issues": 19,
             "owner": "bluenviron",
             "repo": "gortsplib",
             "stars": 935,
@@ -14287,7 +14287,7 @@
             "open_issues": 23,
             "owner": "mhdzumair",
             "repo": "mediaflow-proxy",
-            "stars": 778,
+            "stars": 777,
             "topics": [
               "acestream",
               "alldebrid",
@@ -14318,7 +14318,7 @@
             "open_issues": 90,
             "owner": "Edward-Wu",
             "repo": "srt-live-server",
-            "stars": 689,
+            "stars": 690,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -14721,7 +14721,7 @@
                 "open_issues": 73,
                 "owner": "hongzimao",
                 "repo": "pensieve",
-                "stars": 581,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -14804,10 +14804,10 @@
                     "language": "TypeScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-28T21:28:22Z",
-                    "open_issues": 91,
+                    "open_issues": 93,
                     "owner": "video-dev",
                     "repo": "hls.js",
-                    "stars": 16905,
+                    "stars": 16907,
                     "topics": [
                       "ecmascript6",
                       "hacktoberfest",
@@ -14845,7 +14845,7 @@
                     "open_issues": 206,
                     "owner": "puemos",
                     "repo": "hls-downloader",
-                    "stars": 2684,
+                    "stars": 2685,
                     "topics": [
                       "chrome",
                       "chrome-extension",
@@ -15498,7 +15498,7 @@
                     "open_issues": 3,
                     "owner": "Eyevinn",
                     "repo": "hls-m3u8",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -16077,7 +16077,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-27T18:58:22Z",
-                    "open_issues": 162,
+                    "open_issues": 168,
                     "owner": "Dash-Industry-Forum",
                     "repo": "dash.js",
                     "stars": 5543,
@@ -16111,7 +16111,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-27T18:58:22Z",
-                    "open_issues": 162,
+                    "open_issues": 168,
                     "owner": "Dash-Industry-Forum",
                     "repo": "dash.js",
                     "stars": 5543,
@@ -16148,7 +16148,7 @@
                     "open_issues": 48,
                     "owner": "gpac",
                     "repo": "gpac",
-                    "stars": 3298,
+                    "stars": 3297,
                     "topics": [
                       "atsc3",
                       "broadcast",
@@ -16203,7 +16203,7 @@
                     "id": 451507822,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-08-19T13:31:07Z",
+                    "last_commit": "2026-08-30T10:14:09Z",
                     "open_issues": 16,
                     "owner": "emarsden",
                     "repo": "dash-mpd-cli",
@@ -16387,7 +16387,7 @@
                     "id": 432687882,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-08-21T08:14:16Z",
+                    "last_commit": "2026-08-30T12:54:29Z",
                     "open_issues": 3,
                     "owner": "emarsden",
                     "repo": "dash-mpd-rs",
@@ -16418,7 +16418,7 @@
                     "open_issues": 21,
                     "owner": "videojs",
                     "repo": "mpd-parser",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -16492,6 +16492,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Mpd Tools",
+                  "description": "Java utilities for parsing and manipulating DASH Media Presentation Description files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "DASH MPD tools for Java",
+                    "homepage": null,
+                    "id": 98556534,
+                    "language": "Java",
+                    "license": "MIT",
+                    "last_commit": "2026-01-27T08:54:30Z",
+                    "open_issues": 6,
+                    "owner": "carlanton",
+                    "repo": "mpd-tools",
+                    "stars": 33,
+                    "topics": [
+                      "dash",
+                      "java",
+                      "mpd"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T04:01:06.455Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "edgeware/mp4ff — Go fMP4 Parser/Writer & Segmenter",
                   "description": "Go library to parse and generate MPEG-DASH MPD manifests, actively maintained.",
                   "children": [],
@@ -16508,31 +16533,6 @@
                     "repo": "go-mpd",
                     "stars": 32,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T04:01:06.455Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Mpd Tools",
-                  "description": "Java utilities for parsing and manipulating DASH Media Presentation Description files.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "DASH MPD tools for Java",
-                    "homepage": null,
-                    "id": 98556534,
-                    "language": "Java",
-                    "license": "MIT",
-                    "last_commit": "2026-01-27T08:54:30Z",
-                    "open_issues": 6,
-                    "owner": "carlanton",
-                    "repo": "mpd-tools",
-                    "stars": 31,
-                    "topics": [
-                      "dash",
-                      "java",
-                      "mpd"
-                    ]
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
                 },
@@ -16904,11 +16904,11 @@
                 "id": 508763694,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T17:03:33Z",
-                "open_issues": 159,
+                "last_commit": "2026-08-30T22:19:28Z",
+                "open_issues": 186,
                 "owner": "moq-dev",
                 "repo": "moq",
-                "stars": 1482,
+                "stars": 1484,
                 "topics": [
                   "live",
                   "media",
@@ -17000,8 +17000,8 @@
                 "id": 873121011,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-08-29T00:34:08Z",
-                "open_issues": 61,
+                "last_commit": "2026-08-30T21:47:35Z",
+                "open_issues": 60,
                 "owner": "cloudflare",
                 "repo": "moq-rs",
                 "stars": 157,
@@ -17113,8 +17113,8 @@
                 "id": 701399676,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T20:30:28Z",
-                "open_issues": 18,
+                "last_commit": "2026-08-30T19:47:06Z",
+                "open_issues": 19,
                 "owner": "mengelbart",
                 "repo": "moqtransport",
                 "stars": 87,
@@ -17278,8 +17278,8 @@
                 "id": 966761540,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-06T15:04:21Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-30T21:03:12Z",
+                "open_issues": 2,
                 "owner": "Eyevinn",
                 "repo": "moqlivemock",
                 "stars": 16,
@@ -17531,7 +17531,7 @@
                 "open_issues": 2,
                 "owner": "danalex97",
                 "repo": "abrcc",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -17566,6 +17566,32 @@
             },
             {
               "node_type": "item",
+              "title": "SABR — Stable ABR Framework (BC + RL)",
+              "description": "Stable adaptive bitrate framework combining behavior-cloning pretraining with RL fine-tuning (arXiv 2509.10486).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SABR: stable adaptive bitrate learning with behavior cloning pretraining, RL fine-tuning, and ABRBench evaluation",
+                "homepage": "https://ieeexplore.ieee.org/abstract/document/11555332/",
+                "id": 1045347879,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-16T02:48:42Z",
+                "open_issues": 0,
+                "owner": "luopeng69131",
+                "repo": "SABR",
+                "stars": 6,
+                "topics": [
+                  "abr",
+                  "adaptive-bitrate",
+                  "reinforcement-learning",
+                  "video-streaming"
+                ]
+              },
+              "first_seen": "2026-08-28T04:01:06.455Z"
+            },
+            {
+              "node_type": "item",
               "title": "encodex — AI content-aware convex-hull encoder",
               "description": "AI-agent content-aware encoder generating convex-hull Pareto-frontier bitrate ladders with content-complexity adjustments.",
               "children": [],
@@ -17582,32 +17608,6 @@
                 "repo": "encodex",
                 "stars": 5,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T04:01:06.455Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SABR — Stable ABR Framework (BC + RL)",
-              "description": "Stable adaptive bitrate framework combining behavior-cloning pretraining with RL fine-tuning (arXiv 2509.10486).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "SABR: stable adaptive bitrate learning with behavior cloning pretraining, RL fine-tuning, and ABRBench evaluation",
-                "homepage": "https://ieeexplore.ieee.org/abstract/document/11555332/",
-                "id": 1045347879,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-16T02:48:42Z",
-                "open_issues": 0,
-                "owner": "luopeng69131",
-                "repo": "SABR",
-                "stars": 5,
-                "topics": [
-                  "abr",
-                  "adaptive-bitrate",
-                  "reinforcement-learning",
-                  "video-streaming"
-                ]
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
             },
@@ -17730,7 +17730,7 @@
                 "id": 458454820,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-11T08:49:16Z",
+                "last_commit": "2026-08-30T18:34:20Z",
                 "open_issues": 0,
                 "owner": "azot-labs",
                 "repo": "dasha",
@@ -17876,7 +17876,7 @@
                 "open_issues": 42,
                 "owner": "mozilla",
                 "repo": "mp4parse-rust",
-                "stars": 448,
+                "stars": 449,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -18920,11 +18920,11 @@
             "id": 76838017,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T20:18:07Z",
-            "open_issues": 1917,
+            "last_commit": "2026-08-30T18:46:51Z",
+            "open_issues": 1921,
             "owner": "iina",
             "repo": "iina",
-            "stars": 46133,
+            "stars": 46154,
             "topics": [
               "hacktoberfest",
               "macos",
@@ -18982,10 +18982,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:33:56Z",
-            "open_issues": 1145,
+            "open_issues": 1149,
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36741,
+            "stars": 36763,
             "topics": [
               "audio",
               "c",
@@ -19011,7 +19011,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2024-08-13T00:53:33Z",
-            "open_issues": 2897,
+            "open_issues": 2898,
             "owner": "bilibili",
             "repo": "ijkplayer",
             "stars": 33203,
@@ -19042,7 +19042,7 @@
             "open_issues": 476,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22967,
+            "stars": 22991,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -19068,11 +19068,11 @@
             "id": 91570348,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T11:51:47Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-30T17:33:29Z",
+            "open_issues": 9,
             "owner": "clsid2",
             "repo": "mpc-hc",
-            "stars": 15556,
+            "stars": 15563,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -19093,7 +19093,7 @@
             "open_issues": 39,
             "owner": "bytedance",
             "repo": "xgplayer",
-            "stars": 9286,
+            "stars": 9287,
             "topics": [
               "dash",
               "flv",
@@ -19129,7 +19129,7 @@
             "open_issues": 156,
             "owner": "mpvnet-player",
             "repo": "mpv.net",
-            "stars": 5353,
+            "stars": 5354,
             "topics": [
               "audio-player",
               "command-line",
@@ -19170,7 +19170,7 @@
             "open_issues": 6,
             "owner": "videolan",
             "repo": "vlc-android",
-            "stars": 3958,
+            "stars": 3961,
             "topics": [
               "android",
               "libvlc",
@@ -19246,7 +19246,7 @@
             "id": 846630,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-27T19:47:59Z",
+            "last_commit": "2026-08-30T19:15:01Z",
             "open_issues": 75,
             "owner": "lightspark",
             "repo": "lightspark",
@@ -19292,7 +19292,7 @@
             "open_issues": 291,
             "owner": "celluloid-player",
             "repo": "celluloid",
-            "stars": 1455,
+            "stars": 1456,
             "topics": [
               "audio-player",
               "c",
@@ -19843,7 +19843,7 @@
                 "open_issues": 20,
                 "owner": "pavlobu",
                 "repo": "deskreen",
-                "stars": 21377,
+                "stars": 21379,
                 "topics": [
                   "blueprintjs",
                   "darkwire-io",
@@ -19885,7 +19885,7 @@
                 "open_issues": 61,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10278,
+                "stars": 10276,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -20047,7 +20047,7 @@
                     "open_issues": 939,
                     "owner": "sampotts",
                     "repo": "plyr",
-                    "stars": 29976,
+                    "stars": 29977,
                     "topics": [
                       "html5-video",
                       "javascript",
@@ -20133,11 +20133,11 @@
                     "id": 28246472,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T14:03:49Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-08-30T13:25:58Z",
+                    "open_issues": 47,
                     "owner": "shaka-project",
                     "repo": "shaka-player",
-                    "stars": 8209,
+                    "stars": 8207,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -20154,11 +20154,11 @@
                     "id": 16844474,
                     "language": "JavaScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-27T18:21:40Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-08-30T20:55:07Z",
+                    "open_issues": 1,
                     "owner": "clappr",
                     "repo": "clappr",
-                    "stars": 7493,
+                    "stars": 7492,
                     "topics": [
                       "clappr",
                       "dash",
@@ -20623,7 +20623,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2025-12-23T16:39:03Z",
-                    "open_issues": 628,
+                    "open_issues": 627,
                     "owner": "google",
                     "repo": "ExoPlayer",
                     "stars": 21930,
@@ -20647,7 +20647,7 @@
                     "open_issues": 15,
                     "owner": "CarGuo",
                     "repo": "GSYVideoPlayer",
-                    "stars": 21480,
+                    "stars": 21481,
                     "topics": [
                       "16k",
                       "android",
@@ -20713,7 +20713,7 @@
                     "open_issues": 167,
                     "owner": "mpv-android",
                     "repo": "mpv-android",
-                    "stars": 3502,
+                    "stars": 3506,
                     "topics": [
                       "android-app",
                       "audio",
@@ -21014,7 +21014,7 @@
                     "open_issues": 11,
                     "owner": "piemonte",
                     "repo": "Player",
-                    "stars": 2168,
+                    "stars": 2167,
                     "topics": [
                       "avfoundation",
                       "ios",
@@ -21745,8 +21745,8 @@
                     "id": 198712535,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T22:15:10Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-08-29T22:50:58Z",
+                    "open_issues": 10,
                     "owner": "lvcabral",
                     "repo": "brs-engine",
                     "stars": 134,
@@ -22510,11 +22510,11 @@
                 "id": 11136031,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-08-28T16:01:39Z",
-                "open_issues": 11,
+                "last_commit": "2026-08-30T15:24:33Z",
+                "open_issues": 10,
                 "owner": "vapoursynth",
                 "repo": "vapoursynth",
-                "stars": 2082,
+                "stars": 2084,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -22535,7 +22535,7 @@
                 "open_issues": 4,
                 "owner": "videolan",
                 "repo": "libvlcsharp",
-                "stars": 1805,
+                "stars": 1808,
                 "topics": [
                   "dotnet",
                   "libvlc",
@@ -22630,8 +22630,8 @@
                 "id": 73021553,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-21T18:51:56Z",
-                "open_issues": 32,
+                "last_commit": "2026-08-30T17:26:43Z",
+                "open_issues": 30,
                 "owner": "xbmc",
                 "repo": "inputstream.adaptive",
                 "stars": 529,
@@ -22762,7 +22762,7 @@
                 "id": 560998938,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T19:00:39Z",
+                "last_commit": "2026-08-30T18:12:28Z",
                 "open_issues": 64,
                 "owner": "rdkcentral",
                 "repo": "rialto",
@@ -23002,7 +23002,7 @@
                 "open_issues": 206,
                 "owner": "puemos",
                 "repo": "hls-downloader",
-                "stars": 2684,
+                "stars": 2685,
                 "topics": [
                   "chrome",
                   "chrome-extension",
@@ -23095,7 +23095,7 @@
                 "open_issues": 0,
                 "owner": "royswift2007",
                 "repo": "m3u8-video-sniffer",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "hls",
                   "m3u8",
@@ -23312,11 +23312,11 @@
                 "id": 3299208,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-29T19:12:16Z",
+                "last_commit": "2026-08-30T08:44:09Z",
                 "open_issues": 2,
                 "owner": "videolan",
                 "repo": "vlc",
-                "stars": 19476,
+                "stars": 19484,
                 "topics": [
                   "c",
                   "framework",
@@ -23341,11 +23341,11 @@
                 "id": 183483988,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T21:14:46Z",
-                "open_issues": 5637,
+                "last_commit": "2026-08-30T21:14:52Z",
+                "open_issues": 5639,
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 18472,
+                "stars": 18480,
                 "topics": [
                   "emulator",
                   "flash",
@@ -23373,7 +23373,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5353,
+                "stars": 5354,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -23414,7 +23414,7 @@
                 "open_issues": 6,
                 "owner": "kingslay",
                 "repo": "KSPlayer",
-                "stars": 1645,
+                "stars": 1651,
                 "topics": [
                   "audio-player",
                   "avplayer",
@@ -23612,11 +23612,11 @@
                     "id": 1122628500,
                     "language": "JavaScript",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-08-29T06:38:43Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-08-30T09:13:18Z",
+                    "open_issues": 8,
                     "owner": "Moonfin-Client",
                     "repo": "Smart-TV",
-                    "stars": 392,
+                    "stars": 393,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -23940,7 +23940,7 @@
             "open_issues": 14,
             "owner": "deepfakes",
             "repo": "faceswap",
-            "stars": 57516,
+            "stars": 57520,
             "topics": [
               "deep-face-swap",
               "deep-learning",
@@ -23976,7 +23976,7 @@
             "open_issues": 537,
             "owner": "iperov",
             "repo": "DeepFaceLab",
-            "stars": 19292,
+            "stars": 19291,
             "topics": [
               "arxiv",
               "creating-deepfakes",
@@ -24203,7 +24203,7 @@
             "open_issues": 89,
             "owner": "AviSynth",
             "repo": "AviSynthPlus",
-            "stars": 1198,
+            "stars": 1200,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -24276,7 +24276,7 @@
             "open_issues": 54,
             "owner": "devine-dl",
             "repo": "devine",
-            "stars": 592,
+            "stars": 591,
             "topics": [
               "downloader",
               "drm",
@@ -24930,11 +24930,11 @@
                 "id": 68402336,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-29T20:13:56Z",
-                "open_issues": 77,
+                "last_commit": "2026-08-30T19:44:04Z",
+                "open_issues": 78,
                 "owner": "streamlink",
                 "repo": "streamlink",
-                "stars": 11721,
+                "stars": 11723,
                 "topics": [
                   "cli",
                   "livestream",
@@ -24991,7 +24991,7 @@
                 "open_issues": 19,
                 "owner": "kokorin",
                 "repo": "Jaffree",
-                "stars": 549,
+                "stars": 550,
                 "topics": [
                   "ffmpeg",
                   "ffprobe",
@@ -25147,7 +25147,7 @@
                 "open_issues": 1,
                 "owner": "DavidBuchanan314",
                 "repo": "DeCENC",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "cenc",
                   "decenc",
@@ -26152,7 +26152,7 @@
                 "open_issues": 21,
                 "owner": "facebookresearch",
                 "repo": "videoseal",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "image",
                   "video",
@@ -26664,10 +26664,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-25T23:39:26Z",
-                "open_issues": 469,
+                "open_issues": 470,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44850,
+                "stars": 44857,
                 "topics": [
                   "debugging",
                   "http",
@@ -26947,10 +26947,10 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T16:39:37Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "MicrosoftDocs",
             "repo": "win32",
-            "stars": 1347,
+            "stars": 1348,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -27213,8 +27213,8 @@
             "id": 867221600,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T22:13:16Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-30T22:18:07Z",
+            "open_issues": 1,
             "owner": "LMP88959",
             "repo": "Digital-Subband-Video-2",
             "stars": 32,
@@ -27571,7 +27571,7 @@
                 "open_issues": 982,
                 "owner": "Fyrd",
                 "repo": "caniuse",
-                "stars": 5870,
+                "stars": 5871,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -27779,7 +27779,7 @@
                 "open_issues": 13,
                 "owner": "ebu",
                 "repo": "awesome-broadcasting",
-                "stars": 1766,
+                "stars": 1767,
                 "topics": [
                   "awesome-list",
                   "broadcast",
@@ -28016,7 +28016,7 @@
             "open_issues": 183,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo",
-            "stars": 12490,
+            "stars": 12491,
             "topics": [
               "diffusion-models",
               "diffusion-transformer",
@@ -28038,10 +28038,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:14:53Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "WWBN",
             "repo": "AVideo",
-            "stars": 2101,
+            "stars": 2100,
             "topics": [
               "avideo",
               "avideo-platform",
@@ -28379,7 +28379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:19:11.932Z",
+    "last_updated": "2026-08-30T22:22:38.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.",
