@@ -19,7 +19,7 @@
             "open_issues": 72,
             "owner": "hzwer",
             "repo": "ECCV2022-RIFE",
-            "stars": 5601,
+            "stars": 5603,
             "topics": [
               "aigc",
               "computer-vision",
@@ -42,7 +42,7 @@
             "id": 340219494,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T12:43:31Z",
+            "last_commit": "2026-10-06T02:52:13Z",
             "open_issues": 508,
             "owner": "libjxl",
             "repo": "libjxl",
@@ -270,7 +270,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-03-27T02:31:22Z",
-            "open_issues": 37,
+            "open_issues": 35,
             "owner": "TheNickOfTime",
             "repo": "handbrake-web",
             "stars": 804,
@@ -437,7 +437,7 @@
             "open_issues": 10,
             "owner": "Vargol",
             "repo": "ffmpeg-apple-arm64-build",
-            "stars": 309,
+            "stars": 308,
             "topics": [
               "apple",
               "codecs",
@@ -970,7 +970,7 @@
                 "id": 419174287,
                 "language": "Batchfile",
                 "license": "MIT",
-                "last_commit": "2026-10-05T15:03:42Z",
+                "last_commit": "2026-10-06T08:53:32Z",
                 "open_issues": 1,
                 "owner": "MartinEesmaa",
                 "repo": "VVCEasy",
@@ -1064,7 +1064,7 @@
                 "open_issues": 321,
                 "owner": "mifi",
                 "repo": "lossless-cut",
-                "stars": 44289,
+                "stars": 44303,
                 "topics": [
                   "codec",
                   "cut",
@@ -1096,7 +1096,7 @@
                 "open_issues": 460,
                 "owner": "ffmpegwasm",
                 "repo": "ffmpeg.wasm",
-                "stars": 17833,
+                "stars": 17834,
                 "topics": [
                   "audio",
                   "experimental-features",
@@ -1124,7 +1124,7 @@
                 "open_issues": 88,
                 "owner": "Zulko",
                 "repo": "moviepy",
-                "stars": 14952,
+                "stars": 14954,
                 "topics": [
                   "animation",
                   "gif",
@@ -1153,7 +1153,7 @@
                 "open_issues": 109,
                 "owner": "Nevcairiel",
                 "repo": "LAVFilters",
-                "stars": 9180,
+                "stars": 9179,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -1170,11 +1170,11 @@
                 "id": 260117248,
                 "language": "Nim",
                 "license": "Unlicense",
-                "last_commit": "2026-10-06T00:52:19Z",
+                "last_commit": "2026-10-06T03:29:26Z",
                 "open_issues": 0,
                 "owner": "WyattBlue",
                 "repo": "auto-editor",
-                "stars": 5427,
+                "stars": 5429,
                 "topics": [
                   "audio",
                   "audio-editing",
@@ -1204,7 +1204,7 @@
                 "open_issues": 268,
                 "owner": "datarhei",
                 "repo": "restreamer",
-                "stars": 5208,
+                "stars": 5207,
                 "topics": [
                   "ffmpeg",
                   "ffmpeg-api",
@@ -1693,8 +1693,8 @@
                 "id": 237257326,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-05T13:59:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-06T10:10:20Z",
+                "open_issues": 4,
                 "owner": "Eyevinn",
                 "repo": "mp4ff",
                 "stars": 658,
@@ -2328,11 +2328,11 @@
                     "id": 1614410,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-05T23:20:58Z",
+                    "last_commit": "2026-10-06T09:39:24Z",
                     "open_issues": 3,
                     "owner": "FFmpeg",
                     "repo": "FFmpeg",
-                    "stars": 64776,
+                    "stars": 64789,
                     "topics": [
                       "audio",
                       "c",
@@ -2369,7 +2369,7 @@
                     "open_issues": 525,
                     "owner": "kkroening",
                     "repo": "ffmpeg-python",
-                    "stars": 11010,
+                    "stars": 11011,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -2461,7 +2461,7 @@
                     "open_issues": 60,
                     "owner": "u2takey",
                     "repo": "ffmpeg-go",
-                    "stars": 2353,
+                    "stars": 2352,
                     "topics": [
                       "ffmpeg",
                       "ffmpeg-wrapper",
@@ -3565,8 +3565,8 @@
                 "id": 94728962,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-04T15:30:54Z",
-                "open_issues": 361,
+                "last_commit": "2026-10-06T09:56:38Z",
+                "open_issues": 362,
                 "owner": "livepeer",
                 "repo": "go-livepeer",
                 "stars": 586,
@@ -3678,7 +3678,7 @@
                 "open_issues": 83,
                 "owner": "gpac",
                 "repo": "gpac",
-                "stars": 3311,
+                "stars": 3312,
                 "topics": [
                   "atsc3",
                   "broadcast",
@@ -3962,7 +3962,7 @@
                 "id": 293577652,
                 "language": "C++",
                 "license": "BSD-3-Clause-Clear",
-                "last_commit": "2026-10-02T14:26:48Z",
+                "last_commit": "2026-10-06T09:39:26Z",
                 "open_issues": 4,
                 "owner": "fraunhoferhhi",
                 "repo": "vvdec",
@@ -4104,7 +4104,7 @@
                     "open_issues": 3,
                     "owner": "AOMediaCodec",
                     "repo": "SVT-AV1",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -5499,7 +5499,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T11:46:36Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Video-Samples",
                 "stars": 41,
@@ -5600,7 +5600,7 @@
                 "open_issues": 83,
                 "owner": "gpac",
                 "repo": "gpac",
-                "stars": 3311,
+                "stars": 3312,
                 "topics": [
                   "atsc3",
                   "broadcast",
@@ -5779,7 +5779,7 @@
                 "id": 851362743,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T17:50:45Z",
+                "last_commit": "2026-10-06T09:46:24Z",
                 "open_issues": 1,
                 "owner": "shiguredo",
                 "repo": "mp4-rs",
@@ -6316,7 +6316,7 @@
                 "id": 238936064,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T07:25:24Z",
+                "last_commit": "2026-10-06T09:25:12Z",
                 "open_issues": 8,
                 "owner": "just-work",
                 "repo": "django-video-transcoding",
@@ -6989,10 +6989,10 @@
             "language": "Python",
             "license": "Unlicense",
             "last_commit": "2026-09-27T22:09:13Z",
-            "open_issues": 2682,
+            "open_issues": 2684,
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 195777,
+            "stars": 195878,
             "topics": [
               "cli",
               "downloader",
@@ -7021,7 +7021,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34483,
+            "stars": 34482,
             "topics": [
               "caffe",
               "computer-vision",
@@ -7060,10 +7060,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-03-29T18:18:56Z",
-            "open_issues": 543,
+            "open_issues": 544,
             "owner": "iawia002",
             "repo": "lux",
-            "stars": 31737,
+            "stars": 31742,
             "topics": [
               "bilibili",
               "crawler",
@@ -7098,7 +7098,7 @@
             "open_issues": 174,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21062,
+            "stars": 21064,
             "topics": [
               "ascii",
               "cli",
@@ -7128,7 +7128,7 @@
             "open_issues": 19,
             "owner": "Huanshere",
             "repo": "VideoLingo",
-            "stars": 18655,
+            "stars": 18670,
             "topics": [
               "ai-translation",
               "dubbing",
@@ -7155,7 +7155,7 @@
             "open_issues": 319,
             "owner": "alievk",
             "repo": "avatarify-python",
-            "stars": 16519,
+            "stars": 16520,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -7176,7 +7176,7 @@
             "open_issues": 211,
             "owner": "WEIFENG2333",
             "repo": "VideoCaptioner",
-            "stars": 16167,
+            "stars": 16174,
             "topics": [
               "ai",
               "subtitle",
@@ -7202,7 +7202,7 @@
             "open_issues": 102,
             "owner": "haiwen",
             "repo": "seafile",
-            "stars": 15306,
+            "stars": 15308,
             "topics": [
               "cloud-storage",
               "document-management",
@@ -7257,7 +7257,7 @@
             "open_issues": 450,
             "owner": "ajayyy",
             "repo": "SponsorBlock",
-            "stars": 13890,
+            "stars": 13891,
             "topics": [
               "adblock",
               "adblocker",
@@ -7293,7 +7293,7 @@
             "open_issues": 371,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13228,
+            "stars": 13230,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -7345,7 +7345,7 @@
             "open_issues": 2,
             "owner": "nadermx",
             "repo": "backgroundremover",
-            "stars": 8087,
+            "stars": 8088,
             "topics": [
               "ai",
               "background-removal",
@@ -7380,7 +7380,7 @@
             "open_issues": 86,
             "owner": "RayVentura",
             "repo": "ShortGPT",
-            "stars": 8002,
+            "stars": 8005,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -7454,7 +7454,7 @@
             "open_issues": 215,
             "owner": "OpenTalker",
             "repo": "video-retalking",
-            "stars": 7291,
+            "stars": 7292,
             "topics": [
               "lip-synchronization",
               "siggraph-asia-2022",
@@ -7480,7 +7480,7 @@
             "open_issues": 106,
             "owner": "bcpierce00",
             "repo": "unison",
-            "stars": 5512,
+            "stars": 5513,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -7532,7 +7532,7 @@
             "open_issues": 318,
             "owner": "open-mmlab",
             "repo": "mmaction2",
-            "stars": 5170,
+            "stars": 5172,
             "topics": [
               "action-recognition",
               "ava",
@@ -7606,7 +7606,7 @@
             "open_issues": 51,
             "owner": "Picsart-AI-Research",
             "repo": "Text2Video-Zero",
-            "stars": 4246,
+            "stars": 4247,
             "topics": [
               "video-editing",
               "video-generation"
@@ -7676,7 +7676,7 @@
             "open_issues": 23,
             "owner": "axcore",
             "repo": "tartube",
-            "stars": 3159,
+            "stars": 3160,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -7697,7 +7697,7 @@
             "open_issues": 340,
             "owner": "pytorch",
             "repo": "audio",
-            "stars": 2952,
+            "stars": 2953,
             "topics": [
               "audio",
               "audio-processing",
@@ -7768,7 +7768,7 @@
             "open_issues": 150,
             "owner": "shaka-project",
             "repo": "shaka-packager",
-            "stars": 2625,
+            "stars": 2626,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -8145,7 +8145,7 @@
             "open_issues": 31,
             "owner": "google-marketing-solutions",
             "repo": "vigenair",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "ai",
               "generative-ai",
@@ -9062,8 +9062,8 @@
                     "id": 265563896,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-10-05T13:56:32Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-10-06T10:24:45Z",
+                    "open_issues": 12,
                     "owner": "fluendo",
                     "repo": "fluster",
                     "stars": 81,
@@ -9574,10 +9574,10 @@
                     "language": "Python",
                     "license": "BSD-2-Clause",
                     "last_commit": "2026-09-26T20:53:59Z",
-                    "open_issues": 230,
+                    "open_issues": 232,
                     "owner": "m-bain",
                     "repo": "whisperX",
-                    "stars": 24375,
+                    "stars": 24381,
                     "topics": [
                       "asr",
                       "speech",
@@ -9600,11 +9600,11 @@
                     "id": 699432836,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-05T15:01:06Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-10-06T09:43:22Z",
+                    "open_issues": 6,
                     "owner": "jianchang512",
                     "repo": "pyvideotrans",
-                    "stars": 19223,
+                    "stars": 19229,
                     "topics": [
                       "speech-to-text",
                       "stt",
@@ -9628,11 +9628,11 @@
                     "id": 16473585,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T19:01:09Z",
-                    "open_issues": 144,
+                    "last_commit": "2026-10-06T10:24:57Z",
+                    "open_issues": 140,
                     "owner": "SubtitleEdit",
                     "repo": "subtitleedit",
-                    "stars": 14450,
+                    "stars": 14455,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -9766,8 +9766,8 @@
                     "id": 4519236,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T12:22:58Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-06T09:07:35Z",
+                    "open_issues": 2,
                     "owner": "pbs",
                     "repo": "pycaption",
                     "stars": 271,
@@ -9922,7 +9922,7 @@
                     "id": 50575828,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T10:03:02Z",
+                    "last_commit": "2026-10-06T10:02:47Z",
                     "open_issues": 13,
                     "owner": "osk",
                     "repo": "node-webvtt",
@@ -10437,7 +10437,7 @@
                     "open_issues": 205,
                     "owner": "tyiannak",
                     "repo": "pyAudioAnalysis",
-                    "stars": 6266,
+                    "stars": 6267,
                     "topics": [
                       "audio",
                       "audio-analysis-tasks",
@@ -10466,7 +10466,7 @@
                     "open_issues": 207,
                     "owner": "xiph",
                     "repo": "rnnoise",
-                    "stars": 5880,
+                    "stars": 5884,
                     "topics": [
                       "audio",
                       "c",
@@ -10830,7 +10830,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T20:46:08Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "AOMediaCodec",
                     "repo": "iamf-tools",
                     "stars": 129,
@@ -10954,11 +10954,11 @@
                 "id": 20677163,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-30T13:54:16Z",
+                "last_commit": "2026-10-06T06:55:03Z",
                 "open_issues": 216,
                 "owner": "MediaArea",
                 "repo": "MediaInfo",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -11811,7 +11811,7 @@
                 "open_issues": 77,
                 "owner": "absadiki",
                 "repo": "subsai",
-                "stars": 1680,
+                "stars": 1679,
                 "topics": [
                   "cli",
                   "subtitles",
@@ -12636,8 +12636,8 @@
                 "id": 1009266418,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-05T20:03:35Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-06T09:36:11Z",
+                "open_issues": 0,
                 "owner": "tinof",
                 "repo": "hdr-analyze",
                 "stars": 10,
@@ -12981,7 +12981,7 @@
                 "open_issues": 207,
                 "owner": "openai",
                 "repo": "jukebox",
-                "stars": 8030,
+                "stars": 8031,
                 "topics": [
                   "audio",
                   "generative-model",
@@ -13357,7 +13357,7 @@
                 "open_issues": 134,
                 "owner": "k4yt3x",
                 "repo": "video2x",
-                "stars": 21978,
+                "stars": 21988,
                 "topics": [
                   "anime4k",
                   "frame-interpolation",
@@ -13389,7 +13389,7 @@
                 "open_issues": 119,
                 "owner": "bloc97",
                 "repo": "Anime4K",
-                "stars": 21465,
+                "stars": 21466,
                 "topics": [
                   "anime",
                   "anime-upscaling",
@@ -13424,7 +13424,7 @@
                 "open_issues": 355,
                 "owner": "XPixelGroup",
                 "repo": "BasicSR",
-                "stars": 8391,
+                "stars": 8392,
                 "topics": [
                   "basicsr",
                   "basicvsr",
@@ -13461,7 +13461,7 @@
                 "open_issues": 289,
                 "owner": "NatronGitHub",
                 "repo": "Natron",
-                "stars": 5567,
+                "stars": 5568,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -13482,7 +13482,7 @@
                 "open_issues": 47,
                 "owner": "nihui",
                 "repo": "rife-ncnn-vulkan",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "gpu",
                   "ncnn",
@@ -13509,7 +13509,7 @@
                 "open_issues": 69,
                 "owner": "hzwer",
                 "repo": "Practical-RIFE",
-                "stars": 1028,
+                "stars": 1029,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -13584,7 +13584,7 @@
                 "open_issues": 174,
                 "owner": "motion-canvas",
                 "repo": "motion-canvas",
-                "stars": 19236,
+                "stars": 19241,
                 "topics": [
                   "animation",
                   "presentation",
@@ -13609,7 +13609,7 @@
                 "open_issues": 63,
                 "owner": "midrender",
                 "repo": "revideo",
-                "stars": 4083,
+                "stars": 4084,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -13985,11 +13985,11 @@
             "id": 13233158,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-05T21:50:19Z",
+            "last_commit": "2026-10-06T01:09:45Z",
             "open_issues": 1148,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 77008,
+            "stars": 77044,
             "topics": [
               "c",
               "c-plus-plus",
@@ -14018,7 +14018,7 @@
             "id": 134012064,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-05T21:08:17Z",
+            "last_commit": "2026-10-06T08:56:10Z",
             "open_issues": 115,
             "owner": "pion",
             "repo": "webrtc",
@@ -14060,11 +14060,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T20:59:30Z",
-            "open_issues": 310,
+            "last_commit": "2026-10-06T05:24:02Z",
+            "open_issues": 309,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14455,
+            "stars": 14456,
             "topics": [
               "networking",
               "server",
@@ -14113,8 +14113,8 @@
             "id": 87443396,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T10:50:20Z",
-            "open_issues": 379,
+            "last_commit": "2026-10-06T08:46:22Z",
+            "open_issues": 374,
             "owner": "Haivision",
             "repo": "srt",
             "stars": 3609,
@@ -14210,8 +14210,8 @@
             "id": 235060192,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:03:03Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-06T05:02:14Z",
+            "open_issues": 22,
             "owner": "bluenviron",
             "repo": "gortsplib",
             "stars": 941,
@@ -14372,7 +14372,7 @@
             "open_issues": 37,
             "owner": "OvenMediaLabs",
             "repo": "OvenPlayer",
-            "stars": 591,
+            "stars": 592,
             "topics": [
               "hls",
               "html5",
@@ -14806,7 +14806,7 @@
                     "id": 30064588,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-05T08:50:54Z",
+                    "last_commit": "2026-10-06T06:53:32Z",
                     "open_issues": 107,
                     "owner": "video-dev",
                     "repo": "hls.js",
@@ -14844,11 +14844,11 @@
                     "id": 131896967,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T06:55:56Z",
+                    "last_commit": "2026-10-06T06:56:21Z",
                     "open_issues": 211,
                     "owner": "puemos",
                     "repo": "hls-downloader",
-                    "stars": 2725,
+                    "stars": 2726,
                     "topics": [
                       "chrome",
                       "chrome-extension",
@@ -16083,7 +16083,7 @@
                     "open_issues": 191,
                     "owner": "Dash-Industry-Forum",
                     "repo": "dash.js",
-                    "stars": 5549,
+                    "stars": 5550,
                     "topics": [
                       "abr",
                       "adaptive-bitrate-streaming",
@@ -16117,7 +16117,7 @@
                     "open_issues": 191,
                     "owner": "Dash-Industry-Forum",
                     "repo": "dash.js",
-                    "stars": 5549,
+                    "stars": 5550,
                     "topics": [
                       "abr",
                       "adaptive-bitrate-streaming",
@@ -16151,7 +16151,7 @@
                     "open_issues": 83,
                     "owner": "gpac",
                     "repo": "gpac",
-                    "stars": 3311,
+                    "stars": 3312,
                     "topics": [
                       "atsc3",
                       "broadcast",
@@ -16206,8 +16206,8 @@
                     "id": 451507822,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T08:04:21Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-10-06T09:03:29Z",
+                    "open_issues": 14,
                     "owner": "emarsden",
                     "repo": "dash-mpd-cli",
                     "stars": 567,
@@ -16907,11 +16907,11 @@
                 "id": 508763694,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T01:05:33Z",
-                "open_issues": 163,
+                "last_commit": "2026-10-06T10:48:54Z",
+                "open_issues": 143,
                 "owner": "moq-dev",
                 "repo": "moq",
-                "stars": 1555,
+                "stars": 1556,
                 "topics": [
                   "live",
                   "media",
@@ -16934,7 +16934,7 @@
                 "id": 710102796,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-05T16:17:45Z",
+                "last_commit": "2026-10-06T02:34:49Z",
                 "open_issues": 41,
                 "owner": "8xFF",
                 "repo": "atm0s-media-server",
@@ -16970,8 +16970,8 @@
                 "id": 660208915,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-05T06:49:56Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-06T08:56:12Z",
+                "open_issues": 16,
                 "owner": "binbat",
                 "repo": "live777",
                 "stars": 311,
@@ -17003,8 +17003,8 @@
                 "id": 873121011,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-29T14:49:46Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-06T10:08:12Z",
+                "open_issues": 72,
                 "owner": "cloudflare",
                 "repo": "moq-rs",
                 "stars": 171,
@@ -17806,8 +17806,8 @@
                 "id": 237257326,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-05T13:59:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-06T10:10:20Z",
+                "open_issues": 4,
                 "owner": "Eyevinn",
                 "repo": "mp4ff",
                 "stars": 658,
@@ -17938,8 +17938,8 @@
                 "id": 848959902,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T10:56:18Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-06T10:04:28Z",
+                "open_issues": 36,
                 "owner": "kixelated",
                 "repo": "mp4-atom",
                 "stars": 30,
@@ -18221,10 +18221,10 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2024-12-24T10:28:38Z",
-                "open_issues": 1155,
+                "open_issues": 1154,
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
-                "stars": 14025,
+                "stars": 14026,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -18514,7 +18514,7 @@
                     "open_issues": 0,
                     "owner": "kirpicheff",
                     "repo": "rtmp-srt-server",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:01:06.455Z"
@@ -18926,10 +18926,10 @@
             "language": "Swift",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T13:39:10Z",
-            "open_issues": 1934,
+            "open_issues": 1933,
             "owner": "iina",
             "repo": "iina",
-            "stars": 46645,
+            "stars": 46651,
             "topics": [
               "hacktoberfest",
               "macos",
@@ -18957,7 +18957,7 @@
             "open_issues": 675,
             "owner": "videojs",
             "repo": "video.js",
-            "stars": 39907,
+            "stars": 39908,
             "topics": [
               "dash",
               "hls",
@@ -18987,10 +18987,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T18:13:13Z",
-            "open_issues": 1179,
+            "open_issues": 1180,
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 37248,
+            "stars": 37256,
             "topics": [
               "audio",
               "c",
@@ -19019,7 +19019,7 @@
             "open_issues": 2904,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33210,
+            "stars": 33211,
             "topics": [
               "android",
               "ffmpeg",
@@ -19047,7 +19047,7 @@
             "open_issues": 495,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 25123,
+            "stars": 25133,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -19074,7 +19074,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T22:18:25Z",
-            "open_issues": 13,
+            "open_issues": 15,
             "owner": "clsid2",
             "repo": "mpc-hc",
             "stars": 15833,
@@ -19098,7 +19098,7 @@
             "open_issues": 42,
             "owner": "bytedance",
             "repo": "xgplayer",
-            "stars": 9304,
+            "stars": 9305,
             "topics": [
               "dash",
               "flv",
@@ -19134,7 +19134,7 @@
             "open_issues": 156,
             "owner": "mpvnet-player",
             "repo": "mpv.net",
-            "stars": 5446,
+            "stars": 5448,
             "topics": [
               "audio-player",
               "command-line",
@@ -19175,7 +19175,7 @@
             "open_issues": 6,
             "owner": "videolan",
             "repo": "vlc-android",
-            "stars": 4043,
+            "stars": 4045,
             "topics": [
               "android",
               "libvlc",
@@ -19255,7 +19255,7 @@
             "open_issues": 77,
             "owner": "lightspark",
             "repo": "lightspark",
-            "stars": 1901,
+            "stars": 1902,
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
@@ -19600,8 +19600,8 @@
             "id": 511099665,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T21:56:31Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-06T10:48:05Z",
+            "open_issues": 22,
             "owner": "GetStream",
             "repo": "stream-video-js",
             "stars": 124,
@@ -19848,7 +19848,7 @@
                 "open_issues": 18,
                 "owner": "pavlobu",
                 "repo": "deskreen",
-                "stars": 21540,
+                "stars": 21541,
                 "topics": [
                   "blueprintjs",
                   "darkwire-io",
@@ -19887,7 +19887,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-03T00:25:13Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "cookpete",
                 "repo": "react-player",
                 "stars": 10286,
@@ -19923,8 +19923,8 @@
                 "id": 33166041,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T16:41:45Z",
-                "open_issues": 191,
+                "last_commit": "2026-10-06T08:35:23Z",
+                "open_issues": 192,
                 "owner": "TheWidlarzGroup",
                 "repo": "react-native-video",
                 "stars": 7718,
@@ -20043,20 +20043,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "A simple HTML5, YouTube and Vimeo player",
+                    "description": "Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.",
                     "homepage": "https://plyr.io",
                     "id": 30794868,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T00:28:15Z",
-                    "open_issues": 934,
+                    "last_commit": "2026-10-06T05:47:49Z",
+                    "open_issues": 435,
                     "owner": "sampotts",
                     "repo": "plyr",
-                    "stars": 30014,
+                    "stars": 30008,
                     "topics": [
+                      "deprecated",
                       "html5-video",
                       "javascript",
                       "plyr",
+                      "videojs",
                       "vimeo",
                       "youtube"
                     ]
@@ -20109,7 +20111,7 @@
                     "open_issues": 228,
                     "owner": "mediaelement",
                     "repo": "mediaelement",
-                    "stars": 8295,
+                    "stars": 8294,
                     "topics": [
                       "dash",
                       "flash",
@@ -20138,8 +20140,8 @@
                     "id": 28246472,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T13:05:19Z",
-                    "open_issues": 56,
+                    "last_commit": "2026-10-06T10:19:53Z",
+                    "open_issues": 55,
                     "owner": "shaka-project",
                     "repo": "shaka-player",
                     "stars": 8242,
@@ -20238,7 +20240,7 @@
                     "open_issues": 11,
                     "owner": "muxinc",
                     "repo": "media-chrome",
-                    "stars": 2755,
+                    "stars": 2754,
                     "topics": [
                       "audio",
                       "audio-player",
@@ -20684,7 +20686,7 @@
                     "open_issues": 114,
                     "owner": "Doikki",
                     "repo": "DKVideoPlayer",
-                    "stars": 5327,
+                    "stars": 5328,
                     "topics": [
                       "android",
                       "exoplayer",
@@ -21779,7 +21781,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-05T17:35:55Z",
-                    "open_issues": 99,
+                    "open_issues": 100,
                     "owner": "rokucommunity",
                     "repo": "vscode-brightscript-language",
                     "stars": 131,
@@ -22519,7 +22521,7 @@
                 "open_issues": 10,
                 "owner": "vapoursynth",
                 "repo": "vapoursynth",
-                "stars": 2107,
+                "stars": 2108,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:01:06.455Z"
@@ -22536,8 +22538,8 @@
                 "id": 136175474,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-23T21:09:23Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-06T09:00:55Z",
+                "open_issues": 1,
                 "owner": "videolan",
                 "repo": "libvlcsharp",
                 "stars": 1815,
@@ -22656,8 +22658,8 @@
                 "id": 28195272,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-05T07:50:11Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-06T10:53:34Z",
+                "open_issues": 33,
                 "owner": "WebPlatformForEmbedded",
                 "repo": "WPEWebKit",
                 "stars": 253,
@@ -22767,7 +22769,7 @@
                 "id": 560998938,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T20:47:37Z",
+                "last_commit": "2026-10-06T10:18:05Z",
                 "open_issues": 66,
                 "owner": "rdkcentral",
                 "repo": "rialto",
@@ -22798,8 +22800,8 @@
                 "id": 33166041,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T16:41:45Z",
-                "open_issues": 191,
+                "last_commit": "2026-10-06T08:35:23Z",
+                "open_issues": 192,
                 "owner": "TheWidlarzGroup",
                 "repo": "react-native-video",
                 "stars": 7718,
@@ -23003,11 +23005,11 @@
                 "id": 131896967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T06:55:56Z",
+                "last_commit": "2026-10-06T06:56:21Z",
                 "open_issues": 211,
                 "owner": "puemos",
                 "repo": "hls-downloader",
-                "stars": 2725,
+                "stars": 2726,
                 "topics": [
                   "chrome",
                   "chrome-extension",
@@ -23317,11 +23319,11 @@
                 "id": 3299208,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-05T16:19:03Z",
+                "last_commit": "2026-10-06T09:00:34Z",
                 "open_issues": 2,
                 "owner": "videolan",
                 "repo": "vlc",
-                "stars": 19879,
+                "stars": 19889,
                 "topics": [
                   "c",
                   "framework",
@@ -23346,11 +23348,11 @@
                 "id": 183483988,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T00:14:19Z",
-                "open_issues": 5657,
+                "last_commit": "2026-10-06T09:22:45Z",
+                "open_issues": 5654,
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 18626,
+                "stars": 18628,
                 "topics": [
                   "emulator",
                   "flash",
@@ -23378,7 +23380,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5446,
+                "stars": 5448,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -23942,10 +23944,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-05T11:39:37Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "deepfakes",
             "repo": "faceswap",
-            "stars": 57568,
+            "stars": 57570,
             "topics": [
               "deep-face-swap",
               "deep-learning",
@@ -23981,7 +23983,7 @@
             "open_issues": 537,
             "owner": "iperov",
             "repo": "DeepFaceLab",
-            "stars": 19280,
+            "stars": 19279,
             "topics": [
               "arxiv",
               "creating-deepfakes",
@@ -24386,8 +24388,8 @@
             "id": 298353384,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T19:49:03Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-06T10:41:02Z",
+            "open_issues": 52,
             "owner": "OpenVisualCloud",
             "repo": "Media-Transport-Library",
             "stars": 248,
@@ -24629,7 +24631,7 @@
             "id": 257929963,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-10-05T16:15:18Z",
+            "last_commit": "2026-10-06T09:58:48Z",
             "open_issues": 13,
             "owner": "THEOplayer",
             "repo": "documentation",
@@ -24939,7 +24941,7 @@
                 "open_issues": 68,
                 "owner": "streamlink",
                 "repo": "streamlink",
-                "stars": 11828,
+                "stars": 11829,
                 "topics": [
                   "cli",
                   "livestream",
@@ -25095,7 +25097,7 @@
                 "id": 757366136,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T00:42:48Z",
+                "last_commit": "2026-10-06T09:03:44Z",
                 "open_issues": 3,
                 "owner": "emarsden",
                 "repo": "pssh-box-wasm",
@@ -25792,11 +25794,11 @@
                 "id": 149112365,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T12:27:11Z",
+                "last_commit": "2026-10-06T07:59:13Z",
                 "open_issues": 22,
                 "owner": "jeanslack",
                 "repo": "Videomass",
-                "stars": 1673,
+                "stars": 1672,
                 "topics": [
                   "audio",
                   "conversion",
@@ -26672,7 +26674,7 @@
                 "open_issues": 489,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 45273,
+                "stars": 45279,
                 "topics": [
                   "debugging",
                   "http",
@@ -27067,7 +27069,7 @@
             "id": 621886098,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T16:14:28Z",
+            "last_commit": "2026-10-06T10:06:28Z",
             "open_issues": 28,
             "owner": "streaming-video-technology-alliance",
             "repo": "common-media-library",
@@ -27979,7 +27981,7 @@
             "open_issues": 186,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo",
-            "stars": 12590,
+            "stars": 12594,
             "topics": [
               "diffusion-models",
               "diffusion-transformer",
@@ -27987,6 +27989,35 @@
             ]
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
+          "title": "NodeTube",
+          "description": "An open-source self-hosted online video platform (YouTube alternative) supporting video/audio upload, livestreaming, and monetization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization",
+            "homepage": null,
+            "id": 129958568,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2023-01-24T11:03:09Z",
+            "open_issues": 172,
+            "owner": "mayeaux",
+            "repo": "nodetube",
+            "stars": 2363,
+            "topics": [
+              "alternative",
+              "audio-streaming",
+              "image-hosting",
+              "livestreaming",
+              "monetization",
+              "video-streaming",
+              "youtube"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
         },
         {
           "node_type": "item",
@@ -28032,6 +28063,118 @@
         },
         {
           "node_type": "item",
+          "title": "YouPHPTube (AVideo)",
+          "description": "An open source, self-hosted video sharing website platform (formerly YouPHPTube). It supports user accounts, video uploads, streaming, and plugins for features like live broadcasting and advertisement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP",
+            "homepage": "https://streamphp.com",
+            "id": 86987524,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-05T13:50:48Z",
+            "open_issues": 21,
+            "owner": "WWBN",
+            "repo": "AVideo",
+            "stars": 2104,
+            "topics": [
+              "avideo",
+              "avideo-platform",
+              "encoder",
+              "free",
+              "free-software",
+              "media",
+              "media-player",
+              "media-server",
+              "mediamanager",
+              "open-source",
+              "opensource",
+              "social-features",
+              "streamer",
+              "streamer-site",
+              "streamer-tool",
+              "video",
+              "video-player",
+              "video-sharing",
+              "video-streaming",
+              "videosharing"
+            ]
+          },
+          "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
+          "title": "P2P Media Loader",
+          "description": "An open-source engine designed for peer-to-peer streaming of live and on-demand video directly within web browsers. By leveraging WebRTC, it reduces the load on traditional CDNs and enhances scalability, making it a valuable tool for developers aiming to optimize video delivery and reduce infrastructure costs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page",
+            "homepage": "https://novage.com.ua/p2p-media-loader/demo.html",
+            "id": 143921593,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-06T02:28:29Z",
+            "open_issues": 1,
+            "owner": "Novage",
+            "repo": "p2p-media-loader",
+            "stars": 1725,
+            "topics": [
+              "bittorrent",
+              "dash",
+              "hls",
+              "hlsjs",
+              "media-playback",
+              "mediastream",
+              "p2p",
+              "p2p-media-loader",
+              "p2p-network",
+              "peer",
+              "player",
+              "shaka-player",
+              "video",
+              "webrtc",
+              "webtorrent"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SuperStreamer",
+          "description": "An open, scalable, online streaming setup that provides an all-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling, SuperStreamer offers a comprehensive solution for setting up and managing video streaming infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.",
+            "homepage": "https://superstreamer.xyz",
+            "id": 838247433,
+            "language": "TypeScript",
+            "license": "MPL-2.0",
+            "last_commit": "2026-02-13T21:11:30Z",
+            "open_issues": 30,
+            "owner": "superstreamerapp",
+            "repo": "superstreamer",
+            "stars": 1452,
+            "topics": [
+              "advertising",
+              "api",
+              "ffmpeg",
+              "hevc",
+              "hls",
+              "media-server",
+              "server-side",
+              "streaming",
+              "video",
+              "video-processing",
+              "video-streaming"
+            ]
+          },
+          "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
           "title": "HLS.js P2P Engine",
           "description": "A hls.js plugin to offload bandwidth from expensive traditional CDNs，while also maximizing a user's viewing experience.",
           "children": [],
@@ -28066,6 +28209,35 @@
             ]
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Streamline: End-to-End Live Streaming System",
+          "description": "A reference system for end-to-end live streaming video, covering capture, encoding, packaging, uplink, origin, CDN, and player. It utilizes commodity hardware and free software to provide a high-quality live streaming solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A reference system for end to end live streaming video. Capture, encode, package, uplink, origin, CDN, and player. ",
+            "homepage": null,
+            "id": 126542776,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2025-08-24T03:44:58Z",
+            "open_issues": 10,
+            "owner": "streamlinevideo",
+            "repo": "streamline",
+            "stars": 784,
+            "topics": [
+              "hardware",
+              "hdmi",
+              "hls",
+              "hls-live-streaming",
+              "live-streaming",
+              "sdi",
+              "video-encoder"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
         },
         {
           "node_type": "item",
@@ -28108,6 +28280,38 @@
             ]
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Opencast (GitHub)",
+          "description": "An open source enterprise video capture and distribution system, commonly used by educational institutions to manage lecture recordings, process videos, and distribute them to students.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The free and open source solution for automated video capture and distribution at scale.",
+            "homepage": "https://opencast.org",
+            "id": 115198687,
+            "language": "Java",
+            "license": "ECL-2.0",
+            "last_commit": "2026-10-06T09:16:20Z",
+            "open_issues": 398,
+            "owner": "opencast",
+            "repo": "opencast",
+            "stars": 506,
+            "topics": [
+              "capture-screen",
+              "capture-video",
+              "hacktoberfest",
+              "opencast",
+              "recording",
+              "video",
+              "video-management",
+              "video-processing",
+              "video-production",
+              "video-publication"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
         },
         {
           "node_type": "item",
@@ -28157,6 +28361,48 @@
             ]
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
+          "title": "P2P CDN SDK for JavaScript",
+          "description": "A free JavaScript SDK that reduces video streaming costs by up to 90% and improves scalability by 6x using WebRTC-based peer-to-peer technology. It supports major players like Hls.js, Shaka Player, and Video.js, and both HLS and DASH streaming protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free p2p cdn github javascript sdk to reduce video streaming costs of live and on demand video using webrtc by upto 90% and improve scalability by 6x - 🚀 Vadootv 🚀",
+            "homepage": "https://peervadoo.com",
+            "id": 277610395,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2020-11-29T19:44:26Z",
+            "open_issues": 0,
+            "owner": "vadootvpeer",
+            "repo": "p2p-cdn-sdk-javascript",
+            "stars": 186,
+            "topics": [
+              "cdn",
+              "dash",
+              "hls",
+              "javascript",
+              "livestream",
+              "m3u8",
+              "media-playback",
+              "mediastream",
+              "p2p",
+              "p2p-cdn",
+              "p2p-network",
+              "peer",
+              "peer-to-peer",
+              "player",
+              "sdk",
+              "vadootv",
+              "video",
+              "videojs-plugin",
+              "vod",
+              "webrtc"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
         },
         {
           "node_type": "item",
@@ -28234,6 +28480,27 @@
         },
         {
           "node_type": "item",
+          "title": "Video-Streaming-Service",
+          "description": "This project presents a cloud computing-based video streaming service with a REST API implemented using the Spring framework. It features a load balancer to distribute requests across multiple servers and utilizes SQLite for database management, providing a scalable and efficient solution for video delivery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cloud Computing Project",
+            "homepage": null,
+            "id": 206730793,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2019-12-12T05:46:26Z",
+            "open_issues": 0,
+            "owner": "hetjagani",
+            "repo": "Video-Streaming-Service",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
           "title": "Eyevinn Live Encoding",
           "description": "An open-source live encoder based on FFmpeg and Shaka packager. It supports live transcoding to HLS and optionally MPEG-DASH, providing an origin for CDN shield to pull streams as well as push to CDN origin. It's a valuable tool for setting up live streaming infrastructures.",
           "children": [],
@@ -28273,6 +28540,34 @@
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Secure Video Streaming with Signed URLs",
+          "description": "A tutorial-based project that guides you through building a YouTube-like video streaming system using Spring Boot, securing video access with signed URLs. It implements token-based authentication to ensure secure and time-limited access to video streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tutorial-based project that walks you through the process of building a YouTube-like video streaming system using Spring Boot, securing video access with signed URLs. This project will help you implement video content delivery with token-based authentication, which ensures secure and time-limited access to video streams.",
+            "homepage": null,
+            "id": 925452468,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2025-02-08T19:56:10Z",
+            "open_issues": 0,
+            "owner": "KHAOUITI-Apps",
+            "repo": "CDN",
+            "stars": 4,
+            "topics": [
+              "security",
+              "spring-boot",
+              "streaming",
+              "urls",
+              "youtube",
+              "youtube-api"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
         },
         {
           "node_type": "item",
@@ -28318,6 +28613,48 @@
         },
         {
           "node_type": "item",
+          "title": "Video Streaming via CDN",
+          "description": "This project implements adaptive bitrate selection, DNS load balancing, and an HTTP proxy server to stream video at high bit rates from the closest server to a given client. It includes components like miProxy (an HTTP proxy), a nameserver for DNS load balancing, and utilizes Mininet for network simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DNS load balancing and an HTTP proxy to stream video using adaptive bitrate selection to a web video client.",
+            "homepage": null,
+            "id": 127838653,
+            "language": "C++",
+            "license": null,
+            "last_commit": "2018-11-03T01:36:50Z",
+            "open_issues": 0,
+            "owner": "andrewwong97",
+            "repo": "video-streaming-cdn",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Video Streaming via CDN by heaventourist",
+          "description": "This project focuses on implementing adaptive bitrate selection, DNS load balancing, and an HTTP proxy server to stream video at high bitrates from the closest server to a given client. The HTTP proxy accepts connections from web browsers, modifies video chunk requests, resolves the web server's DNS name, opens a connection with the resulting IP address, forwards the modified request to the server, and returns the unmodified video chunks to the browser. The DNS server implements load balancing using round-robin and geographic distance methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 156892007,
+            "language": "C++",
+            "license": null,
+            "last_commit": "2018-11-09T17:00:07Z",
+            "open_issues": 0,
+            "owner": "heaventourist",
+            "repo": "Video-Streaming-via-CDN",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
           "title": "AWS CDN Video Streaming Service",
           "description": "This project leverages Amazon S3, Amazon CloudFront, and React to build a scalable and efficient video streaming service. It allows users to view a variety of streaming content through a web-based interface, ensuring optimized security, performance, and reliability through AWS's global network of data centers.",
           "children": [],
@@ -28336,13 +28673,2788 @@
             "topics": []
           },
           "first_seen": "2026-08-28T04:01:06.455Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Video Streaming Studio",
+          "description": "A video streaming platform similar to Netflix, allowing users to upload and watch videos. It utilizes React.js, Express.js, MongoDB, Amazon S3, and CloudFront CDN for efficient video delivery and storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Upload and watch videos with AWS S3 and AWS Cloudfront CDN",
+            "homepage": null,
+            "id": 776474724,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2024-09-15T14:25:22Z",
+            "open_issues": 0,
+            "owner": "TianYao12",
+            "repo": "Video-Streaming-Studio",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VStream",
+          "description": "A project focused on video streaming via CDN, implementing adaptive bitrate selection, DNS load balancing, and an HTTP proxy server. It provides a comprehensive setup for streaming video at high bitrates from the closest server to a client, including a round-robin load balancer and geographic distance load balancer. This project is beneficial for developers looking to understand and implement efficient video streaming solutions using CDN technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Video Streaming Via CDN",
+            "homepage": null,
+            "id": 688277528,
+            "language": "C++",
+            "license": null,
+            "last_commit": "2023-09-07T02:58:07Z",
+            "open_issues": 0,
+            "owner": "Benj-Qu",
+            "repo": "VStream",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdnselector — Multi-CDN Switching/Failover Server",
+              "description": "Deployable multi-CDN switch/failover server for HTTP streaming, routing by geo/network/response-time/device with instant failover and backup CDN warming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CDN Selector allows you seemlessly switch between multiple CDNS",
+                "homepage": null,
+                "id": 13982124,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2018-03-07T15:10:31Z",
+                "open_issues": 14,
+                "owner": "cdnexperts",
+                "repo": "cdnselector",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "videojs-cmcd — CMCD plugin for Video.js",
+              "description": "Video.js 8.4.0+ plugin that adds Common Media Client Data (CMCD, CTA-5004) reporting to player media requests for QoE analytics and multi-CDN telemetry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A project to integrate CMCD to VideoJS as a plugin. Built with 💚 for the video-dev community",
+                "homepage": null,
+                "id": 607703336,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2023-11-30T19:42:44Z",
+                "open_issues": 0,
+                "owner": "montevideo-tech",
+                "repo": "videojs-cmcd",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DASH-IF Content Steering",
+              "description": "DASH Industry Forum's official specification repository and reference material for content steering, the standard for steering DASH/HLS players between substitutable content/CDN sources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A standardized means of steering DASH players between substitutable content sources by way of a remote steering server. ",
+                "homepage": null,
+                "id": 508834726,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-06-29T20:20:52Z",
+                "open_issues": 10,
+                "owner": "Dash-Industry-Forum",
+                "repo": "Content-Steering",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DASH content steering server (Go)",
+              "description": "Standalone open-source MPEG-DASH content steering server in Go, working with the dash.js reference client to switch players between substitutable CDN sources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source implementation of MPEG-DASH content steering server in Golang",
+                "homepage": null,
+                "id": 635024773,
+                "language": "Go",
+                "license": null,
+                "last_commit": "2023-05-18T00:26:49Z",
+                "open_issues": 0,
+                "owner": "maxutility2011",
+                "repo": "dash_content_steering_server",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-CDN Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OBS Studio",
+              "description": "Free and open source software for live streaming and screen recording.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+                "homepage": "https://obsproject.com",
+                "id": 13233158,
+                "language": "C",
+                "license": "GPL-2.0",
+                "last_commit": "2026-10-06T01:09:45Z",
+                "open_issues": 1148,
+                "owner": "obsproject",
+                "repo": "obs-studio",
+                "stars": 77044,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "directshow",
+                  "facebook-live",
+                  "ffmpeg",
+                  "game-capture",
+                  "live-streaming",
+                  "screen-capture",
+                  "twitch-tv",
+                  "video-recording",
+                  "youtube-live"
+                ]
+              },
+              "first_seen": "2026-08-28T04:01:06.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LiveKit",
+              "description": "End-to-end stack for WebRTC with a powerful SFU server, client SDKs, and cloud infrastructure. Supports scalable video conferencing, live streaming, and real-time communication with features like adaptive streaming, recording, ingress/egress, and comprehensive APIs for multiple platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "End-to-end realtime stack for connecting humans and AI",
+                "homepage": "https://docs.livekit.io",
+                "id": 299832860,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-06T10:48:22Z",
+                "open_issues": 190,
+                "owner": "livekit",
+                "repo": "livekit",
+                "stars": 21299,
+                "topics": [
+                  "golang",
+                  "media-server",
+                  "sfu",
+                  "video",
+                  "voice",
+                  "voice-ai",
+                  "webrtc"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "livego — Go RTMP/HLS/HTTP-FLV live server",
+              "description": "Simple live streaming server in Go: RTMP ingest, HLS and HTTP-FLV output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "live video streaming server in golang",
+                "homepage": null,
+                "id": 92648433,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2025-12-05T02:41:24Z",
+                "open_issues": 140,
+                "owner": "gwuhaolin",
+                "repo": "livego",
+                "stars": 10184,
+                "topics": [
+                  "flash",
+                  "flv",
+                  "golang",
+                  "h264",
+                  "hls",
+                  "livestream",
+                  "rtmp",
+                  "video"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OvenMediaEngine — Sub-Second Live Streaming Server",
+              "description": "Open-source sub-second latency live streaming server supporting WebRTC and LL-HLS ingest/egress.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS",
+                "homepage": "https://ovenmedia.com",
+                "id": 139194755,
+                "language": "C++",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-06T09:19:26Z",
+                "open_issues": 24,
+                "owner": "OvenMediaLabs",
+                "repo": "OvenMediaEngine",
+                "stars": 3287,
+                "topics": [
+                  "broadcasting",
+                  "cmaf",
+                  "hls",
+                  "large-scale-streaming",
+                  "live-streaming-server",
+                  "lldash",
+                  "llhls",
+                  "low-latency",
+                  "low-latency-dash",
+                  "low-latency-hls",
+                  "low-latency-http",
+                  "ome",
+                  "ovenmediaengine",
+                  "rtmp",
+                  "rtmp-to-webrtc",
+                  "streaming",
+                  "streaming-server",
+                  "sub-second-latency",
+                  "ultra-low-latency",
+                  "webrtc"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "xiu",
+              "description": "Pure-Rust live media server supporting RTMP clustering, RTSP, WebRTC (WHIP/WHEP), HTTP-FLV, and HLS in one binary.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": " A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀",
+                "homepage": "https://rustxiu.com",
+                "id": 287959531,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-03-07T22:54:44Z",
+                "open_issues": 40,
+                "owner": "harlanc",
+                "repo": "xiu",
+                "stars": 2331,
+                "topics": [
+                  "aac",
+                  "audio",
+                  "cluster",
+                  "h264",
+                  "hls",
+                  "http-flv",
+                  "live",
+                  "m3u8",
+                  "media-server",
+                  "rtmp",
+                  "rtmp-server",
+                  "rtsp",
+                  "rtsp-server",
+                  "rust",
+                  "tokio",
+                  "ts",
+                  "video",
+                  "whep",
+                  "whip",
+                  "xiu"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PyLivestream",
+              "description": "Pure Python FFmpeg-based live video / audio streaming to YouTube, Facebook, Periscope, Twitch, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Pure Python FFmpeg-based live video / audio streaming to YouTube, Facebook, Periscope, Twitch, and more",
+                "homepage": null,
+                "id": 91214767,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-03-06T18:01:17Z",
+                "open_issues": 5,
+                "owner": "scivision",
+                "repo": "PyLivestream",
+                "stars": 747,
+                "topics": [
+                  "facebook-live",
+                  "ffmpeg",
+                  "livestream",
+                  "periscope",
+                  "twitch",
+                  "vimeo",
+                  "youtube",
+                  "youtube-live"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Stream New",
+              "description": "The repo for HTTPS://stream.new.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The repo for https://stream.new",
+                "homepage": "https://stream.new",
+                "id": 291845306,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-09-11T20:58:42Z",
+                "open_issues": 15,
+                "owner": "muxinc",
+                "repo": "stream.new",
+                "stars": 615,
+                "topics": [
+                  "hacktoberfest",
+                  "mux",
+                  "streaming-video",
+                  "video"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nginx-ts-module — NGINX live HLS/DASH origin",
+              "description": "NGINX module turning the server into a live origin: MPEG-TS over HTTP in, HLS and DASH manifests/segments out.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NGINX MPEG-TS Live Module",
+                "homepage": null,
+                "id": 90398147,
+                "language": "C",
+                "license": "BSD-2-Clause",
+                "last_commit": "2017-12-04T12:44:27Z",
+                "open_issues": 32,
+                "owner": "arut",
+                "repo": "nginx-ts-module",
+                "stars": 431,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PlayoutAutomation",
+              "description": "Television broadcast automation system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Television broadcast automation system",
+                "homepage": null,
+                "id": 36933372,
+                "language": "C#",
+                "license": "GPL-2.0",
+                "last_commit": "2026-04-28T18:38:28Z",
+                "open_issues": 15,
+                "owner": "jaskie",
+                "repo": "PlayoutAutomation",
+                "stars": 221,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "lhls-simple-live-platform",
+              "description": "You can build your own live platform just wiring up some open source tools, this is a demo video of HTTPS://GitHub.com/jordicenzano/lhls-simple-live-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Very simple low latency live platform prototype",
+                "homepage": null,
+                "id": 273956279,
+                "language": "Shell",
+                "license": null,
+                "last_commit": "2021-04-28T14:53:25Z",
+                "open_issues": 0,
+                "owner": "jordicenzano",
+                "repo": "lhls-simple-live-platform",
+                "stars": 69,
+                "topics": [
+                  "audio",
+                  "hls",
+                  "hls-live-streaming",
+                  "lhls",
+                  "low-latency",
+                  "video"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Avbroadcast",
+              "description": "Republish media streams for mass consumption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "avbroadcast - republish media streams for mass consumption",
+                "homepage": null,
+                "id": 157146606,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2019-03-25T11:12:55Z",
+                "open_issues": 0,
+                "owner": "media-toolbox",
+                "repo": "avbroadcast",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Live Streaming Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Srs",
+              "description": "A simple live streaming cluster, a simple joy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+                "homepage": "https://ossrs.io",
+                "id": 34777562,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-10-04T03:04:01Z",
+                "open_issues": 4,
+                "owner": "ossrs",
+                "repo": "srs",
+                "stars": 29320,
+                "topics": [
+                  "ai-driven",
+                  "audio",
+                  "c-plus-plus",
+                  "dash",
+                  "hevc",
+                  "hls",
+                  "live",
+                  "live-streaming",
+                  "low-latency",
+                  "media-server",
+                  "multimedia",
+                  "prometheus-exporter",
+                  "rtmp",
+                  "server-side",
+                  "srt",
+                  "streaming",
+                  "video",
+                  "video-conferencing",
+                  "video-streaming",
+                  "webrtc"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MediaMTX",
+              "description": "A free, open-source media server supporting real-time video streaming, RTSP, RTMP, HLS, and WebRTC. It enables the management and streaming of video from various sources, including RTSP cameras, with low-latency performance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams.",
+                "homepage": "https://mediamtx.org",
+                "id": 230660669,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-10-06T05:00:41Z",
+                "open_issues": 195,
+                "owner": "bluenviron",
+                "repo": "mediamtx",
+                "stars": 20346,
+                "topics": [
+                  "go",
+                  "golang",
+                  "hls",
+                  "media-over-quic",
+                  "media-server",
+                  "moq",
+                  "obs-studio",
+                  "rtcp",
+                  "rtmp",
+                  "rtmp-proxy",
+                  "rtmp-server",
+                  "rtp",
+                  "rtsp",
+                  "rtsp-proxy",
+                  "rtsp-relay",
+                  "rtsp-server",
+                  "srt",
+                  "streaming",
+                  "webrtc",
+                  "webrtc-proxy"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ZLMediaKit",
+              "description": "A high-performance C++ media server framework supporting WebRTC, RTSP, RTMP, HTTP-FLV, HLS, WebSocket streaming, and SRT, for building streaming server/client applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11",
+                "homepage": "https://docs.zlmediakit.com",
+                "id": 86897963,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-01T14:36:26Z",
+                "open_issues": 138,
+                "owner": "ZLMediaKit",
+                "repo": "ZLMediaKit",
+                "stars": 17596,
+                "topics": [
+                  "flv",
+                  "gb28181",
+                  "hls",
+                  "http",
+                  "http-flv",
+                  "http-fmp4",
+                  "http-ts",
+                  "live",
+                  "media-server",
+                  "mp4",
+                  "rtmp",
+                  "rtp",
+                  "rtsp",
+                  "srt",
+                  "stun",
+                  "ts",
+                  "turn",
+                  "webrtc",
+                  "websocket",
+                  "websocket-flv"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "go2rtc",
+              "description": "A flexible high-performance streaming server written in Go that can ingest RTSP, WebRTC, RTMP, HTTP-FLV, and LL-HLS and output streams to multiple protocols (commonly used for home camera streaming).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ultimate camera streaming application",
+                "homepage": "https://go2rtc.org",
+                "id": 526081371,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-06T12:53:58Z",
+                "open_issues": 957,
+                "owner": "AlexxIT",
+                "repo": "go2rtc",
+                "stars": 14311,
+                "topics": [
+                  "ffmpeg",
+                  "go",
+                  "golang",
+                  "hassio",
+                  "hls",
+                  "home-assistant",
+                  "homekit",
+                  "media-server",
+                  "mjpeg",
+                  "mp4",
+                  "onvif",
+                  "rtmp",
+                  "rtsp",
+                  "rtsp-server",
+                  "streaming",
+                  "tapo",
+                  "webcam-streaming",
+                  "webrtc",
+                  "wyze",
+                  "xiaomi"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Janus WebRTC Server (GitHub)",
+              "description": "An open source WebRTC server (SFU and gateway) that allows the creation of videoconferencing, streaming, and other real-time multimedia applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Janus WebRTC Server",
+                "homepage": "https://janus.conf.meetecho.com",
+                "id": 16734696,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-05T09:12:01Z",
+                "open_issues": 39,
+                "owner": "meetecho",
+                "repo": "janus-gateway",
+                "stars": 9181,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ant Media Server (GitHub)",
+              "description": "Ant Media Server supports RTMP, RTSP, WebRTC and Adaptive Bitrate. It can also record videos in MP4, HLS and FLV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ant Media Server — Ultra-low latency streaming engine with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding & scaling",
+                "homepage": "https://antmedia.io",
+                "id": 83530209,
+                "language": "Java",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-06T10:29:50Z",
+                "open_issues": 1481,
+                "owner": "ant-media",
+                "repo": "Ant-Media-Server",
+                "stars": 4742,
+                "topics": [
+                  "abr",
+                  "android-sdk",
+                  "ant-media",
+                  "broadcast",
+                  "cmaf",
+                  "hls",
+                  "ios-sdk",
+                  "live-streaming",
+                  "low-latency",
+                  "media-server",
+                  "open-source",
+                  "recording",
+                  "rtmp",
+                  "rtsp",
+                  "streaming",
+                  "streaming-server",
+                  "ultra-low-latency",
+                  "video-streaming",
+                  "webrtc"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Tvheadend — Linux TV streaming server",
+              "description": "Leading open-source Linux TV streaming server and DVR supporting ATSC, DVB, IPTV and SAT>IP inputs, a common backend for set-top box clients.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources",
+                "homepage": "https://tvheadend.org",
+                "id": 1208360,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-05T02:24:17Z",
+                "open_issues": 139,
+                "owner": "tvheadend",
+                "repo": "tvheadend",
+                "stars": 3532,
+                "topics": [
+                  "atsc",
+                  "dvb",
+                  "dvb-c",
+                  "dvb-s",
+                  "dvb-s2",
+                  "dvb-t",
+                  "dvb-t2",
+                  "dvr",
+                  "epg",
+                  "hdhomerun",
+                  "htsp",
+                  "iptv",
+                  "json-api",
+                  "mpeg-ts",
+                  "pvr",
+                  "sat-ip",
+                  "scheduled-recording",
+                  "timeshift",
+                  "transcoding",
+                  "xmltv"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OvenMediaEngine",
+              "description": "A real-time streaming server with sub-second latency support. OvenMediaEngine offers WebRTC and Low Latency DASH/HLS for interactive live streaming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS",
+                "homepage": "https://ovenmedia.com",
+                "id": 139194755,
+                "language": "C++",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-06T09:19:26Z",
+                "open_issues": 24,
+                "owner": "OvenMediaLabs",
+                "repo": "OvenMediaEngine",
+                "stars": 3287,
+                "topics": [
+                  "broadcasting",
+                  "cmaf",
+                  "hls",
+                  "large-scale-streaming",
+                  "live-streaming-server",
+                  "lldash",
+                  "llhls",
+                  "low-latency",
+                  "low-latency-dash",
+                  "low-latency-hls",
+                  "low-latency-http",
+                  "ome",
+                  "ovenmediaengine",
+                  "rtmp",
+                  "rtmp-to-webrtc",
+                  "streaming",
+                  "streaming-server",
+                  "sub-second-latency",
+                  "ultra-low-latency",
+                  "webrtc"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Kaltura nginx-vod-module",
+              "description": "An NGINX module for Video on Demand streaming that enables MP4 repackaging and dynamic adaptive streaming (HLS/DASH) support on Nginx servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NGINX-based MP4 Repackager",
+                "homepage": null,
+                "id": 21793531,
+                "language": "C",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-07-05T13:22:22Z",
+                "open_issues": 332,
+                "owner": "kaltura",
+                "repo": "nginx-vod-module",
+                "stars": 2121,
+                "topics": [
+                  "dash",
+                  "drm",
+                  "hds",
+                  "hls",
+                  "livestream",
+                  "mp4",
+                  "mss",
+                  "nginx",
+                  "stream",
+                  "streaming",
+                  "video",
+                  "video-streaming",
+                  "vod"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Docker NGINX RTMP",
+              "description": "A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.",
+                "homepage": "https://hub.docker.com/r/alfg/nginx-rtmp/",
+                "id": 71740508,
+                "language": "XSLT",
+                "license": "MIT",
+                "last_commit": "2024-09-01T01:56:51Z",
+                "open_issues": 17,
+                "owner": "alfg",
+                "repo": "docker-nginx-rtmp",
+                "stars": 1109,
+                "topics": [
+                  "docker",
+                  "ffmpeg",
+                  "hls",
+                  "hls-live-streaming",
+                  "live-streaming",
+                  "nginx-rtmp",
+                  "rtmp",
+                  "twitch"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CasparCG (GitHub)",
+              "description": "A professional open source graphics and video playback server used in TV broadcasting for overlaying graphics, playing videos, and mixing live inputs on multiple outputs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs. It has been in 24/7 broadcast production since 2006. Ready-to-use downloads are available under the Releases tab https://casparcg.com.",
+                "homepage": null,
+                "id": 9024450,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-30T19:40:54Z",
+                "open_issues": 271,
+                "owner": "CasparCG",
+                "repo": "server",
+                "stars": 1092,
+                "topics": [
+                  "broadcast",
+                  "broadcasting",
+                  "c-plus-plus",
+                  "casparcg",
+                  "casparcg-server",
+                  "graphics",
+                  "graphics-engine",
+                  "professional",
+                  "streaming-video",
+                  "video-player",
+                  "video-recording",
+                  "video-streaming"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Gohls",
+              "description": "A server that exposes a directory for video streaming via web interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A server that exposes a directory for video streaming via web interface",
+                "homepage": "https://shimberger.github.io/gohls/",
+                "id": 39337344,
+                "language": "Go",
+                "license": "NOASSERTION",
+                "last_commit": "2023-03-24T08:03:08Z",
+                "open_issues": 11,
+                "owner": "shimberger",
+                "repo": "gohls",
+                "stars": 582,
+                "topics": [
+                  "ffmpeg",
+                  "golang",
+                  "hacktoberfest",
+                  "hls",
+                  "react",
+                  "video-stream",
+                  "videojs"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BLSS",
+              "description": "NGINX-based Live Media Streaming Server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NGINX-based Live Media Streaming Server",
+                "homepage": null,
+                "id": 84809627,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2022-05-06T08:38:09Z",
+                "open_issues": 24,
+                "owner": "gnolizuh",
+                "repo": "BLSS",
+                "stars": 194,
+                "topics": [
+                  "h265",
+                  "hls",
+                  "httpflv",
+                  "httpflv-server",
+                  "livestream",
+                  "nginx",
+                  "rtmp",
+                  "rtmp-server"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DVBlast — lightweight MPEG-TS demux & streamer",
+              "description": "Lightweight, stable MPEG-2/TS demultiplexer and streamer supporting DVB-S/S2/C/T and ASI inputs with RTP/TS output and CAM descrambling for 24/7 IPTV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DVBlast is a simple and powerful MPEG-2/TS demux and streaming application. This repository is mirror of official repo at git://git.videolan.org/dvblast.git and my personal development tree.",
+                "homepage": "http://www.videolan.org/projects/dvblast.html",
+                "id": 2326821,
+                "language": "C",
+                "license": "GPL-2.0",
+                "last_commit": "2021-11-09T18:31:15Z",
+                "open_issues": 4,
+                "owner": "gfto",
+                "repo": "dvblast",
+                "stars": 95,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "video-server — Go RTSP→HLS/MSE restream origin",
+              "description": "Go server connecting to a set of RTSP sources and providing HLS/MSE streams; restream origin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Server which connects to set of existing RTSP's and provides HLS/MSE-based streams.",
+                "homepage": null,
+                "id": 280383651,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-30T15:43:08Z",
+                "open_issues": 3,
+                "owner": "LdDl",
+                "repo": "video-server",
+                "stars": 34,
+                "topics": [
+                  "hacktoberfest",
+                  "hls",
+                  "mse",
+                  "player-video",
+                  "rtsp",
+                  "streaming",
+                  "video",
+                  "video-player"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Minio",
+                  "description": "A high performance object storage server compatible with Amazon S3 APIs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+                    "homepage": null,
+                    "id": 29261473,
+                    "language": "Go",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-04-24T17:54:39Z",
+                    "open_issues": 80,
+                    "owner": "minio",
+                    "repo": "minio",
+                    "stars": 61339,
+                    "topics": [
+                      "amazon-s3",
+                      "cloud",
+                      "cloudnative",
+                      "cloudstorage",
+                      "go",
+                      "k8s",
+                      "kubernetes",
+                      "multi-cloud",
+                      "multi-cloud-kubernetes",
+                      "objectstorage",
+                      "s3",
+                      "storage"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:57:28.010Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rclone",
+                  "description": "Rsync for cloud storage - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+                    "homepage": "https://rclone.org",
+                    "id": 17803236,
+                    "language": "Go",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T09:13:10Z",
+                    "open_issues": 1323,
+                    "owner": "rclone",
+                    "repo": "rclone",
+                    "stars": 60133,
+                    "topics": [
+                      "azure-blob",
+                      "azure-blob-storage",
+                      "azure-files",
+                      "backblaze-b2",
+                      "cloud-storage",
+                      "dropbox",
+                      "encryption",
+                      "ftp",
+                      "fuse-filesystem",
+                      "go",
+                      "golang",
+                      "google-cloud-storage",
+                      "google-drive",
+                      "onedrive",
+                      "openstack-swift",
+                      "rclone",
+                      "s3",
+                      "sftp",
+                      "sync",
+                      "webdav"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:57:28.010Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Swift",
+                  "description": "OpenStack object storage system commonly used for storing and serving large video files at scale.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OpenStack Storage (Swift). Mirror of code maintained at opendev.org.",
+                    "homepage": "https://opendev.org/openstack/swift",
+                    "id": 790019,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-06T06:14:08Z",
+                    "open_issues": 0,
+                    "owner": "openstack",
+                    "repo": "swift",
+                    "stars": 2803,
+                    "topics": [
+                      "service"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:57:28.010Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Storage Solutions"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Streaming Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PeerTube (GitHub)",
+              "description": "ActivityPub-federated video hosting platform using WebRTC P2P in-browser delivery to offload server bandwidth, including live streaming support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+                "homepage": "https://joinpeertube.org/",
+                "id": 45213667,
+                "language": "TypeScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-06T07:02:43Z",
+                "open_issues": 706,
+                "owner": "Chocobozzz",
+                "repo": "PeerTube",
+                "stars": 15345,
+                "topics": [
+                  "activitypub",
+                  "angular",
+                  "decentralized",
+                  "p2p",
+                  "video"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "simple-peer - Simple WebRTC video, voice, and data channels",
+              "description": "Simple WebRTC library for video, voice, and data channels with a concise API. Supports dynamic stream addition, Node.js usage via wrtc, and works in browsers without configuration. Powers many P2P projects including file sharing and video chat applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📡 Simple WebRTC video, voice, and data channels",
+                "homepage": null,
+                "id": 21251069,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2024-06-26T14:45:57Z",
+                "open_issues": 128,
+                "owner": "feross",
+                "repo": "simple-peer",
+                "stars": 7800,
+                "topics": [
+                  "browser",
+                  "data-channels",
+                  "javascript",
+                  "nodejs",
+                  "p2p",
+                  "peer-connection",
+                  "webrtc"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WebRTC-cdn",
+              "description": "Live media CDN over WebRTC: multi-node cluster coordinated via Redis Pub/Sub (Go, Docker) with WHIP/WHEP-style ingest and egress across nodes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Live media content delivery network based on the WebRTC protocol.",
+                "homepage": null,
+                "id": 470064210,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-08-19T12:37:37Z",
+                "open_issues": 0,
+                "owner": "AgustinSRG",
+                "repo": "webrtc-cdn",
+                "stars": 14,
+                "topics": [
+                  "audio",
+                  "cdn",
+                  "go",
+                  "golang",
+                  "video",
+                  "webrtc",
+                  "webrtc-signaling",
+                  "websocket"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Owncast P2P (owncast-p2p)",
+              "description": "Owncast fork adding P2P HLS delivery via SwarmCloud for self-hosted live streaming with peer-assisted bandwidth offload.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box. With P2P Streaming!",
+                "homepage": "https://owncast.online",
+                "id": 1141018619,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-01-24T12:31:19Z",
+                "open_issues": 0,
+                "owner": "cdnbye",
+                "repo": "owncast-p2p",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "P2P Streaming",
+              "description": "Open source WebRTC-based engine for P2P live/VOD streaming directly in a browser page, no plugin required.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page",
+                "homepage": "https://novage.com.ua/p2p-media-loader/demo.html",
+                "id": 860993271,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2024-09-20T14:38:33Z",
+                "open_issues": 0,
+                "owner": "Fizik0",
+                "repo": "p2p-streaming",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Peer-to-Peer Streaming Solutions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DIY-Streaming-CDN",
+              "description": "Reference architecture and OSS stack (OBS + nginx + load balancer) for building a self-hosted livestream CDN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DIY Streaming CDN: We are building our own content delivery network (CDN) for livestream delivery using only open source tools, such as OBS Studio for content creation and nginx as a restream server, web server and load balancer.",
+                "homepage": null,
+                "id": 506366300,
+                "language": "PHP",
+                "license": null,
+                "last_commit": "2026-04-14T20:15:27Z",
+                "open_issues": 0,
+                "owner": "richtertoralf",
+                "repo": "DIY-Streaming-CDN",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nvidia Docker",
+                  "description": "Build and run Docker containers leveraging NVIDIA GPUs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Build and run Docker containers leveraging NVIDIA GPUs",
+                    "homepage": null,
+                    "id": 45557469,
+                    "language": null,
+                    "license": "Apache-2.0",
+                    "last_commit": "2023-12-06T09:16:49Z",
+                    "open_issues": 0,
+                    "owner": "NVIDIA",
+                    "repo": "nvidia-docker",
+                    "stars": 17601,
+                    "topics": [
+                      "cuda",
+                      "docker",
+                      "gpu",
+                      "nvidia-docker"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:57:28.010Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cloud Platforms"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloud & CDN"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ThreeFive SCTE35",
+              "description": "An SCTE-35 parser and decoder for analyzing ad markers in MPEG-TS streams, designed for broadcast workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "threefive is SCTE-35. threefive Parses SCTE-35 in every available format. MPEGTS, HLS, DASH. Yes. ",
+                "homepage": "https://git.futzu.com",
+                "id": 220651237,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-11-27T07:47:57Z",
+                "open_issues": 4,
+                "owner": "futzu",
+                "repo": "threefive",
+                "stars": 163,
+                "topics": [
+                  "ad-insertion",
+                  "ad-splicing",
+                  "adbreak",
+                  "adrian",
+                  "adrianofdoom",
+                  "best",
+                  "best-scte-35",
+                  "best-scte35-parser",
+                  "mpegts",
+                  "python3",
+                  "scte",
+                  "scte-214",
+                  "scte-35",
+                  "scte-67",
+                  "scte35",
+                  "scte35-2022",
+                  "scte35-decoder",
+                  "scte35-encoder",
+                  "scte35-parser",
+                  "threefive"
+                ]
+              },
+              "first_seen": "2026-08-28T04:01:06.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "aws-samples/cloudfront-cmcd-realtime-dashboard",
+              "description": "Grafana dashboard enriching CloudFront logs with CMCD fields (bl/mtp/br/tb) for real-time QoE monitoring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A sample solution for building a dashboard in Grafana for CloudFront logs enriched with CMCD metrics.",
+                "homepage": null,
+                "id": 542484997,
+                "language": "HCL",
+                "license": "MIT-0",
+                "last_commit": "2024-04-23T12:00:55Z",
+                "open_issues": 0,
+                "owner": "aws-samples",
+                "repo": "cloudfront-cmcd-realtime-dashboard",
+                "stars": 31,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenQoE — Open-Source Video QoE Analytics",
+              "description": "Apache-2.0 three-tier QoE stack: JS beaconing SDK (HTML5/Video.js/HLS.js/dash.js/Shaka) → Cloudflare Worker ingest → Prometheus/Grafana dashboards tracking startup time, rebuffer, errors, engagement.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source video Quality of Experience (QoE) monitoring platform. JavaScript SDK for 5 players,   Cloudflare Worker ingestion, and production-ready Grafana dashboards. Monitor VST, rebuffering, errors, and engagement metrics at scale.",
+                "homepage": "https://openqoe.dev",
+                "id": 1089345206,
+                "language": "HTML",
+                "license": "Apache-2.0",
+                "last_commit": "2026-01-31T06:54:43Z",
+                "open_issues": 5,
+                "owner": "openqoe",
+                "repo": "openqoe-dev",
+                "stars": 8,
+                "topics": [
+                  "cloudflare-workers",
+                  "dash",
+                  "grafana",
+                  "grafana-dashboard",
+                  "grafana-prometheus",
+                  "hls",
+                  "html5player",
+                  "mimir",
+                  "observability",
+                  "opensource",
+                  "opensource-projects",
+                  "prometheus",
+                  "qoe-monitoring",
+                  "shaka-player",
+                  "video-analytics",
+                  "video-metrics",
+                  "video-player",
+                  "video-streaming",
+                  "videojs"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NUStreaming/CMSD-DASH — CMSD in dash.js",
+              "description": "NUS implementation of CMSD in dash.js from the Mile-High Video paper on server-data-driven adaptation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 433691408,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2022-02-19T01:26:05Z",
+                "open_issues": 0,
+                "owner": "NUStreaming",
+                "repo": "CMSD-DASH",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "realeyes-media/cta-wave-cmcd-lib — CMCD SDK",
+              "description": "CMCD SDK with examples for Android/Kotlin and TS/JS, including hls.js and ExoPlayer CMCDManager implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Common Media Client Data SDK and Example Implementations",
+                "homepage": null,
+                "id": 297408306,
+                "language": "Kotlin",
+                "license": "MIT",
+                "last_commit": "2021-02-08T21:05:59Z",
+                "open_issues": 0,
+                "owner": "realeyes-media",
+                "repo": "cta-wave-cmcd-lib",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "unifiedstreaming/origin-cmsd — CMSD Server PoC",
+              "description": "Varnish-based proof-of-concept implementing CMSD (Common Media Server Data) at the origin/CDN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Origin PoC for CTA CMSD proposal",
+                "homepage": null,
+                "id": 459967427,
+                "language": "VCL",
+                "license": null,
+                "last_commit": "2022-05-12T09:07:53Z",
+                "open_issues": 0,
+                "owner": "unifiedstreaming",
+                "repo": "origin-cmsd",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Streaming Analytics & Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RasoulNik/VoD — RL-based Edge Caching",
+              "description": "Research repo implementing reinforcement-learning-based edge caching for VOD, with an nginx edge node and ML cache-eviction policy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Video-on-demand streaming using RL-based edge caching ",
+                "homepage": null,
+                "id": 518412828,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-09-02T14:56:28Z",
+                "open_issues": 0,
+                "owner": "RasoulNik",
+                "repo": "VoD",
+                "stars": 20,
+                "topics": [
+                  "docker-compose",
+                  "ffmpeg",
+                  "flask-application",
+                  "hls-stream",
+                  "nginx-server",
+                  "reinforcement-learning",
+                  "video-on-demand"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Edge Computing & Caching Solutions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Streama",
+              "description": "Self hosted streaming media server. HTTPS://docs.streama-project.com/.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self hosted streaming media server. https://docs.streama-project.com/",
+                "homepage": null,
+                "id": 39890823,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-08-09T20:24:33Z",
+                "open_issues": 352,
+                "owner": "streamaserver",
+                "repo": "streama",
+                "stars": 9819,
+                "topics": [
+                  "media",
+                  "media-player",
+                  "media-server",
+                  "streaming",
+                  "video-player",
+                  "video-streaming"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Marsha",
+              "description": "A self-hosted opensource LTI video provider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ":clapper: An opensource LTI Learning Content Management System (LCMS)",
+                "homepage": null,
+                "id": 129740507,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-06T10:49:02Z",
+                "open_issues": 88,
+                "owner": "openfun",
+                "repo": "marsha",
+                "stars": 152,
+                "topics": [
+                  "bigbluebutton",
+                  "django",
+                  "edx",
+                  "learning",
+                  "live",
+                  "lti",
+                  "moodle",
+                  "openedx",
+                  "python",
+                  "reactjs",
+                  "streaming",
+                  "terraform",
+                  "video",
+                  "webinar"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Channel Engine",
+              "description": "Engine for generating linear OTT TV channels from VOD content. Useful for creating 24/7 streaming channels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open Source FAST Channel Engine library based on VOD2Live technology",
+                "homepage": "https://app.osaas.io/dashboard/service/channel-engine",
+                "id": 124886626,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-02T07:43:24Z",
+                "open_issues": 4,
+                "owner": "Eyevinn",
+                "repo": "channel-engine",
+                "stars": 134,
+                "topics": [
+                  "service"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Tube",
+              "description": "A YouTube-like (without censorship and features you don't need!).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📺 tube is a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed.",
+                "homepage": null,
+                "id": 385401510,
+                "language": null,
+                "license": null,
+                "last_commit": "2021-07-12T22:37:02Z",
+                "open_issues": 0,
+                "owner": "prologic",
+                "repo": "tube",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Djmediastreamer",
+              "description": "A Django project that allows you to catalog and stream your videos (using FFmpeg to add subtitles and transcode).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Django project that allows you to catalog and stream your videos (using FFmpeg to add subtitles and transcode).",
+                "homepage": null,
+                "id": 64862773,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2019-03-10T23:35:47Z",
+                "open_issues": 0,
+                "owner": "davidbt",
+                "repo": "djmediastreamer",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pseudo Live Playout",
+              "description": "Contribute to Eyevinn/pseudo-live-playout development by creating an account on GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 105746123,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2017-11-07T15:30:17Z",
+                "open_issues": 0,
+                "owner": "Eyevinn",
+                "repo": "pseudo-live-playout",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VOD Streaming Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NGINX S3 Proxy",
+              "description": "Nginx compiled with aws-auth support, suitable for S3 reverse proxy usage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "nginx compiled with aws-auth support, suitable for S3 reverse proxy usage",
+                "homepage": null,
+                "id": 39523173,
+                "language": null,
+                "license": null,
+                "last_commit": "2020-06-24T13:23:48Z",
+                "open_issues": 2,
+                "owner": "coopernurse",
+                "repo": "nginx-s3-proxy",
+                "stars": 153,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Adxchange Engine",
+              "description": "Eyevinn Adxchange Engine is a microservice placed between the server-side ad-insertion component and the adserver or SSP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Eyevinn Adxchange Engine is a microservice placed between the server-side ad-insertion component and the adserver or SSP",
+                "homepage": null,
+                "id": 125263036,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2018-03-23T19:28:43Z",
+                "open_issues": 0,
+                "owner": "Eyevinn",
+                "repo": "adxchange-engine",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Vmapproxy",
+              "description": "Proxy service from Eyevinn for handling VMAP and VAST ad insertion metadata in video streams.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple VMAP / VAST proxy",
+                "homepage": null,
+                "id": 152591542,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2018-10-30T15:22:25Z",
+                "open_issues": 0,
+                "owner": "Eyevinn",
+                "repo": "vmapproxy",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CDN Integration & Distribution"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SRT Open Source project",
+              "description": "Open source implementation of the Secure Reliable Transport protocol for low-latency video streaming over unreliable networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Secure, Reliable, Transport",
+                "homepage": "https://www.srtalliance.org",
+                "id": 87443396,
+                "language": "C++",
+                "license": "MPL-2.0",
+                "last_commit": "2026-10-06T08:46:22Z",
+                "open_issues": 374,
+                "owner": "Haivision",
+                "repo": "srt",
+                "stars": 3609,
+                "topics": [
+                  "c-plus-plus",
+                  "live-streaming",
+                  "low-latency",
+                  "multimedia",
+                  "srt",
+                  "transport"
+                ]
+              },
+              "first_seen": "2026-08-28T04:01:06.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Media Server",
+              "description": "RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM",
+                "homepage": null,
+                "id": 15598496,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-05-26T03:38:10Z",
+                "open_issues": 108,
+                "owner": "ireader",
+                "repo": "media-server",
+                "stars": 3520,
+                "topics": [
+                  "flv",
+                  "fmp4",
+                  "hls",
+                  "m3u",
+                  "m3u8",
+                  "mkv",
+                  "mp4",
+                  "mpeg-dash",
+                  "ps",
+                  "rtmp",
+                  "rtp",
+                  "rtsp",
+                  "sdp",
+                  "sip",
+                  "ts",
+                  "webm"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Red5 Server",
+              "description": "Open source media server supporting RTMP, HLS, and WebRTC streaming protocols in Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Red5 Server core",
+                "homepage": null,
+                "id": 14514767,
+                "language": "HTML",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-02T20:15:42Z",
+                "open_issues": 11,
+                "owner": "Red5",
+                "repo": "red5-server",
+                "stars": 3417,
+                "topics": [
+                  "aac",
+                  "eclipse",
+                  "flash",
+                  "flv",
+                  "java",
+                  "live-streaming",
+                  "mp4",
+                  "red5",
+                  "red5-server",
+                  "red5pro",
+                  "streaming",
+                  "vod"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Dtt2ip",
+              "description": "Broadcast to IP conversion for Wifi indoor coverage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Broadcast to IP conversion for Wifi indoor coverage",
+                "homepage": null,
+                "id": 36069828,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2016-03-21T10:11:03Z",
+                "open_issues": 0,
+                "owner": "ebu",
+                "repo": "dtt2ip",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Dvbshout",
+              "description": "Takes an MPEG transport stream from a DVB card, extracts audio channels from stream, and sends the audio to an Icecast / Shoutcast server and/or a RTP multicast packet stream.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "dvbshout takes an MPEG transport stream from a DVB card, extracts audio channels from stream, and sends the audio to an Icecast / Shoutcast server and/or a RTP multicast packet stream.",
+                "homepage": "http://www.aelius.com/njh/dvbshout/",
+                "id": 849734,
+                "language": "C",
+                "license": "GPL-2.0",
+                "last_commit": "2021-07-29T16:33:44Z",
+                "open_issues": 1,
+                "owner": "njh",
+                "repo": "dvbshout",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RTMPRTSPHTTP Protocol Servers"
         }
       ],
       "title": "Infrastructure & Delivery"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebDSP",
+          "description": "A client-side signal processing library utilizing WebAssembly to perform high-performance operations on media data. It offers a collection of algorithms for video and image processing, including filters like grayscale, brighten, invert, and convolutional filters, designed to be building blocks for web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A client-side signal processing library utilizing the power of WebAssembly (.wasm)",
+            "homepage": "http://tiny.cc/webdsp",
+            "id": 84898164,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2017-06-05T05:36:36Z",
+            "open_issues": 7,
+            "owner": "shamadee",
+            "repo": "web-dsp",
+            "stars": 1483,
+            "topics": [
+              "dsp",
+              "wasm",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WasmVideoPlayer",
+          "description": "A web-based video player that utilizes WebAssembly, WebGL, and Web Audio API, with FFmpeg for multi-codec support, including H.265. It supports various streaming protocols such as HTTP, WebSocket, and HTTP-FLV. This project is valuable for developers aiming to implement versatile video playback solutions in web environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Play file/stream with wasm & webgl & web audio api, using ffmpeg for multi codec support, especially for h265，support http, websocket, http-flv stream.",
+            "homepage": null,
+            "id": 164556523,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2020-02-22T10:53:48Z",
+            "open_issues": 43,
+            "owner": "sonysuqin",
+            "repo": "WasmVideoPlayer",
+            "stars": 1391,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "webm-WebAssembly",
+          "description": "Enables creating WebM videos directly in JavaScript via WebAssembly. It consumes raw RGBA32 buffers, making it compatible with ImageData from a canvas, and converts them into WebM video.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": " webm-wasm lets you create webm videos in JavaScript via WebAssembly.",
+            "homepage": null,
+            "id": 163699219,
+            "language": "C++",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-30T11:44:24Z",
+            "open_issues": 34,
+            "owner": "GoogleChromeLabs",
+            "repo": "webm-wasm",
+            "stars": 409,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wasmVision",
+          "description": "A high-performance computer vision processing engine designed to be customized and extended using WebAssembly. It captures video from various sources, processes frames with WebAssembly modules, and outputs results to streams or files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "wasmVision gets you going with computer vision using WebAssembly.",
+            "homepage": "https://wasmvision.com",
+            "id": 857294975,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-02-16T10:21:03Z",
+            "open_issues": 2,
+            "owner": "wasmvision",
+            "repo": "wasmvision",
+            "stars": 247,
+            "topics": [
+              "c-language",
+              "computer-vision",
+              "golang",
+              "opencv",
+              "rust",
+              "tinygo",
+              "wasi",
+              "wasm",
+              "wasmcv",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly-av1",
+          "description": "A project that ports the AV1 video codec to WebAssembly, allowing in-browser decoding of AV1 videos. This enables developers to experiment with and implement AV1 video playback directly within web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Port of the AV1 Video codec to WebAssembly",
+            "homepage": null,
+            "id": 143767580,
+            "language": "C",
+            "license": "Apache-2.0",
+            "last_commit": "2019-01-26T22:26:46Z",
+            "open_issues": 5,
+            "owner": "GoogleChromeLabs",
+            "repo": "wasm-av1",
+            "stars": 161,
+            "topics": [
+              "video-processing",
+              "web",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WasmVideoEncoder",
+          "description": "Utilizes FFmpeg compiled to WebAssembly to provide video encoding capabilities directly in the browser. It encodes raw image and audio data into MP4 format, making it suitable for applications like music video creation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A videoencoder for the browser using FFmpeg with WebAssembly (for use in musicvid.org)",
+            "homepage": "http://videoncoder.s3-website.eu-central-1.amazonaws.com/",
+            "id": 123799507,
+            "language": "C",
+            "license": null,
+            "last_commit": "2022-12-09T05:02:02Z",
+            "open_issues": 18,
+            "owner": "AlexVestin",
+            "repo": "WasmVideoEncoder",
+            "stars": 144,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVVC: A Lightweight Software Decoder for the Versatile Video Coding Standard",
+          "description": "An open-source software decoder developed by researchers that supports a broad range of VVC functionalities. OpenVVC is designed to achieve real-time decoding of UHD video content with low memory requirements, making it suitable for embedded platforms. The source code is available on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "VVC Decoder",
+            "homepage": null,
+            "id": 138278723,
+            "language": "C",
+            "license": "LGPL-2.1",
+            "last_commit": "2022-09-09T10:26:08Z",
+            "open_issues": 10,
+            "owner": "OpenVVC",
+            "repo": "OpenVVC",
+            "stars": 133,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wasmbooth: Video Filter Booth App Written in Rust",
+          "description": "Wasmbooth is a video effect booth application written in Rust and WebAssembly. It streams webcam input into an offscreen video element, processes each frame with selected filters, and displays the output on a visible canvas. The project serves as a learning resource for integrating Rust with WebAssembly for video processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Wasm video filter booth app written in Rust",
+            "homepage": "https://mtharrison.github.io/wasmbooth/",
+            "id": 131169063,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2019-12-31T18:17:12Z",
+            "open_issues": 0,
+            "owner": "mtharrison",
+            "repo": "wasmbooth",
+            "stars": 84,
+            "topics": [
+              "image-processing",
+              "javascript",
+              "rust",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "video-editor-WebAssembly-react",
+          "description": "A web-based video editor built with React and WebAssembly, featuring functionalities like video trimming and conversion to GIF. It leverages FFmpeg.WebAssembly to perform video processing directly in the browser, offering a seamless user experience without server-side dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Video editor with Wasm and React running entire in the browser, includes simple trimming control and a button to convert the video to a git.",
+            "homepage": "https://img.ly/showcases/cesdk/video-ui/web",
+            "id": 540162383,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2024-08-19T12:47:47Z",
+            "open_issues": 1,
+            "owner": "imgly",
+            "repo": "video-editor-wasm-react",
+            "stars": 83,
+            "topics": [
+              "ffmpeg",
+              "ffmpeg-wasm",
+              "gif-converter",
+              "react-video",
+              "react-video-editor",
+              "trim-videos",
+              "video-editor",
+              "video-editor-js",
+              "wasm-react"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mp4-WebAssembly-encoder",
+          "description": "A client-side MP4 encoding demo that leverages WebAssembly and Web Workers to create H.264-encoded MP4 videos in the browser. It focuses on performance optimization and minimal dependency size, making it suitable for web applications requiring efficient video encoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://mattdesl.github.io/mp4-wasm-encoder/",
+            "id": 318012163,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2020-12-09T10:02:32Z",
+            "open_issues": 2,
+            "owner": "mattdesl",
+            "repo": "mp4-wasm-encoder",
+            "stars": 76,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "webassembly-pixel-processing",
+          "description": "A project that showcases how to access raw pixel data from a video feed using Rust and WebAssembly. It's particularly useful for developers interested in real-time video processing and analysis directly in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Access raw pixel data from a video feed using Rust and WebAssembly",
+            "homepage": null,
+            "id": 272548305,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2023-01-20T22:41:23Z",
+            "open_issues": 14,
+            "owner": "Fallenstedt",
+            "repo": "webassembly-pixel-processing",
+            "stars": 66,
+            "topics": [
+              "react",
+              "rust",
+              "webassembly",
+              "webpack"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FrameFlow",
+          "description": "A high-performance video processing library for web browsers, leveraging WebCodecs and FFmpeg compiled to WebAssembly. It supports hardware acceleration in Chromium-based browsers and offers features like stream processing, metadata extraction, and various video filters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A both speedy and compatible video processing library for Web Browser, based on WebCodecs and FFmpeg (WebAssembly).",
+            "homepage": "https://frameflow.netlify.app/",
+            "id": 572941928,
+            "language": "TypeScript",
+            "license": "LGPL-2.1",
+            "last_commit": "2025-10-28T02:05:26Z",
+            "open_issues": 2,
+            "owner": "carsonDB",
+            "repo": "frameflow",
+            "stars": 58,
+            "topics": [
+              "emscripten",
+              "ffmpeg",
+              "video",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FFmpeg-WebAssembly",
+          "description": "A WebAssembly port of FFmpeg, providing scripts and commands to build FFmpeg for WebAssembly. It powers applications like wide.video, a free online video editor, and FFmpeg.wide.video, an online FFmpeg tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "WebAssembly port of FFmpeg",
+            "homepage": null,
+            "id": 433336507,
+            "language": "Shell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-07T13:30:06Z",
+            "open_issues": 0,
+            "owner": "wide-video",
+            "repo": "ffmpeg-wasm",
+            "stars": 21,
+            "topics": [
+              "ffmpeg"
+            ]
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "libmpv-WebAssembly",
+          "description": "A port of the mpv media player to WebAssembly, allowing it to run entirely in the browser. It aims to expand the range of audio and video codecs supported in web applications and provides a TypeScript API along with a React demo. This project is valuable for developers looking to integrate a comprehensive media player into web applications with broad codec support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://libmpv-wasm.vercel.app",
+            "id": 801483407,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2024-10-19T12:50:25Z",
+            "open_issues": 12,
+            "owner": "brianhvo02",
+            "repo": "libmpv-wasm",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly-resources",
+          "description": "A curated list of projects, companies, and videos related to WebAssembly, documenting various interesting aspects of the WebAssembly ecosystem. This resource is valuable for developers seeking to explore and learn about different applications of WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of projects, companies, and videos related to WebAssembly to document the interesting things I find as I explore the ecosystem.",
+            "homepage": null,
+            "id": 344774523,
+            "language": null,
+            "license": null,
+            "last_commit": "2022-11-24T13:02:50Z",
+            "open_issues": 0,
+            "owner": "byrnemluke",
+            "repo": "wasm-resources",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Tizen WebAssembly Video Decoder - Sample Application",
+          "description": "A sample application demonstrating the use of Tizen WebAssembly Video Decoder to play media on Samsung Smart TV devices using a WebAssembly module. It showcases the integration of WebAssembly for media playback in smart TV applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sample WebAssembly applications for Tizen TVs",
+            "homepage": null,
+            "id": 273506726,
+            "language": "C++",
+            "license": null,
+            "last_commit": "2022-11-19T03:08:43Z",
+            "open_issues": 3,
+            "owner": "SamsungDForum",
+            "repo": "WebAssemblyDemos",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly Video Filters",
+          "description": "This project implements performant video filters in the browser using WebAssembly. It includes various video scopes such as lumascope, RGB parade, and vectorscope, written in C++ and translated to WebAssembly for efficient in-browser video processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Performant video filters in a browser using webassembly. Implements various video scopes such as lumascope, rgb parade, and vector scope.",
+            "homepage": null,
+            "id": 329477435,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-19T23:26:33Z",
+            "open_issues": 0,
+            "owner": "HiDoYa",
+            "repo": "webassembly-video-filters",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wasmplayer",
+          "description": "A WebAssembly-based player capable of playing H.264 videos using FFmpeg. This project demonstrates the potential of running complex video decoding tasks directly in the browser, reducing the need for native plugins or server-side processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "webassembly to play h264 video with ffmpeg",
+            "homepage": null,
+            "id": 181391635,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2019-04-15T03:03:13Z",
+            "open_issues": 1,
+            "owner": "dolphin-run",
+            "repo": "wasmplayer",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Learned Scalable Video Coding For Humans and Machines",
+          "description": "An end-to-end learnable video codec that supports machine vision tasks in its base layer and input reconstruction for human viewing in its enhancement layer. It introduces a new paradigm for video coding that efficiently represents and compresses video for both machine and human use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 885921163,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-11-10T19:30:13Z",
+            "open_issues": 1,
+            "owner": "quchanhub",
+            "repo": "svc",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "server-side-WebAssembly-video-editing",
+          "description": "This project demonstrates how to build server-side applications that utilize SecondState's WebAssembly VM for video editing. It showcases frame-by-frame, pixel-by-pixel processing using native WebAssembly data types, providing a foundation for developers interested in leveraging WebAssembly for server-side video processing tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An example of how to build a third-party application that uses SecondState's Wasm VM to edit video on the server side. This prototype shows how video can undergo frame-by-frame, pixel-by-pixel processing using native Wasm data only i.e. pixel as i32",
+            "homepage": null,
+            "id": 261073735,
+            "language": "HTML",
+            "license": "Apache-2.0",
+            "last_commit": "2020-05-05T23:14:30Z",
+            "open_issues": 0,
+            "owner": "second-state",
+            "repo": "server-side-wasm-video-editing",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly-codecs",
+          "description": "Combines libde265 and libopus into a single WebAssembly file, providing H.265 (HEVC) and Opus decoding capabilities for web applications. This project enables efficient decoding of high-quality video and audio streams directly in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Wasm libde265 and libopus",
+            "homepage": null,
+            "id": 320937993,
+            "language": "C",
+            "license": null,
+            "last_commit": "2020-12-12T22:57:25Z",
+            "open_issues": 1,
+            "owner": "adminy",
+            "repo": "wasm-codecs",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "react-WebAssembly-video-editor",
+          "description": "This project integrates WebAssembly with React to create a video editor using FFmpeg. It serves as an example of how to build interactive video editing applications in the browser, leveraging the performance benefits of WebAssembly combined with the flexibility of React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "React/Wasm ffmeg video editor",
+            "homepage": null,
+            "id": 675576508,
+            "language": "CSS",
+            "license": null,
+            "last_commit": "2023-08-07T22:02:17Z",
+            "open_issues": 0,
+            "owner": "mike-at-redspace",
+            "repo": "react-wasm-video-editor",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly-video-editor",
+          "description": "A video editor built using WebAssembly and FFmpeg, this project provides a practical example of utilizing WebAssembly for client-side video editing tasks. It demonstrates the potential of combining WebAssembly with powerful multimedia libraries like FFmpeg to create efficient and responsive web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A video editor built using WASM and FFMPEG",
+            "homepage": null,
+            "id": 701823499,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2023-11-17T08:15:02Z",
+            "open_issues": 0,
+            "owner": "metal-face",
+            "repo": "WASM-video-editor",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:57:28.010Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Codec Wiki",
+              "description": "Community-maintained reference documenting codecs and quality metrics (XPSNR, SSIMULACRA2, etc.), with definitions and practical usage guidance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AV1 Community Wiki",
+                "homepage": "https://codecs.wiki",
+                "id": 647514492,
+                "language": "MDX",
+                "license": null,
+                "last_commit": "2026-08-07T09:58:07Z",
+                "open_issues": 5,
+                "owner": "av1-community-contributors",
+                "repo": "codec-wiki",
+                "stars": 102,
+                "topics": [
+                  "aac",
+                  "av1",
+                  "compression",
+                  "encoding",
+                  "h264",
+                  "h265",
+                  "opus"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Learning Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Digital Video Introduction",
+              "description": "A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (FFmpeg encoding).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸",
+                "homepage": "https://github.com/leandromoreira/introduction_video_technology",
+                "id": 80256824,
+                "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-09-02T21:43:42Z",
+                "open_issues": 19,
+                "owner": "leandromoreira",
+                "repo": "digital_video_introduction",
+                "stars": 16342,
+                "topics": [
+                  "adaptive-streaming",
+                  "arithmetic-coding",
+                  "audio",
+                  "av1",
+                  "bitstream",
+                  "codec",
+                  "compression",
+                  "dash",
+                  "ffmpeg",
+                  "frame-types",
+                  "guide",
+                  "h264",
+                  "h265",
+                  "handson",
+                  "hls",
+                  "learning",
+                  "tutorial",
+                  "video",
+                  "video-codec",
+                  "vp9"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FFmpeg Encoding Course",
+              "description": "An introduction to FFmpeg and its tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An introduction to FFmpeg and its tools",
+                "homepage": "https://slhck.info/ffmpeg-encoding-course/",
+                "id": 93641472,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2020-07-21T18:18:24Z",
+                "open_issues": 0,
+                "owner": "slhck",
+                "repo": "ffmpeg-encoding-course",
+                "stars": 111,
+                "topics": [
+                  "encoding",
+                  "ffmpeg",
+                  "video"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Encoding & Transcoding Guides"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Netfix",
+              "description": "Educational project walking through building a Netflix-like streaming platform. Demonstrates VOD architecture basics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Let's build a Netflix",
+                "homepage": "http://nickdesaulniers.github.io/netfix",
+                "id": 36887945,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2015-06-30T22:33:33Z",
+                "open_issues": 9,
+                "owner": "nickdesaulniers",
+                "repo": "netfix",
+                "stars": 173,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SDK Development Guide",
+              "description": "Contribute to rokudev/SDK-Development-Guide development by creating an account on GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 95723242,
+                "language": null,
+                "license": null,
+                "last_commit": "2017-06-29T01:18:19Z",
+                "open_issues": 1,
+                "owner": "rokudev",
+                "repo": "SDK-Development-Guide",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Player Development Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WebRTC-Experiment",
+              "description": "A repository of WebRTC experimental demos by Muaz Khan, including source code for various real-time communication use cases (screen sharing, peer connections, recording, etc.).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!",
+                "homepage": "https://www.webrtc-experiment.com/",
+                "id": 6683352,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2022-06-15T09:37:48Z",
+                "open_issues": 538,
+                "owner": "muaz-khan",
+                "repo": "WebRTC-Experiment",
+                "stars": 12051,
+                "topics": [
+                  "webrtc",
+                  "webrtc-demos",
+                  "webrtc-examples",
+                  "webrtc-experiments",
+                  "webrtc-libraries",
+                  "webrtc-samples",
+                  "webrtc-tools"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FFmpeg Libav Tutorial",
+              "description": "Learn how media works from basic to transmuxing, transcoding and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺",
+                "homepage": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
+                "id": 109762904,
+                "language": "C",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-06-18T14:18:13Z",
+                "open_issues": 42,
+                "owner": "leandromoreira",
+                "repo": "ffmpeg-libav-tutorial",
+                "stars": 11053,
+                "topics": [
+                  "codec",
+                  "ffmpeg",
+                  "ffmpeg-libraries",
+                  "libav",
+                  "transcode-video",
+                  "tutorial",
+                  "video-processing"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "YouTube-upload",
+              "description": "A command-line Python script that uploads videos to YouTube using the YouTube Data API, facilitating automated or batch uploads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Upload videos to Youtube from the command line",
+                "homepage": null,
+                "id": 29013480,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-04-25T10:30:25Z",
+                "open_issues": 114,
+                "owner": "tokland",
+                "repo": "youtube-upload",
+                "stars": 2191,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HTTP Video Streaming Troubleshooting",
+              "description": "A collection of fixes / problem solutions to HTTP video streaming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of fixes / problem solutions to HTTP video streaming",
+                "homepage": null,
+                "id": 162202880,
+                "language": null,
+                "license": "BSD-3-Clause",
+                "last_commit": "2020-08-19T22:34:30Z",
+                "open_issues": 0,
+                "owner": "leandromoreira",
+                "repo": "http-video-streaming-troubleshooting",
+                "stars": 81,
+                "topics": [
+                  "hls",
+                  "http-streaming",
+                  "mobile",
+                  "mpeg-dash",
+                  "troubleshooting",
+                  "tv",
+                  "video"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Galicaster",
+              "description": "An open source lecture capture system often used with the Opencast platform. It provides an interface for recording multiple video sources (camera, slides) in classrooms or conferences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Galicaster Project is an open initiative to provide flexible, state-of-the-art solutions for recording educational multimedia contents like lectures and conferences",
+                "homepage": "galicaster.teltek.es",
+                "id": 3991445,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2024-07-30T09:05:58Z",
+                "open_issues": 90,
+                "owner": "teltek",
+                "repo": "Galicaster",
+                "stars": 36,
+                "topics": [
+                  "gstreamer",
+                  "gtk",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials & Case Studies"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Streaming Onboarding",
+              "description": "New to streaming and don't know where to start? This is the place for you!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "New to streaming and don't know where to start? This is the place for you!",
+                "homepage": null,
+                "id": 123580857,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-03-17T06:38:07Z",
+                "open_issues": 20,
+                "owner": "Eyevinn",
+                "repo": "streaming-onboarding",
+                "stars": 576,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:01:06.455Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Live Stream",
+              "description": "WebRTC && Nginx && DASH && Quic 学习资料收集，持续更新中.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中",
+                "homepage": null,
+                "id": 136298911,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-06-16T13:57:50Z",
+                "open_issues": 1,
+                "owner": "liwf616",
+                "repo": "awesome-live-stream",
+                "stars": 471,
+                "topics": [
+                  "dash",
+                  "ffmpeg",
+                  "fmp4",
+                  "hls",
+                  "hls-fmp4",
+                  "mp4box",
+                  "nginx",
+                  "quic",
+                  "rtmp",
+                  "webrtc"
+                ]
+              },
+              "first_seen": "2026-10-06T10:57:28.010Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video Streaming Tutorials"
+        }
+      ],
+      "title": "Intro & Learning"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:06:04.473Z",
+    "last_updated": "2026-10-06T10:57:28.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.",
@@ -28351,7 +31463,7 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-07-20T18:42:39Z",
-      "open_issues": 64,
+      "open_issues": 65,
       "owner": "krzemienski",
       "repo": "awesome-video",
       "stars": 1925,
